@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-07-06 23:24:48", "timestamp": 1562426688, "vertices": [{"count": 80, "name": "eyebrow"}], "type": "eyebrow", "bundleName": "dress_t_1562426688", "triangles": [{"count": 112, "name": "eyebrow"}], "assets": ["dress.bin", "eyebrow_albedo.etc"]}

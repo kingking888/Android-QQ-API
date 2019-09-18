@@ -1,0 +1,93 @@
+.class Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Landroid/content/DialogInterface$OnClickListener;
+
+
+# instance fields
+.field final synthetic this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+
+# direct methods
+.method constructor <init>(Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;)V
+    .locals 0
+
+    .prologue
+    .line 248
+    iput-object p1, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onClick(Landroid/content/DialogInterface;I)V
+    .locals 4
+
+    .prologue
+    .line 252
+    iget-object v0, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v0, v0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$activity:Landroid/app/Activity;
+
+    iget-object v1, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v1, v1, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$appid:Ljava/lang/String;
+
+    iget-object v2, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v2, v2, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$packageName:Ljava/lang/String;
+
+    invoke-static {v0, v1, v2}, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin;->access$100(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 253
+    iget-object v0, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v0, v0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$eventName:Ljava/lang/String;
+
+    const/4 v1, 0x0
+
+    invoke-static {v0, v1}, Lcom/tencent/mobileqq/mini/util/ApiUtil;->wrapCallbackOk(Ljava/lang/String;Lorg/json/JSONObject;)Lorg/json/JSONObject;
+
+    move-result-object v0
+
+    .line 254
+    if-eqz v0, :cond_1
+
+    invoke-virtual {v0}, Lorg/json/JSONObject;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    .line 255
+    :goto_0
+    if-eqz v0, :cond_0
+
+    .line 256
+    iget-object v1, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v1, v1, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->this$0:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin;
+
+    iget-object v2, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget-object v2, v2, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$eventName:Ljava/lang/String;
+
+    iget-object v3, p0, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3$1;->this$1:Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;
+
+    iget v3, v3, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin$3;->val$seq:I
+
+    invoke-virtual {v1, v2, v0, v3}, Lcom/tencent/mobileqq/mini/out/plugins/InternalJSPlugin;->handleNativeResponse(Ljava/lang/String;Ljava/lang/String;I)V
+
+    .line 258
+    :cond_0
+    return-void
+
+    .line 254
+    :cond_1
+    const-string v0, ""
+
+    goto :goto_0
+.end method

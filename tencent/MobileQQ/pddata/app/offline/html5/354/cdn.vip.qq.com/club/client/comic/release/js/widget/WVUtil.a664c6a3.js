@@ -1,0 +1,16 @@
+define("widget/WVUtil",["lib/zepto","business/common","zepto","business/router","piggy/util/cookie","business/jsbridge","piggy/util/cacheData","piggy/util/tpl","piggy/util/uri","piggy/util/report","piggy/util/process"],function(a,b,c){
+var d=a("lib/zepto"),e=a("business/common"),f=a("business/jsbridge"),g=a("piggy/util/uri"),h=a("business/router");c.exports={openComicDetail:function(a,b){if(a&&a.id){var c,d=this;a._cwv=1,a._wv=null,a.type>=100&&a.type<=300?(c="video",
+e.getVideoInitPlayParam(function(e){2!=a.player&&1==e&&(a.init_player=1),d.openComicWV(c,a,!0),b&&b()})):(c="detail",d.openComicWV(c,a,!0))}},openComicTab:function(a){var b=this,c={};a.from&&(c.from=a.from,
+c._cfrom=a.from),a.maintab&&(c.maintab=a.maintab),0!==a.back_to_dynamic&&1!==a.back_to_dynamic?c.back_to_dynamic=a.maintab?0:1:c.back_to_dynamic=a.back_to_dynamic,a.extUrlParam&&(c.extUrlParam=a.extUrlParam),
+c.newInstance=!0,b.openWebview(c,e.iOS?"QQVIPFunctionComicPortalViewController":"cooperation.comic.VipComicJumpActivity")},openComicRead:function(a,b){var c={},d=this;c.comicID=String(a.id),c.comicSectionID=String(a.sectionID),
+c.comicPageID=a.pageID?String(a.pageID):"",c.comicPageOffset=a.pageOffset,c.type=a.type||"",c.from=a.from,c.src=a.src||6,c.returnToDetail=a.returnToDetail||!1,!e.isComicWebView&&e.android?d.openWebview({
+jumpto:"com.qqcomic.activity.reader.VipComicPortraitReadingActivity",from:c.from,comic:c}):f.invoke("mqq.comic.startRead",c,function(a){a.result=a.code,delete a.code,b&&b(a)})},openNormalWV:function(a,b){
+b=this.params(a,b),b._wv-=2&b._wv;var c=h.createUrl(a,b),d=this;e.android?e.isComicWebView?f.invoke("mqq.comic.openQQBrowser",{url:c}):d.openUrl(c):e.iOS&&e.compareVersion(e.QQVersion,"6.5.5")>=0?f.invoke("mqq.ui.openView",{
+name:"QQWebViewController",options:{url:c}}):e.iOS?f.invoke("mqq.ui.openView",{name:"QQVIPFunctionComicWebViewController",options:{url:c}}):d.openUrl(c)},openComicWV:function(a,b){b=this.params(a,b),e.android&&!e.isPureComicWebView&&(b._webviewtype=4),
+2==b.player&&delete b.init_player;var c=h.createUrl(a,b),d=this;e.android&&!e.isPureComicWebView?d.openWebview({jumpto:"com.qqcomic.activity.VipComicTabBrowserActivity",url:c,from:b.from,_cfrom:b.from}):e.iOS&&e.compareVersion(e.QQVersion,"6.0")>=0?d.openWebview({
+url:c,style:1&b._cwv?12:4,from:b.from,_cfrom:b.from}):d.openUrl(c)},params:function(a,b){var c=g.parseQueryString(g.parseUrl(a).search);b=d.extend(c,b);var f=4|(b._wwv||4),h=b._wv||1342777187,i=1&b._cwv;
+return i?h=16777216|h:h-=16777216&h,e.android&&268435456&h&&(h-=8192&h),d.extend(b,{_bid:354,_wv:h,_wwv:f})},_isTransparent:function(a){var b=g.parseQueryString(a),c=b._cwv;return 1&c},openUrl:function(a){
+var b=h.getParams("__iscomic");1==b&&e.android&&e.compareVersion(e.QQVersion,"7.7.0")<0?f.invoke("mqq.ui.openUrl",{url:a,target:1,style:0,useNewConfig:!0}):f.invoke("mqq.ui.openUrl",{url:a,target:1,style:0
+})},openWebview:function(a,b){f.invoke("mqq.ui.openView",{name:b?b:e.iOS?"QQVIPFunctionComicWebViewController":"cooperation.comic.VipComicJumpActivity",options:d.extend({style:4},a)})},openOuterComic:function(a){
+e.iOS&&(a+=-1==a.indexOf("?")?"?_wv=49176":"&_wv=49176"),e.android&&e.isComicWebView&&e.compareQQVersion("7.0")<0?f.invoke("mqq.comic.openQQBrowser",{url:a}):f.invoke("mqq.ui.openUrl",{url:a,target:1,style:3
+})}}});

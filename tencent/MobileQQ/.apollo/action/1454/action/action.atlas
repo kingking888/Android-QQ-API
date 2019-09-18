@@ -1,0 +1,26 @@
+action.png
+size: 337, 280
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Eyes_Expression/Eye_Smile_01
+  rotate: true
+  xy: 285, 29
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: 2
+Mouth_Expression/Mouth_Cry_00
+  rotate: true
+  xy: 285, 0
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: 1
+qipao
+  rotate: false
+  xy: 0, 0
+  size: 285, 280
+  orig: 285, 280
+  offset: 0, 0
+  index: 0

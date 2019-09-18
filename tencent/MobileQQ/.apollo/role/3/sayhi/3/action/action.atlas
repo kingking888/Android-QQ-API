@@ -1,0 +1,82 @@
+action.png
+size: 307, 78
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Eyes_Expression/Eye_Angry_00
+  rotate: true
+  xy: 74, 0
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: 1
+Eyes_Expression/Eye_Angry_02
+  rotate: false
+  xy: 0, 0
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: 0
+Eyes_Expression/Eye_Close_00
+  rotate: true
+  xy: 101, 0
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: 2
+Mouth_Expression/Mouth_Angry_02
+  rotate: true
+  xy: 148, 0
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: 5
+Mouth_Expression/Mouth_Angry_03
+  rotate: true
+  xy: 171, 0
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: 7
+Mouth_Expression/Mouth_Angry_10
+  rotate: false
+  xy: 154, 39
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: 6
+Mouth_Expression/Mouth_Angry_11
+  rotate: true
+  xy: 227, 0
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: 9
+Mouth_Expression/Mouth_Scare_10
+  rotate: false
+  xy: 128, 43
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: 4
+Mouth_Expression/Mouth_Treacherous_00
+  rotate: true
+  xy: 128, 0
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: 3
+quantou_0001
+  rotate: true
+  xy: 181, 38
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: 8
+quantou_0002
+  rotate: false
+  xy: 267, 0
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: 10

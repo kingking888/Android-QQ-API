@@ -1,0 +1,28 @@
+{
+    "view_type": "UIView",
+    "view_id": "id_comment_subcomment_container",
+    "visible_depend_on_children":"YES",
+    "layout_type":"layout_linear",
+    "direction":"vertical",
+    "margin_left":"50",
+    "margin_top":"5",
+    "height": {
+        "type": "wrap_content"
+    },
+    "width": {
+        "type": "relative",
+        "value": "307"
+    },
+    "attributes": {
+        "setCornerRadiusString:":"3.0",
+        "setLayerMaskBoundsString:":"1",
+        "setClipsToBounds:":"1",
+        "setBackgroundColorString:": "#F7F7F7"
+    },
+    "subviews":
+    [
+        {"$includeComponet": "readinjoy_expose_subcomment_one.geojson"},
+        {"$includeComponet": "readinjoy_expose_subcomment_two.geojson"},
+        {"$includeComponet": "readinjoy_expsesub_total.geojson"}
+    ]
+}

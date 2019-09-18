@@ -1,0 +1,7 @@
+define("business/userInfo",["lib/zepto","business/router","zepto","piggy/util/uri","piggy/util/process","piggy/util/cookie","business/jsbridge","business/common","piggy/util/cacheData","piggy/util/tpl","piggy/util/report"],function(a,b,c){
+var d=(a("lib/zepto"),a("business/router")),e=a("business/common"),f=a("piggy/util/process"),g=a("piggy/util/cacheData");b.getUserGeneralInfo=function(a,b,c){var h=3600,i=600,j="userGeneralInfo",k=["comic",j,d.getUserId()].join("/");
+return g.getWithListStruct({},[j],k,function(a,b,c,g){var h={module:"comic_user_base_info_mt_svr",method:"GetUserGeneralInfo",param:{}};f.lockNext(a,k,function(a){c(a)},function(b){e.sendMergeRequest({
+url:d.createUrl("vpcm/cgi-bin/comic_common_asyn_cgi"),data:h,callback:function(c){var d={};c&&0==c.result&&c.data?(d[a]=c.data,b&&b({result:0,data:d})):b&&b({result:-1})}})})},function(b){b&&b.data&&b.data[j]&&(b.data=b.data[j]),
+a(b)},"undefined"!=typeof b?"function"==typeof b?function(a){a&&a.data&&a.data[j]&&(a.data=a.data[j]),b(a)}:b:h,"undefined"!=typeof c?"function"==typeof c?function(a){a&&a.data&&a.data[j]&&(a.data=a.data[j]),
+c(a)}:c:i)},b.getUserVideoVipInfo=function(a){e.sendMergeRequest({url:d.createUrl("vpcm/cgi-bin/comic_common_asyn_cgi"),data:{module:"community.PersonalPageMtServer.PersonalPageMtObj",method:"getUserVideoVipInfo",
+param:{}},callback:function(b){b&&0==b.result&&b.data?a&&a({result:0,data:b.data}):a&&a({result:-1})}})}});

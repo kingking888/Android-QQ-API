@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-07-09 20:51:03", "timestamp": 1562676663, "vertices": [{"count": 278, "name": "eyelash"}], "type": "eyelash", "bundleName": "dress_t_1562676663", "triangles": [{"count": 420, "name": "eyelash"}], "assets": ["dress.bin", "eyelash_mask.etc", "eyelash_albedo.etc"]}

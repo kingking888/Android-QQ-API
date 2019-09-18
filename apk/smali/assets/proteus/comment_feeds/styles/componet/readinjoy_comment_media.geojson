@@ -1,0 +1,80 @@
+{
+    "view_type": "UIView",
+     "view_id": "id_comment_media_view",
+    "layout_type":"layout_relative",
+    "margin_top":"5",
+    "margin_left":"50",
+    "margin_bottom":"5",
+    "visible_depend_on_children":"YES",
+    "height": {
+        "type": "absolutely",
+        "value": "89"
+    },
+    "width": {
+        "type": "absolutely",
+        "value": "89"
+    },
+    "attributes": {
+        "setHeightString:":"$thumHeight",
+        "setWidthString:":"$thumWidth"
+    },
+    "subviews":[
+                {
+                    "view_type": "ReadInjoyAsynImageView",
+                    "view_id": "id_rij_comment_media_thumb",
+                    "align_parent_left": "YES",
+                    "event_type": "cmd_comment_media_click",
+                    "attributes": {
+                         "setAttatchInfo:":"$pic_url",
+                         "setHeightString:":"$thumHeight",
+                         "setWidthString:":"$thumWidth",
+                        "setSupportGifEnable:":"1",
+                        "setImageWithURLString:lineup:": [
+                            "$media_thumimg_url",
+                            "1"
+                        ]
+                    },
+                      "height": {
+                            "type": "absolutely",
+                            "value": "89"
+                        },
+                        "width": {
+                            "type": "absolutely",
+                            "value": "89"
+                        }
+                },
+                 {
+                            "view_type": "UILabel",
+                            "view_id": "id_media_type_view",
+                            "default_visible":"NO",
+                            "align_parent_right": "YES",
+                            "align_parent_bottom": "YES",
+
+                            "margin_right":"5",
+                            "margin_bottom":"5",
+                            "padding_left": "4",
+                            "padding_right": "4",
+                            "padding_top": "1.5",
+                            "padding_bottom": "1.5",
+                             "height": {
+                                   "type": "absolutely",
+                                   "value": "15"
+                             },
+                             "width": {
+                                  "type": "wrap_content"
+                             },
+                            "attributes": {
+                                 "setText:": "$media_type_str",
+                                 "setTextColorString:": "#FFFFFF",
+                                 "setFontSizeString:": "10",
+                                  "setNumberOfLinesString:": "1",
+                                 "setCornerRadiusString:": "2.0",
+                                 "setBackgroundColorString:": "#80000000"
+                            }
+                 }
+
+
+            ]
+
+       }
+

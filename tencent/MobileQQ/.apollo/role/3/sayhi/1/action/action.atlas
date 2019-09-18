@@ -1,0 +1,19 @@
+action.png
+size: 106, 27
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Eyes_Expression/Eye_Close_00
+  rotate: false
+  xy: 0, 0
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: 0
+Mouth_Expression/Mouth_Laugh_H_00
+  rotate: false
+  xy: 67, 0
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: 1

@@ -1,0 +1,36 @@
+.class Lafas;
+.super Lajro;
+.source "ProGuard"
+
+
+# instance fields
+.field final synthetic a:Lafap;
+
+
+# direct methods
+.method constructor <init>(Lafap;)V
+    .locals 0
+
+    .prologue
+    .line 1231
+    iput-object p1, p0, Lafas;->a:Lafap;
+
+    invoke-direct {p0}, Lajro;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method protected onGetFriendNickBatch(ZLjava/lang/Object;)V
+    .locals 1
+
+    .prologue
+    .line 1234
+    iget-object v0, p0, Lafas;->a:Lafap;
+
+    invoke-static {v0, p1, p2}, Lafap;->a(Lafap;ZLjava/lang/Object;)V
+
+    .line 1235
+    return-void
+.end method

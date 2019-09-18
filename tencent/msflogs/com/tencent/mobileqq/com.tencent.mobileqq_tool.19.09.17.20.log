@@ -1,0 +1,311 @@
+19-09-17 20:37:02|com.tencent.mobileqq:tool|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:37:02|1568723822417[28590]28590|E|AutoMonitor|nextState -1, 0
+19-09-17 20:37:03|1568723822543[28590]28590|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:37:03|1568723822543[28590]28590|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:37:03|1568723822543[28590]28590|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:37:03|1568723822605[28590]28590|E|EIPCConst|connectProvider success
+19-09-17 20:37:03|1568723822896[28590]28590|E|MSF.D.MonitorSocket|monitor_config not found, disable monitor socket
+19-09-17 20:37:03|1568723822924[28590]28590|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:tool null 433687
+19-09-17 20:37:03|1568723823006[28590]28590|E|UpdatePluginVersion|433687, 433687
+19-09-17 20:37:03|1568723823222[28590]28590|E|mqq|doInit begin withcom.tencent.mobileqq:tool
+19-09-17 20:37:03|1568723823247[28590]28661|E|Magnifier_ReporterMachine|setReportType t=2
+19-09-17 20:37:03|1568723823255[28590]28590|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:37:03|1568723823386[28590]28590|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:37:03|1568723823386[28590]28590|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:37:03|1568723823386[28590]28590|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:tool
+19-09-17 20:37:03|1568723823411[28590]28590|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:37:03|1568723823433[28590]28590|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:37:03|1568723823476[28590]28590|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:37:04|1568723823670[28590]28590|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:37:04|1568723823673[28590]28590|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:37:04|1568723823702[28590]28590|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:37:04|1568723823720[28590]28590|E|mqq|[AppRuntime]ToolAppRuntime (*9100) onCreate,savedInstanceState=null
+19-09-17 20:37:04|1568723823778[28590]28698|E|mqq|newServlet = mqq.app.BuiltInServlet@bae0dc0
+19-09-17 20:37:04|1568723823798[28590]28590|E|mqq|doInit finished
+19-09-17 20:37:04|1568723823799[28590]28590|E|MainService|start MSF-Receiver 758
+19-09-17 20:37:04|1568723823831[28590]28698|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:37:04|1568723823833[28590]28698|E|MSF.D.Proxy|threadID:757, threadName: ServletForward bind service finished true
+19-09-17 20:37:04|1568723823833[28590]28698|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:37:04|1568723824777[28590]28716|E|mqq|newServlet = oaj@fc1ddb5
+19-09-17 20:37:06|1568723826653[28590]28661|E|SoLoadUtilNew|load GIFEngine result:true code 3387394
+19-09-17 20:37:07|1568723827463[28590]28590|E|TBS_update|tbs start download
+19-09-17 20:37:08|1568723827763[28590]28590|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:37:09|1568723829054[28590]28661|E|BrowserAppInterface|Remove all cookies
+19-09-17 20:37:09|1568723829054[28590]28661|E|BrowserAppInterface|User account changed, need remove all cookies. cost=2317
+19-09-17 20:37:09|1568723829095[28590]28661|E|RdmInit|doStep process=com.tencent.mobileqq:tool, sRdmState=0
+19-09-17 20:37:09|1568723829097[28590]28661|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:tool, pid=28590
+19-09-17 20:37:09|1568723829423[28590]28661|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:tool, pid=28590
+19-09-17 20:37:11|1568723829789[28590]28661|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:37:11|1568723829839[28590]28661|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:37:11|1568723829839[28590]28661|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:37:11|1568723829866[28590]28661|E|AutoMonitor|MTA, cost=27 results: true
+19-09-17 20:37:11|1568723831071[28590]28699|E|TicketManager|set alter tickets for *9100
+19-09-17 20:37:12|1568723831079[28590]28661|E|InitHook|NOT AVA
+19-09-17 20:37:12|1568723831412[28590]28661|E|NativeMonitorConfig|process id:7  not in black list
+19-09-17 20:37:12|1568723831473[28590]28661|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:37:12|1568723831606[28590]28661|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:37:12|1568723831609[28590]28661|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:37:12|1568723831610[28590]28661|E|NativeMemoryMonitor|init
+19-09-17 20:37:17|1568723837608[28590]28590|E|MD5|loadso arm msfbootV2 resultCode=3387394
+19-09-17 20:37:17|1568723837609[28590]28590|E|MD5|loadso msfbootV2 true resultCode=3387394 cost=11
+19-09-17 20:37:38|1568723858368[28590]28731|E|TBS_update|tbs download install finish result=200
+19-09-17 20:37:38|1568723858493[28590]28731|E|TBS_update|tbs download install finish result=232
+19-09-17 20:37:47|1568723867420[28590]28590|E|plugin_tag|getOrCreateClassLoader:qqreaderplugin.apk
+19-09-17 20:37:47|1568723867422[28590]28590|E|plugin_tag|dexsPath/data/user/0/com.tencent.mobileqq/app_installed_plugin/qqreaderplugin.apk
+19-09-17 20:37:47|1568723867433[28590]28590|E|plugin_tag|getOrCreateClassLoaderCost:qqreaderplugin.apk c:11
+19-09-17 20:37:47|1568723867521[28590]28590|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler f524741
+19-09-17 20:37:47|1568723867557[28590]29002|E|OfflineEnvHelper|getOfflineDir, isStoreInSD true
+19-09-17 20:37:47|1568723867558[28590]29002|E|OfflineEnvHelper|getSDOfflineDir, initEnv
+19-09-17 20:37:47|1568723867592[28590]29002|E|OfflineEnvHelper|getOfflineDir, isStoreInSD true
+19-09-17 20:37:47|1568723867611[28590]29001|E|SQLiteOpenHelper| new SQLiteOpenHelper  helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@34144d4 this = ajzp@5bb167d
+19-09-17 20:37:47|1568723867711[28590]29001|E|SQLiteOpenHelper|check dbRIsNull: null dbIsNull: 82287993
+19-09-17 20:37:47|1568723867711[28590]29001|E|SQLiteOpenHelper|new dbR = 58571704 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@34144d4 this = ajzp@5bb167d
+19-09-17 20:37:47|1568723867721[28590]29001|E|SecurityUtile|loadso arm DBEncryptV2 resultCode=3387394
+19-09-17 20:37:47|1568723867722[28590]29001|E|SecurityUtile|loadso true, resultCode:3387394 cost:7
+19-09-17 20:37:47|1568723867735[28590]29001|E|SQLiteOpenHelper|check dbWIsNull: null dbIsNull: 82287993
+19-09-17 20:37:47|1568723867735[28590]29001|E|SQLiteOpenHelper|new dbW = 264946934 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@34144d4 this = ajzp@5bb167d
+19-09-17 20:37:47|1568723867788[28590]29005|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers.run cost 4ms.
+19-09-17 20:37:47|1568723867788[28590]29006|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs.run cost 3ms.
+19-09-17 20:37:47|1568723867801[28590]28590|E|WebLog_SwiftWebAccelerator|initX5Environment start! true
+19-09-17 20:37:47|1568723867802[28590]28590|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 2.
+19-09-17 20:37:47|1568723867814[28590]29008|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine.run cost 30ms.
+19-09-17 20:37:47|1568723867833[28590]29005|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load http core data config, cost 44ms.
+19-09-17 20:37:47|1568723867831[28590]29006|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:init inner-dns cost 5ms.
+19-09-17 20:37:47|1568723867861[28590]29011|E|WebCoreDump|-->start load config at 1568723867859
+19-09-17 20:37:47|1568723867874[28590]29011|E|WebCoreDump|-->config file exist
+19-09-17 20:37:47|1568723867885[28590]29011|E|WebCoreDump|-->No url white list in config!{"js_report":true,"url_check":false}
+19-09-17 20:37:47|1568723867885[28590]29011|E|WebCoreDump|parse config cost=26
+19-09-17 20:37:47|1568723867908[28590]29006|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:47|1568723867911[28590]29005|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load cdn cache config, cost 76ms.
+19-09-17 20:37:47|1568723867984[28590]29006|E|VcSystemInfo|getMaxCpuFreq of cup4 failed.
+java.io.FileNotFoundException: /sys/devices/system/cpu/cpu4/cpufreq/cpuinfo_max_freq (No such file or directory)
+19-09-17 20:37:47|1568723867988[28590]29006|E|VcSystemInfo|getMaxCpuFreq of cup5 failed.
+java.io.FileNotFoundException: /sys/devices/system/cpu/cpu5/cpufreq/cpuinfo_max_freq (No such file or directory)
+19-09-17 20:37:48|1568723868002[28590]29006|E|VcSystemInfo|[CpuInfo] readMaxCpuFreqFromState. maxFreq=0
+19-09-17 20:37:48|1568723868002[28590]29006|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1440000
+19-09-17 20:37:48|1568723868002[28590]29006|E|FlatBuffersParser|os.arch: armv8l
+19-09-17 20:37:48|1568723868052[28590]29006|E|FlatBuffersParser|DeviceInfoUtil#getCpuType:  0 1 2 3 4 5  :   : half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt evtstrm aes pmull sha1 sha2 crc32  : 8
+19-09-17 20:37:48|1568723868053[28590]29006|E|FlatBuffersParser|Build.CPU_ABI: armeabi-v7a
+19-09-17 20:37:48|1568723868053[28590]29006|E|FlatBuffersParser|Build.CPU_ABI2: armeabi
+19-09-17 20:37:48|1568723868053[28590]29006|E|FlatBuffersParser|isX86: false
+19-09-17 20:37:48|1568723868053[28590]29006|E|FlatBuffersParser|Build.SUPPORTED_ABIS: [arm64-v8a, armeabi-v7a, armeabi]
+19-09-17 20:37:48|1568723868058[28590]29006|E|FlatBuffersParser|so file size: 99656 crc32: c5275b46 crcSpent: 4
+19-09-17 20:37:48|1568723868084[28590]29006|E|FlatBuffersParser|FlatBuffers loadLibrary startLoad stl
+19-09-17 20:37:48|1568723868092[28590]29006|E|SoLoadUtil|start load native library. stlport_shared
+19-09-17 20:37:49|1568723868141[28590]29006|E|SoLoadUtil|load so stlport_shared cost time: 28 result: true
+19-09-17 20:37:49|1568723868141[28590]29006|E|FlatBuffersParser|FlatBuffers loadLibrary startLoad FlatBuffers
+19-09-17 20:37:49|1568723868143[28590]29006|E|FlatBuffersParser|FlatBuffers loadLibrary success
+19-09-17 20:37:49|1568723868164[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868176[28590]28661|E|AuthorizeConfig|mLastModified -1 lastModified 1568723824000
+19-09-17 20:37:49|1568723868181[28590]29007|E|AuthorizeConfig|preload too often
+19-09-17 20:37:49|1568723868187[28590]29008|E|AuthorizeConfig|preload too often
+19-09-17 20:37:49|1568723868187[28590]29008|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine:init plugin engine, cost 373ms.
+19-09-17 20:37:49|1568723868221[28590]28661|E|AuthorizeConfig|authTable first string : fudao.qq.com
+19-09-17 20:37:49|1568723868222[28590]28661|E|AuthorizeConfig|flatbuffers is correct with length: 147600 publishSeq 1021217
+19-09-17 20:37:49|1568723868222[28590]28661|E|AuthorizeConfig|flatbuffers is successfully read from file.
+19-09-17 20:37:49|1568723868222[28590]29010|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 20:37:49|1568723868228[28590]29006|E|AuthorizeConfig|get Js Api Config From Pref is empty!
+19-09-17 20:37:49|1568723868247[28590]29013|E|SwiftWebViewUtils|Config is not valid: {"platformId":"0","minVersion":"7.2.5.000","maxVersion":"9.9.9.9999","startIndex":1,"endIndex":1,"min":0,"max":9,"business":"sonicWhiteList","businessId":"1","configs":{"qun.qq.com":["\/qqweb\/m\/qunopen\/appstore\/index.html"],"buluo.qq.com":["\/mobile\/buluoindex.html","\/mobile\/v2\/buluoindex.html"],"now.qq.com":["*"],"ti.qq.com":["*"],"mma.qq.com":["*"],"qim.qq.com":["*"],"qvq.qq.com":["*"],"im.qq.com":["*"],"mmatest.qq.com":["*"],"m.egame.qq.com":["*"],"cdn.egame.qq.com":["*"],"yundong.qq.com":["\/sonic\/*"],"nearby.qq.com":["*"],"lgame.qq.com":["*"],"umall.vip.qq.com":["*"],"h5.cmshow.qq.com":["*"]}}
+19-09-17 20:37:49|1568723868247[28590]29013|E|SwiftWebViewUtils|Config is not valid: {"platformId":"0","minVersion":"7.2.5.000","maxVersion":"9.9.9.9999","startIndex":1,"endIndex":1,"min":0,"max":9,"business":"sonicWhiteList","businessId":"1","configs":{"qun.qq.com":["\/qqweb\/m\/qunopen\/appstore\/index.html"],"buluo.qq.com":["\/mobile\/buluoindex.html","\/mobile\/v2\/buluoindex.html"],"now.qq.com":["*"],"ti.qq.com":["*"],"mma.qq.com":["*"],"qim.qq.com":["*"],"qvq.qq.com":["*"],"im.qq.com":["*"],"mmatest.qq.com":["*"],"m.egame.qq.com":["*"],"cdn.egame.qq.com":["*"],"yundong.qq.com":["\/sonic\/*"],"nearby.qq.com":["*"],"lgame.qq.com":["*"],"umall.vip.qq.com":["*"],"h5.cmshow.qq.com":["*"]}}
+19-09-17 20:37:49|1568723868247[28590]29013|E|SwiftWebViewUtils|Config is not valid: {"platformId":"2","minVersion":"7.5.5.000","maxVersion":"9.9.9.9999","startIndex":0,"endIndex":1,"min":0,"max":9,"business":"X5Config","businessId":"2","mainThreadControl":0,"enableQuic":1}
+19-09-17 20:37:49|1568723868248[28590]29013|E|SwiftWebViewUtils|Config is not valid: {"platformId":"2","minVersion":"7.5.5.000","maxVersion":"9.9.9.9999","startIndex":0,"endIndex":1,"min":0,"max":9,"business":"X5Config","businessId":"2","mainThreadControl":0,"enableQuic":1}
+19-09-17 20:37:49|1568723868259[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868290[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868332[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868373[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868476[28590]29006|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:load domain white list config, cost 640ms.
+19-09-17 20:37:49|1568723868498[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723868503[28590]29006|E|AuthorizeConfig|preload too often
+19-09-17 20:37:49|1568723868510[28590]29006|E|null|walFlag: false
+19-09-17 20:37:49|1568723868510[28590]29006|E|SQLiteOpenHelper| new SQLiteOpenHelper  helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@bb73bbc this = ajzp@9fe745
+19-09-17 20:37:49|1568723868510[28590]29006|E|null|new SQLiteOpenHelper = : ajzp@9fe745
+19-09-17 20:37:49|1568723868569[28590]29006|E|SQLiteOpenHelper|check dbRIsNull: null dbIsNull: 171668427
+19-09-17 20:37:49|1568723868569[28590]29006|E|SQLiteOpenHelper|new dbR = 106738369 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@bb73bbc this = ajzp@9fe745
+19-09-17 20:37:49|1568723868601[28590]29005|E|IndividuationUrlHelper|parseJson, startIndex < endIndex, element={"platformId":"0","minVersion":"7.9.7","maxVersion":"99.99.99","startIndex":0,"endIndex":9,"min":0,"max":9,"url":"https:\/\/zb.vip.qq.com\/widget\/diyEditor?_wv=16778243&sharefri=[sharefri]","whiteUser":"","isDefault":1,"business":"FriendToDIYPendant","userType":7}
+19-09-17 20:37:49|1568723868601[28590]29005|E|IndividuationUrlHelper|parseJson, startIndex < endIndex, element={"platformId":"0","minVersion":"7.9.7","maxVersion":"99.99.99","startIndex":0,"endIndex":9,"min":0,"max":9,"url":"https:\/\/zb.vip.qq.com\/sonic\/widget\/home?uin=[uin]&client=[client]&version=[version]&=[platformId]&device=[device]&system=[system]&adtag=index.h5&_wv=16778243&sharefri=[sharefri]","whiteUser":"","isDefault":1,"business":"FriendToPendant","userType":7}
+19-09-17 20:37:49|1568723868602[28590]29005|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load Individuation url config, cost 691ms.
+19-09-17 20:37:49|1568723869190[28590]29006|E|TicketManager|get ticket succ, sk!
+19-09-17 20:37:49|1568723869191[28590]29006|E|SwiftBrowserCookieMonster|skey=m*r
+19-09-17 20:37:49|1568723869211[28590]29006|E|SwiftBrowserCookieMonster|last refresh skey time: 1568723800
+19-09-17 20:37:49|1568723869233[28590]29006|E|TicketManager|get ticket succ, su!
+19-09-17 20:37:49|1568723869417[28590]29006|E|TicketManager|get ticket succ, st!
+19-09-17 20:37:49|1568723869418[28590]29006|E|SwiftBrowserCookieMonster|stwxweb=c*7
+19-09-17 20:37:49|1568723869435[28590]29006|E|SwiftBrowserCookieMonster|last refresh sTwxWeb time: 1568723800
+19-09-17 20:37:49|1568723869455[28590]29006|E|TicketManager|get ticket succ, a!
+19-09-17 20:37:49|1568723869455[28590]29006|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:pre get key, cost 979ms.
+19-09-17 20:37:49|1568723869482[28590]28590|E|AuthorizeConfig|preload too often
+19-09-17 20:37:49|1568723869489[28590]28590|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 2.
+19-09-17 20:37:49|1568723869494[28590]29007|E|TicketManager|domain: vip.qq.com
+19-09-17 20:37:49|1568723869500[28590]28661|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:37:49|1568723869517[28590]29007|E|TicketManager|get ticket succ, ps!
+19-09-17 20:37:49|1568723869524[28590]29007|E|SQLiteOpenHelper|check dbWIsNull: null dbIsNull: 171668427
+19-09-17 20:37:49|1568723869526[28590]29007|E|SQLiteOpenHelper|new dbW = 123874229 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@bb73bbc this = ajzp@9fe745
+19-09-17 20:37:49|1568723869586[28590]29007|E|SwiftBrowserCookieMonster|vip.qq.com: pSkey is miss and fetch result is success
+19-09-17 20:37:49|1568723869657[28590]29007|E|SwiftBrowserCookieMonster|vip.qq.com: pt4Token is miss and fetch result is success
+19-09-17 20:37:49|1568723869712[28590]29027|E|ApolloConfigDataReport|parseReportConfigJson mBaseJSONObj is null
+19-09-17 20:37:52|1568723872666[28590]29004|E|HtmlCheckUpdate|check update, QQ Version: 8.1.3.4185
+19-09-17 20:37:52|1568723872675[28590]29004|E|mqq|newServlet = nvz@5002da4
+19-09-17 20:37:53|1568723873251[28590]29014|E|mqq|newServlet = nvz@baf9709
+19-09-17 20:37:53|1568723873383[28590]28590|E|AuthorizeConfig|preload too often
+19-09-17 20:37:58|1568723878721[28590]29009|E|WebLog_SwiftWebAccelerator|WebAccelerator.initTbsEnvironment, cost=10913
+19-09-17 20:37:58|1568723878721[28590]29009|E|WebLog_SwiftWebAccelerator|initX5Environment on sub thread, cost 10920ms.
+19-09-17 20:37:58|1568723878722[28590]28590|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 2.
+19-09-17 20:38:00|1568723880427[28590]28590|E|plugin_tag|getOrCreateClassLoader:comic_plugin.apk
+19-09-17 20:38:00|1568723880427[28590]28590|E|plugin_tag|dexsPath/data/user/0/com.tencent.mobileqq/app_installed_plugin/comic_plugin.apk
+19-09-17 20:38:00|1568723880448[28590]28590|E|plugin_tag|getOrCreateClassLoaderCost:comic_plugin.apk c:21
+19-09-17 20:38:00|1568723880601[28590]29105|E|mqq|newServlet = bar@718830b
+19-09-17 20:38:00|1568723880622[28590]29105|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 7f3e2a6
+19-09-17 20:38:00|1568723880651[28590]29105|E|OfflineEnvHelper|getOfflineDir, isStoreInSD true
+19-09-17 20:38:00|1568723880651[28590]29105|E|OfflineEnvHelper|getOfflineDir, isStoreInSD true
+19-09-17 20:38:00|1568723880849[28590]29009|E|VipComicPluginRuntime|getComicEntityManagerFactory
+19-09-17 20:38:00|1568723880855[28590]29009|E|SQLiteOpenHelper| new SQLiteOpenHelper  helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@94aa07e this = ajzp@120e9df
+19-09-17 20:38:01|1568723881080[28590]29009|E|SQLiteOpenHelper|check dbRIsNull: null dbIsNull: 69871861
+19-09-17 20:38:01|1568723881081[28590]29009|E|SQLiteOpenHelper|new dbR = 53674588 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@94aa07e this = ajzp@120e9df
+19-09-17 20:38:01|1568723881087[28590]29009|E|SQLiteOpenHelper|check dbWIsNull: null dbIsNull: 69871861
+19-09-17 20:38:01|1568723881087[28590]29009|E|SQLiteOpenHelper|new dbW = 110639461 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@94aa07e this = ajzp@120e9df
+19-09-17 20:38:02|1568723881147[28590]29009|E|TicketManager|get ticket succ, sk!
+19-09-17 20:38:02|1568723881294[28590]29009|E|mqq|newServlet = bas@32b40f4
+19-09-17 20:50:41|com.tencent.mobileqq:tool|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:50:41|1568724641464[30256]30256|E|AutoMonitor|nextState -1, 0
+19-09-17 20:50:42|1568724641490[30256]30256|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:50:42|1568724641490[30256]30256|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:50:42|1568724641490[30256]30256|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:50:42|1568724641504[30256]30256|E|EIPCConst|connectProvider success
+19-09-17 20:50:42|1568724641556[30256]30256|E|MSF.D.MonitorSocket|phoneDisplays: KOT49H|KTU84P, phoneModels: COOLPAD7295, appid: , version: , currVersion: 8.1.3.4185, process: , com.tencent.mobileqq:tool
+19-09-17 20:50:42|1568724641558[30256]30256|E|MSF.D.MonitorSocket|Socket imple class: java.net.SocksSocketImpl
+19-09-17 20:50:42|1568724641558[30256]30256|E|MSF.D.MonitorSocket| Monitor Socket started.
+19-09-17 20:50:42|1568724641585[30256]30256|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:tool 433687 433687
+19-09-17 20:50:42|1568724641679[30256]30256|E|mqq|doInit begin withcom.tencent.mobileqq:tool
+19-09-17 20:50:42|1568724641706[30256]30256|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:50:42|1568724641715[30256]30317|E|Magnifier_ReporterMachine|setReportType t=2
+19-09-17 20:50:42|1568724641787[30256]30256|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:50:42|1568724641790[30256]30256|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:50:42|1568724641797[30256]30256|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:tool
+19-09-17 20:50:42|1568724641822[30256]30256|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:50:42|1568724641839[30256]30256|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:50:42|1568724641868[30256]30256|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:50:42|1568724642059[30256]30256|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:50:42|1568724642061[30256]30256|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:50:42|1568724642086[30256]30256|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:50:42|1568724642088[30256]30256|E|mqq|[AppRuntime]ToolAppRuntime (*9100) onCreate,savedInstanceState=null
+19-09-17 20:50:42|1568724642113[30256]30256|E|mqq|doInit finished
+19-09-17 20:50:42|1568724642114[30256]30256|E|MainService|start MSF-Receiver 776
+19-09-17 20:50:42|1568724642117[30256]30365|E|mqq|newServlet = mqq.app.BuiltInServlet@bae0dc0
+19-09-17 20:50:42|1568724642140[30256]30365|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:50:42|1568724642142[30256]30365|E|MSF.D.Proxy|threadID:775, threadName: ServletForward bind service finished true
+19-09-17 20:50:42|1568724642142[30256]30365|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:50:43|1568724642743[30256]30373|E|mqq|newServlet = oaj@fc1ddb5
+19-09-17 20:50:43|1568724642901[30256]30322|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs.run cost 8ms.
+19-09-17 20:50:43|1568724642932[30256]30322|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:init inner-dns cost 11ms.
+19-09-17 20:50:43|1568724642934[30256]30384|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers.run cost 26ms.
+19-09-17 20:50:43|1568724642946[30256]30256|E|WebLog_SwiftWebAccelerator|initX5Environment start! true
+19-09-17 20:50:43|1568724642948[30256]30256|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 3.
+19-09-17 20:50:43|1568724642966[30256]30384|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load http core data config, cost 31ms.
+19-09-17 20:50:43|1568724642975[30256]30322|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:43|1568724643014[30256]30256|E|cmgame_process.CmGameAppInterface|new CmGameAppInterface obj.
+19-09-17 20:50:43|1568724643018[30256]30386|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine.run cost 116ms.
+19-09-17 20:50:43|1568724643023[30256]30390|E|WebCoreDump|-->start load config at 1568724643017
+19-09-17 20:50:43|1568724643026[30256]30390|E|WebCoreDump|-->config file exist
+19-09-17 20:50:43|1568724643040[30256]30390|E|WebCoreDump|-->No url white list in config!{"js_report":true,"url_check":false}
+19-09-17 20:50:43|1568724643040[30256]30390|E|WebCoreDump|parse config cost=23
+19-09-17 20:50:43|1568724643062[30256]30384|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load cdn cache config, cost 95ms.
+19-09-17 20:50:43|1568724643116[30256]30322|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1824000
+19-09-17 20:50:43|1568724643119[30256]30322|E|FlatBuffersParser|os.arch: armv8l
+19-09-17 20:50:43|1568724643198[30256]30322|E|FlatBuffersParser|DeviceInfoUtil#getCpuType:  0 1 2 3 4 5  :   : half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt evtstrm aes pmull sha1 sha2 crc32  : 8
+19-09-17 20:50:43|1568724643198[30256]30322|E|FlatBuffersParser|Build.CPU_ABI: armeabi-v7a
+19-09-17 20:50:43|1568724643198[30256]30322|E|FlatBuffersParser|Build.CPU_ABI2: armeabi
+19-09-17 20:50:43|1568724643202[30256]30322|E|FlatBuffersParser|isX86: false
+19-09-17 20:50:43|1568724643203[30256]30322|E|FlatBuffersParser|Build.SUPPORTED_ABIS: [arm64-v8a, armeabi-v7a, armeabi]
+19-09-17 20:50:43|1568724643217[30256]30322|E|FlatBuffersParser|so file size: 99656 crc32: c5275b46 crcSpent: 10
+19-09-17 20:50:43|1568724643236[30256]30322|E|FlatBuffersParser|FlatBuffers loadLibrary startLoad stl
+19-09-17 20:50:44|1568724643268[30256]30322|E|SoLoadUtil|start load native library. stlport_shared
+19-09-17 20:50:44|1568724643634[30256]30317|E|SoLoadUtilNew|load GIFEngine result:true code 3387394
+19-09-17 20:50:44|1568724643654[30256]30322|E|SoLoadUtil|load so stlport_shared cost time: 91 result: true
+19-09-17 20:50:44|1568724643654[30256]30322|E|FlatBuffersParser|FlatBuffers loadLibrary startLoad FlatBuffers
+19-09-17 20:50:44|1568724643656[30256]30322|E|FlatBuffersParser|FlatBuffers loadLibrary success
+19-09-17 20:50:44|1568724643727[30256]30322|E|AuthorizeConfig|get Js Api Config From Pref is empty!
+19-09-17 20:50:44|1568724643740[30256]30385|E|AuthorizeConfig|mLastModified -1 lastModified 1568723824000
+19-09-17 20:50:44|1568724643769[30256]30386|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine:init plugin engine, cost 749ms.
+19-09-17 20:50:44|1568724643786[30256]30385|E|AuthorizeConfig|authTable first string : fudao.qq.com
+19-09-17 20:50:44|1568724643790[30256]30385|E|AuthorizeConfig|flatbuffers is correct with length: 147600 publishSeq 1021217
+19-09-17 20:50:44|1568724643791[30256]30385|E|AuthorizeConfig|flatbuffers is successfully read from file.
+19-09-17 20:50:44|1568724643791[30256]30338|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 20:50:44|1568724643799[30256]30386|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 20:50:44|1568724643800[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:44|1568724643814[30256]30317|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 20:50:44|1568724643828[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:44|1568724643857[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:44|1568724643859[30256]30409|E|SwiftWebViewUtils|Config is not valid: {"platformId":"0","minVersion":"7.2.5.000","maxVersion":"9.9.9.9999","startIndex":1,"endIndex":1,"min":0,"max":9,"business":"sonicWhiteList","businessId":"1","configs":{"qun.qq.com":["\/qqweb\/m\/qunopen\/appstore\/index.html"],"buluo.qq.com":["\/mobile\/buluoindex.html","\/mobile\/v2\/buluoindex.html"],"now.qq.com":["*"],"ti.qq.com":["*"],"mma.qq.com":["*"],"qim.qq.com":["*"],"qvq.qq.com":["*"],"im.qq.com":["*"],"mmatest.qq.com":["*"],"m.egame.qq.com":["*"],"cdn.egame.qq.com":["*"],"yundong.qq.com":["\/sonic\/*"],"nearby.qq.com":["*"],"lgame.qq.com":["*"],"umall.vip.qq.com":["*"],"h5.cmshow.qq.com":["*"]}}
+19-09-17 20:50:44|1568724643860[30256]30409|E|SwiftWebViewUtils|Config is not valid: {"platformId":"0","minVersion":"7.2.5.000","maxVersion":"9.9.9.9999","startIndex":1,"endIndex":1,"min":0,"max":9,"business":"sonicWhiteList","businessId":"1","configs":{"qun.qq.com":["\/qqweb\/m\/qunopen\/appstore\/index.html"],"buluo.qq.com":["\/mobile\/buluoindex.html","\/mobile\/v2\/buluoindex.html"],"now.qq.com":["*"],"ti.qq.com":["*"],"mma.qq.com":["*"],"qim.qq.com":["*"],"qvq.qq.com":["*"],"im.qq.com":["*"],"mmatest.qq.com":["*"],"m.egame.qq.com":["*"],"cdn.egame.qq.com":["*"],"yundong.qq.com":["\/sonic\/*"],"nearby.qq.com":["*"],"lgame.qq.com":["*"],"umall.vip.qq.com":["*"],"h5.cmshow.qq.com":["*"]}}
+19-09-17 20:50:44|1568724643860[30256]30409|E|SwiftWebViewUtils|Config is not valid: {"platformId":"2","minVersion":"7.5.5.000","maxVersion":"9.9.9.9999","startIndex":0,"endIndex":1,"min":0,"max":9,"business":"X5Config","businessId":"2","mainThreadControl":0,"enableQuic":1}
+19-09-17 20:50:44|1568724643860[30256]30409|E|SwiftWebViewUtils|Config is not valid: {"platformId":"2","minVersion":"7.5.5.000","maxVersion":"9.9.9.9999","startIndex":0,"endIndex":1,"min":0,"max":9,"business":"X5Config","businessId":"2","mainThreadControl":0,"enableQuic":1}
+19-09-17 20:50:44|1568724643932[30256]30384|E|IndividuationUrlHelper|parseJson, startIndex < endIndex, element={"platformId":"0","minVersion":"7.9.7","maxVersion":"99.99.99","startIndex":0,"endIndex":9,"min":0,"max":9,"url":"https:\/\/zb.vip.qq.com\/widget\/diyEditor?_wv=16778243&sharefri=[sharefri]","whiteUser":"","isDefault":1,"business":"FriendToDIYPendant","userType":7}
+19-09-17 20:50:44|1568724643946[30256]30384|E|IndividuationUrlHelper|parseJson, startIndex < endIndex, element={"platformId":"0","minVersion":"7.9.7","maxVersion":"99.99.99","startIndex":0,"endIndex":9,"min":0,"max":9,"url":"https:\/\/zb.vip.qq.com\/sonic\/widget\/home?uin=[uin]&client=[client]&version=[version]&=[platformId]&device=[device]&system=[system]&adtag=index.h5&_wv=16778243&sharefri=[sharefri]","whiteUser":"","isDefault":1,"business":"FriendToPendant","userType":7}
+19-09-17 20:50:44|1568724643947[30256]30384|E|WebLog_SwiftWebAccelerator|doThreadedStep_FireOthers:load Individuation url config, cost 884ms.
+19-09-17 20:50:44|1568724643980[30256]30322|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:load domain white list config, cost 1047ms.
+19-09-17 20:50:44|1568724643981[30256]30322|E|AuthorizeConfig|preload too often
+19-09-17 20:50:44|1568724643989[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:44|1568724644280[30256]30256|E|cmgame_process.CmGameAppInterface|[onInstalledSuccessed]
+19-09-17 20:50:44|1568724644286[30256]30256|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:50:44|1568724644517[30256]30317|E|RdmInit|doStep process=com.tencent.mobileqq:tool, sRdmState=0
+19-09-17 20:50:44|1568724644526[30256]30317|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:tool, pid=30256
+19-09-17 20:50:46|1568724646348[30256]30317|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:tool, pid=30256
+19-09-17 20:50:47|1568724647296[30256]30317|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:50:48|1568724647453[30256]30317|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:50:48|1568724647453[30256]30317|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:50:48|1568724647506[30256]30317|E|AutoMonitor|MTA, cost=53 results: true
+19-09-17 20:50:48|1568724648672[30256]30366|E|TicketManager|set alter tickets for *9100
+19-09-17 20:50:48|1568724648673[30256]30317|E|InitHook|NOT AVA
+19-09-17 20:50:48|1568724648820[30256]30322|E|null|walFlag: false
+19-09-17 20:50:48|1568724648821[30256]30322|E|SQLiteOpenHelper| new SQLiteOpenHelper  helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@5c11a5 this = ajzp@f31f97a
+19-09-17 20:50:48|1568724648821[30256]30322|E|null|new SQLiteOpenHelper = : ajzp@f31f97a
+19-09-17 20:50:48|1568724648825[30256]30317|E|NativeMonitorConfig|process id:7  not in black list
+19-09-17 20:50:48|1568724648848[30256]30412|E|mqq|newServlet = nvz@9212321
+19-09-17 20:50:48|1568724648891[30256]30317|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:50:48|1568724648914[30256]30322|E|SQLiteOpenHelper|check dbRIsNull: null dbIsNull: 175773017
+19-09-17 20:50:48|1568724648915[30256]30322|E|SQLiteOpenHelper|new dbR = 85484031 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@5c11a5 this = ajzp@f31f97a
+19-09-17 20:50:48|1568724648943[30256]30317|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:50:48|1568724648947[30256]30317|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:50:48|1568724648947[30256]30317|E|NativeMemoryMonitor|init
+19-09-17 20:50:48|1568724648960[30256]30322|E|SecurityUtile|loadso arm DBEncryptV2 resultCode=3387394
+19-09-17 20:50:48|1568724648960[30256]30322|E|SecurityUtile|loadso true, resultCode:3387394 cost:43
+19-09-17 20:50:49|1568724649107[30256]30733|E|AuthorizeConfig|preload too often
+19-09-17 20:50:49|1568724649129[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:50|1568724649528[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 20:50:50|1568724649573[30256]30388|E|WebLog_SwiftWebAccelerator|WebAccelerator.initTbsEnvironment, cost=6551
+19-09-17 20:50:50|1568724649573[30256]30388|E|WebLog_SwiftWebAccelerator|initX5Environment on sub thread, cost 6627ms.
+19-09-17 20:50:50|1568724649598[30256]30322|E|TicketManager|get ticket succ, sk!
+19-09-17 20:50:50|1568724649598[30256]30322|E|SwiftBrowserCookieMonster|skey=m*r
+19-09-17 20:50:50|1568724649625[30256]30256|E|SwiftReuseTouchWebView|sPool acquire:null
+19-09-17 20:50:50|1568724649637[30256]30322|E|SwiftBrowserCookieMonster|last refresh skey time: 1568723800
+19-09-17 20:50:50|1568724649643[30256]30322|E|TicketManager|get ticket succ, su!
+19-09-17 20:50:50|1568724649656[30256]30322|E|TicketManager|get ticket succ, st!
+19-09-17 20:50:50|1568724649657[30256]30322|E|SwiftBrowserCookieMonster|stwxweb=c*7
+19-09-17 20:50:50|1568724649659[30256]30322|E|SwiftBrowserCookieMonster|last refresh sTwxWeb time: 1568723800
+19-09-17 20:50:50|1568724649660[30256]30322|E|TicketManager|get ticket succ, a!
+19-09-17 20:50:50|1568724649660[30256]30322|E|WebLog_SwiftWebAccelerator|doThreadedStep_LoadConfigs:pre get key, cost 5680ms.
+19-09-17 20:50:51|1568724651023[30256]30256|E|WebLog_SwiftWebAccelerator|doMainStep_CreateWebView:create webview cost 1424ms.
+19-09-17 20:50:51|1568724651024[30256]30256|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 3.
+19-09-17 20:50:51|1568724651028[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 20:50:51|1568724651034[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:51|1568724651046[30256]30256|E|WebLog_SwiftWebAccelerator|cross process cost: 1790ms, preload cost: 8194ms.
+19-09-17 20:50:51|1568724651051[30256]30256|E|SwiftReuseTouchWebView|sPool acquire:com.tencent.mobileqq.webview.swift.SwiftReuseTouchWebView{6dc59ee V.E...... ......I. 0,0-0,0}
+19-09-17 20:50:51|1568724651053[30256]30317|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 20:50:51|1568724651061[30256]30322|E|TicketManager|domain: vip.qq.com
+19-09-17 20:50:51|1568724651063[30256]30322|E|TicketManager|get ticket succ, ps!
+19-09-17 20:50:51|1568724651102[30256]30322|E|SQLiteOpenHelper|check dbWIsNull: null dbIsNull: 175773017
+19-09-17 20:50:51|1568724651103[30256]30322|E|SQLiteOpenHelper|new dbW = 202409253 helper = com.tencent.mobileqq.data.QQEntityManagerFactory$SQLiteOpenHelperImpl@5c11a5 this = ajzp@f31f97a
+19-09-17 20:50:51|1568724651232[30256]30322|E|SwiftBrowserCookieMonster|vip.qq.com: pSkey is miss and fetch result is success
+19-09-17 20:50:51|1568724651327[30256]30322|E|SwiftBrowserCookieMonster|vip.qq.com: pt4Token is miss and fetch result is success
+19-09-17 20:50:51|1568724651376[30256]30864|E|ApolloConfigDataReport|parseReportConfigJson mBaseJSONObj is null
+19-09-17 20:50:52|1568724651512[30256]30256|E|WebLog_SwiftWebAccelerator|tendocpreload doMainStep_WarnUpWebView:load http://imgcache.qq.com/club/webview/preload.html, cost 459ms.
+19-09-17 20:50:52|1568724651513[30256]30256|E|WebLog_SwiftWebAccelerator|smartSchedule restart and new mode is 3.
+19-09-17 20:50:52|1568724652170[30256]30256|E|WebLog_SwiftWebAccelerator|doMainStep_CreateBrowserView, cost = 455ms.
+19-09-17 20:50:52|1568724652342[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 20:50:52|1568724652352[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 20:50:52|1568724652361[30256]30256|E|WebLog_SwiftWebAccelerator|doMainStep_SetCookie:pre set cookie(http://imgcache.qq.com/club/webview/preload.html), cost 22ms.
+19-09-17 20:50:52|1568724652389[30256]30256|E|WebLog_SwiftWebAccelerator|WebProcessReceiver.onReceive cost: 1790ms, complete preload cost: 9537ms.
+19-09-17 20:50:52|1568724652389[30256]30256|E|WebLog_SwiftWebAccelerator|well done, all preload task execute success!
+19-09-17 20:50:53|1568724652500[30256]30388|E|SwiftBrowserCookieMonster|imgcache.qq.com: pt4Token is miss and fetch result is success
+19-09-17 21:00:01|com.tencent.mobileqq:tool|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:00:01|com.tencent.mobileqq:tool|D|MSF.D.QLog|Nexus 5X 8.1.0 create newLogFile com.tencent.mobileqq_tool.19.09.17.21.log true

@@ -1,0 +1,60 @@
+19-09-17 20:36:50|com.tencent.mobileqq:mini3|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:36:50|1568723810121[28102]28102|E|AutoMonitor|nextState -1, 0
+19-09-17 20:36:50|1568723810184[28102]28102|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:50|1568723810185[28102]28102|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:50|1568723810185[28102]28102|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:36:51|1568723810323[28102]28102|E|MSF.D.MonitorSocket|monitor_config not found, disable monitor socket
+19-09-17 20:36:51|1568723810370[28102]28102|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:mini3 null 433687
+19-09-17 20:36:51|1568723810400[28102]28102|E|UpdatePluginVersion|433687, 433687
+19-09-17 20:36:51|1568723810438[28102]28102|E|RdmInit|doStep process=com.tencent.mobileqq:mini3, sRdmState=0
+19-09-17 20:36:51|1568723810592[28102]28102|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:mini3, pid=28102
+19-09-17 20:36:51|1568723810726[28102]28102|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:mini3, pid=28102
+19-09-17 20:36:51|1568723810905[28102]28102|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:36:51|1568723810980[28102]28102|E|AutoMonitor|MTA, cost=12 results: true
+19-09-17 20:36:51|1568723810980[28102]28102|E|mqq|doInit begin withcom.tencent.mobileqq:mini3
+19-09-17 20:36:51|1568723811004[28102]28234|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:51|1568723811004[28102]28234|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:51|1568723811006[28102]28102|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:36:51|1568723811033[28102]28102|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:36:51|1568723811033[28102]28102|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:36:51|1568723811034[28102]28102|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:mini3
+19-09-17 20:36:51|1568723811041[28102]28102|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:51|1568723811045[28102]28102|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:36:51|1568723811045[28102]28102|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:36:51|1568723811074[28102]28102|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:51|1568723811081[28102]28102|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:36:51|1568723811100[28102]28102|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:36:51|1568723811112[28102]28102|E|mqq|[AppRuntime]MiniAppInterface (*9100) onCreate,savedInstanceState=null
+19-09-17 20:36:51|1568723811114[28102]28102|E|miniapp-start|MiniAppInterface onCreate
+19-09-17 20:36:51|1568723811120[28102]28239|E|mqq|newServlet = mqq.app.BuiltInServlet@6053a3e
+19-09-17 20:36:51|1568723811127[28102]28239|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:36:51|1568723811136[28102]28239|E|MSF.D.Proxy|threadID:753, threadName: ServletForward bind service finished true
+19-09-17 20:36:51|1568723811136[28102]28239|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:36:52|1568723811240[28102]28102|E|MiniAppDexLoader| MiniAppDexLoader : com.tencent.mobileqq.mini.app.AppLoaderManager :
+19-09-17 20:36:52|1568723811268[28102]28189|E|SoLoadUtilNew|load GIFEngine result:true code 3387394
+19-09-17 20:36:52|1568723811326[28102]28102|E|mqq|doInit finished
+19-09-17 20:36:52|1568723811329[28102]28102|E|MainService|start MSF-Receiver 760
+19-09-17 20:36:52|1568723811567[28102]28102|E|miniapp-start|AppBrandTaskPreloadReceiver onReceive action: mini_preload_game
+19-09-17 20:36:52|1568723811641[28102]28102|E|AppBrandReceiver|[MiniEng]mini_preload_game com.tencent.mobileqq:mini3
+19-09-17 20:36:52|1568723811650[28102]28102|E|miniapp-process_AppBrandProxy|mService is null! Begin Bind Service!
+19-09-17 20:36:52|1568723811653[28102]28102|E|miniapp-process_AppBrandProxy|onAppStart IAppBrandService Connection is Null.
+19-09-17 20:36:52|1568723811665[28102]28102|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:36:52|1568723811729[28102]28102|E|miniapp-process_AppBrandProxy|onServiceConnected:com.tencent.mobileqq.mini.launch.IAppBrandService$Stub$Proxy@6462408
+19-09-17 20:36:52|1568723811730[28102]28102|E|miniapp-process_AppBrandProxy|Sync Process Status=1
+19-09-17 20:36:52|1568723811831[28102]28261|E|mqq|newServlet = com.tencent.mobileqq.mini.servlet.MiniAppDcReportServlet@f98187
+19-09-17 20:36:52|1568723812116[28102]28189|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:36:53|1568723812255[28102]28189|E|SharpPDec|sRetryWaitTime(ms):3000
+19-09-17 20:36:53|1568723812488[28102]28261|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler fa71a7f
+19-09-17 20:36:53|1568723812510[28102]28261|E|miniapp-cmd|send request cmd=LightAppSvc.mini_app_dcreport.DcReport traceId=1150289100_0917203651833_24829
+19-09-17 20:36:53|1568723813264[28102]28189|E|RdmInit|doStep process=com.tencent.mobileqq:mini3, sRdmState=1
+19-09-17 20:36:54|1568723813333[28102]28189|E|EIPCConst|connectProvider success
+19-09-17 20:36:54|1568723813703[28102]28249|E|TicketManager|set alter tickets for *9100
+19-09-17 20:36:54|1568723813706[28102]28249|E|miniapp-cmd|receive response cmd=LightAppSvc.mini_app_dcreport.DcReport resultCode=1000 traceId=1150289100_0917203651833_24829
+19-09-17 20:36:54|1568723813740[28102]28345|E|[mini] MiniAppObserver|onDcReport : 1
+19-09-17 20:36:54|1568723813740[28102]28345|E|[mini] MiniAppObserver|onDcReport ok 
+19-09-17 20:36:55|1568723815467[28102]28189|E|InitHook|NOT AVA
+19-09-17 20:50:37|1568724637931[28102]28102|E|miniapp-process_AppBrandProxy|onServiceDisconnected.
+19-09-17 20:50:38|1568724638946[28102]28136|E|EIPCConst|connectProvider success
+19-09-17 20:50:39|1568724639006[28102]28102|E|miniapp-process_AppBrandProxy|onServiceConnected:com.tencent.mobileqq.mini.launch.IAppBrandService$Stub$Proxy@c81a16f
+19-09-17 21:00:01|com.tencent.mobileqq:mini3|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:00:01|com.tencent.mobileqq:mini3|D|MSF.D.QLog|Nexus 5X 8.1.0 create newLogFile com.tencent.mobileqq_mini3.19.09.17.21.log true

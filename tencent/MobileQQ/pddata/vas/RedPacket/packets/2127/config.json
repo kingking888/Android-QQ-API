@@ -1,0 +1,40 @@
+{
+  "tag": [
+    "单身，狗粮"
+  ],
+  "id": 2127,
+  "name": "单身狗",
+  "type": 5,
+  "aioChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "aioWordSize": 1,
+  "packetChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "fontTypeId": 1,
+  "customWord": 1,
+  "desc": "无",
+  "status": 1,
+  "version": 1,
+  "sendChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "flameCount": 24,
+  "interval": 100,
+  "aioImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/ed5cb993a38bf85757c751df1d2331ce.png",
+  "mallImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/ed5cb993a38bf85757c751df1d2331ce.png",
+  "mallCustomImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/ed5cb993a38bf85757c751df1d2331ce.png",
+  "redEnvelopeImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/c2ace994627fd184d816dee3f20aeac9.png",
+  "sendImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/5aea08eaf5949a1d39e4b88c0b293cb6.png",
+  "aioPngZip": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2127/9fd7891f29af1cde5db5ce521bc6959d.zip"
+}

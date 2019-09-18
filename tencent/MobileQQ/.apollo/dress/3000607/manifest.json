@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-08-08 01:00:12", "timestamp": 1565197212, "vertices": [{"count": 1420, "name": "foot"}], "type": "foot", "bundleName": "dress_t_1565197212", "triangles": [{"count": 1906, "name": "foot"}], "assets": ["dress.bin", "foot_albedo.etc", "foot_specular.etc", "foot_mask.etc", "foot_normal.etc"]}

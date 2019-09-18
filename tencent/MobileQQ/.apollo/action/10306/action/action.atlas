@@ -1,0 +1,12 @@
+action.png
+size: 54, 13
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Eye_samoye_00
+  rotate: false
+  xy: 0, 0
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: 0

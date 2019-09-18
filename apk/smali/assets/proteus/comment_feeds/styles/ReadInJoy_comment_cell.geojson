@@ -1,0 +1,39 @@
+{
+    "ReadInJoy_comment_cell": {
+        "view_type": "cell",
+        "default_visible":"YES",
+        "layout_type":"layout_relative",
+        "height": {
+            "type": "wrap_content"
+        },
+        "width": {
+            "type": "relative",
+            "value": "375"
+        },
+        "subviews":
+        [
+            {
+                "view_type": "container",
+                "default_visible":"YES",
+                "layout_type":"layout_linear",
+                "direction":"vertical",
+                "height": {
+                    "type": "wrap_content"
+                },
+                "width": {
+                    "type": "relative",
+                    "value": "375"
+                },
+                "subviews":
+                [
+                    {"$includeComponet": "componet/readinjoy_comment_header.geojson"},
+                    {"$includeComponet": "componet/readinjoy_comment_media.geojson"},
+                    {"$includeComponet": "componet/readinjoy_expose_subcomments.geojson"},
+                    {"$includeComponet": "componet/readinjoy_comment_diversion.geojson"},
+                    {"$includeComponet": "componet/readinjoy_comment_tail.geojson"}
+                ]
+            },
+            {"$includeComponet": "componet/Readinjoy_comment_awsome_mark.geojson"}
+        ]
+    }
+}

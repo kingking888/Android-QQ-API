@@ -1,0 +1,38 @@
+{
+  "tag": [],
+  "id": 2259,
+  "name": "社会青年",
+  "type": 5,
+  "aioChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "aioWordSize": 1,
+  "packetChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "fontTypeId": 1,
+  "customWord": 1,
+  "desc": "无",
+  "status": 1,
+  "version": 1,
+  "sendChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "flameCount": 0,
+  "interval": 100,
+  "aioImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2259/401607116692c5bce8e2f886a3be639d.png",
+  "mallImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2259/401607116692c5bce8e2f886a3be639d.png",
+  "mallCustomImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2259/401607116692c5bce8e2f886a3be639d.png",
+  "redEnvelopeImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2259/c8f59dc16856a4362d6d360dd404d033.png",
+  "sendImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2259/79457ae41bef012216f943f9f65ae82e.png",
+  "aioPngZip": "0"
+}

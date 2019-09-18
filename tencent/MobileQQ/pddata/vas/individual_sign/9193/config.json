@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "name": "星空之下",
+      "type": 50,
+      "feeType": 3,
+      "actUrl": "",
+      "newOrHot": 0,
+      "tag": [
+        "星空",
+        "创意",
+        "大自然",
+        "其他属性",
+        "其他节日",
+        "青年女",
+        "青年男",
+        "平淡",
+        "青葱岁月"
+      ],
+      "label": [
+        ""
+      ],
+      "platId": 0,
+      "qqVer": "5.4.0",
+      "fontColor": "#ffffffff",
+      "defText": "星空之下你是否还拥有你的真心。",
+      "defTextColor": "#ffffffff",
+      "timeAndLocation": "#ffffffff",
+      "isLimited": 1,
+      "startTime": "",
+      "endTime": "",
+      "validArea": 3,
+      "status": 1,
+      "isShow": 1,
+      "signType": 0,
+      "cover": "/signature/item/9193/1380676e321390c0fc63cb530df0efa4.png",
+      "zip": "",
+      "aio_2": "/signature/item/9193/aio_2.png",
+      "aio_3": "/signature/item/9193/aio_3.png",
+      "aio_4": "/signature/item/9193/aio_4.png",
+      "icon": "",
+      "view": "/signature/item/9193/63d164cccf6709340eeb94ac24aeb8d1.png",
+      "action_off": "",
+      "action_on": "",
+      "dot9png": ""
+    }
+  ],
+  "dynamicItem": [],
+  "imgItem": []
+}

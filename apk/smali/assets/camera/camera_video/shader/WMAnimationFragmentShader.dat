@@ -1,0 +1,10 @@
+precision highp float;
+varying vec2 textureCoordinate;
+uniform sampler2D inputImageTexture2;
+uniform float texAlpha;
+
+void main(void)
+{
+     vec4 tmpFragColor = texture2D(inputImageTexture2, textureCoordinate);
+     gl_FragColor = tmpFragColor * texAlpha;
+}

@@ -1,0 +1,14 @@
+precision highp float;
+attribute vec4 position;
+attribute vec2 inputTextureCoordinate;
+varying vec2 textureCoordinate;
+uniform mat4 Projection;
+uniform mat4 Modelview;
+uniform mat4 textureMat;
+uniform mat4 tMat;
+void main(void)
+{
+gl_Position = Projection * Modelview *position;
+vec4 tmp = tMat*vec4(inputTextureCoordinate.x,inputTextureCoordinate.y,0.0,1.0);
+textureCoordinate = tmp.xy;
+}

@@ -1,0 +1,130 @@
+19-09-17 21:00:01|com.tencent.mobileqq:tool|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:05:25|1568725525284[30256]30256|E|WebLog_QQBrowserActivity|onCreate createTime = 1568725525284
+19-09-17 21:05:25|1568725525284[30256]30256|E|WebLog_SwiftWebAccelerator|switch 2 RealWorld and cancel state machine schedule.
+19-09-17 21:05:25|1568725525331[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:25|1568725525333[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:25|1568725525338[30256]30317|E|AuthorizeConfig|mLastModified 1568723824000 lastModified 1568723824000
+19-09-17 21:05:25|1568725525339[30256]31631|E|TicketManager|domain: vip.qq.com
+19-09-17 21:05:25|1568725525351[30256]31631|E|TicketManager|get ticket succ, ps!
+19-09-17 21:05:25|1568725525352[30256]30256|E|SwiftBrowserStatistics|onCreate mOnCreateMilliTimeStamp = 1568725525284
+19-09-17 21:05:25|1568725525353[30256]30256|E|SwiftBrowserStatistics|onCreate mClickTime = 1568725525199
+19-09-17 21:05:25|1568725525389[30256]31632|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 57a542b
+19-09-17 21:05:25|1568725525389[30256]31631|E|SwiftBrowserCookieMonster|vip.qq.com: pSkey is miss and fetch result is success
+19-09-17 21:05:25|1568725525408[30256]31631|E|SwiftBrowserCookieMonster|vip.qq.com: pt4Token is miss and fetch result is success
+19-09-17 21:05:25|1568725525439[30256]31632|E|SwiftBrowserCookieMonster|getCookie4WebSo: cookie need update: isNeedReplaceSkey(true), isNeedReplacePskey(true), isNeedReplacePt4Token(true).
+19-09-17 21:05:25|1568725525440[30256]31632|E|SwiftBrowserCookieMonster|skey=m*r
+19-09-17 21:05:25|1568725525441[30256]31632|E|SwiftBrowserCookieMonster|last refresh skey time: 1568723800
+19-09-17 21:05:25|1568725525443[30256]31632|E|mqq|newServlet = com.tencent.mobileqq.webview.webso.WebSoServlet@efd2088
+19-09-17 21:05:25|1568725525453[30256]30256|E|SonicSdk_SonicDBHelper|onUpgrade start, from -1 to 3.
+19-09-17 21:05:25|1568725525453[30256]30256|E|SonicSdk_SonicDBHelper|onUpgrade finish, cost 0ms.
+19-09-17 21:05:25|1568725525464[30256]30256|E|SonicSdk_SonicEngine|createSession fail for sonic service is unavailable!
+19-09-17 21:05:25|1568725525464[30256]30256|E|WebLog_WebViewFragment|initSonicSession sonicSession = null, url = https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:25|1568725525464[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:25|1568725525467[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[2] -> step[4] cost3 ms.
+19-09-17 21:05:25|1568725525467[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[4] -> step[8] cost0 ms.
+19-09-17 21:05:25|1568725525479[30256]30317|E|SonicSdk_SonicChunkDataHelper|Session clear all ChunkData!
+19-09-17 21:05:25|1568725525493[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:25|1568725525499[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[8] -> step[16] cost32 ms.
+19-09-17 21:05:25|1568725525500[30256]30317|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 21:05:25|1568725525576[30256]30317|E|AVModuleExtract|start LoadExtractedSo: TcHevcDec
+19-09-17 21:05:25|1568725525578[30256]30317|E|AVModuleExtract|LoadExtractedSo = TcHevcDec,result = true
+19-09-17 21:05:25|1568725525578[30256]30317|E|SharpPDec|cooperation.SharpPDec------version:13
+19-09-17 21:05:25|1568725525607[30256]30256|E|WebLog_WebViewWrapper|setSonicClient sonicClient = null
+19-09-17 21:05:25|1568725525613[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[16] -> step[32] cost114 ms.
+19-09-17 21:05:25|1568725525617[30256]30256|E|WebCoreDump|-->url:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1 is not in white list
+19-09-17 21:05:25|1568725525626[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[32] -> step[64] cost13 ms.
+19-09-17 21:05:25|1568725525682[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[64] -> step[128] cost56 ms.
+19-09-17 21:05:25|1568725525685[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[128] -> step[256] cost3 ms.
+19-09-17 21:05:25|1568725525696[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[256] -> step[512] cost11 ms.
+19-09-17 21:05:25|1568725525696[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[512] -> step[1024] cost0 ms.
+19-09-17 21:05:25|1568725525703[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[1024] -> step[1] cost7 ms.
+19-09-17 21:05:27|1568725527062[30256]30256|E|WebSoService|onGetHttpData succed(true), url:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:27|1568725527063[30256]30256|E|WebSoPlugin|QZoneWebViewPlugin onReceive  htmlBody(true) currentUrl(null) cache hit(false) hasLoadCache(false) load Url: https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1,silent_mode:false,isLocalData:false
+19-09-17 21:05:27|1568725527068[30256]30256|E|WebSoService|add _WebSoLocalTime=null, add _WebSoNetTime=1568725527063
+19-09-17 21:05:27|1568725527072[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:27|1568725527081[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:27|1568725527097[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:27|1568725527098[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:27|1568725527104[30256]30256|E|UrlCheckLog|now check url=https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1, async=true
+19-09-17 21:05:27|1568725527111[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:28|1568725527130[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:28|1568725527154[30256]30256|E|WebLog_WebViewWrapper|onPageStarted:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:28|1568725527302[30256]31654|E|TicketManager|get ticket succ, sk!
+19-09-17 21:05:28|1568725527499[30256]30256|E|UrlCheckLog|check pass l=11
+19-09-17 21:05:31|1568725531570[30256]30256|E|Web_X5_Performance|Web_X5_Load_Index, dns start: 0, connect start: 0, send start: 0, receive first packet start: 0, receive last packet end: 0
+19-09-17 21:05:31|1568725531570[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: netTimeConsumingReport
+19-09-17 21:05:31|1568725531571[30256]30256|E|SwiftBrowserTBSHandler|Web_qqbrowser_X5_from_loadUrl_to_FirstByte, cost=1608
+19-09-17 21:05:31|1568725531571[30256]30256|E|SwiftBrowserTBSHandler|Web_qqbrowser_X5_from_FirstByte_to_FirstScreen, cost=1337
+19-09-17 21:05:31|1568725531571[30256]30256|E|SwiftBrowserTBSHandler|from click to firstWord time = 3359
+19-09-17 21:05:31|1568725531612[30256]30256|E|WebLog_WebViewWrapper|onPageFinished:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:31|1568725531612[30256]30256|E|SwiftWebViewUtils|isSupportPreRend: 1
+19-09-17 21:05:31|1568725531730[30256]30256|E|SkinEngine|loadConstantState mDrawableCache delete res, resourcesId : 2130847435
+19-09-17 21:05:31|1568725531735[30256]30256|E|SwiftBrowserIdleTaskHelper|call downloadX5Kernel on idle: no need download tbs.
+19-09-17 21:05:37|1568725537325[30256]30256|E|WebLog_QQBrowserActivity|onCreate createTime = 1568725537325
+19-09-17 21:05:37|1568725537327[30256]31758|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine.run cost 1ms.
+19-09-17 21:05:37|1568725537331[30256]31758|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537338[30256]31758|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537338[30256]31758|E|WebLog_SwiftWebAccelerator|doThreadedStep_InitEngine:init plugin engine, cost 11ms.
+19-09-17 21:05:37|1568725537348[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537358[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537359[30256]30256|E|SwiftBrowserStatistics|onCreate mOnCreateMilliTimeStamp = 1568725537325
+19-09-17 21:05:37|1568725537359[30256]30256|E|SwiftBrowserStatistics|onCreate mClickTime = 1568725537277
+19-09-17 21:05:37|1568725537359[30256]30256|E|SwiftBrowserStatistics|onCreate, isWebViewCache = true
+19-09-17 21:05:37|1568725537362[30256]30256|E|WebLog_WebViewFragment|initSonicSession sonicSession = null, url = https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:37|1568725537362[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537363[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[2] -> step[4] cost1 ms.
+19-09-17 21:05:37|1568725537363[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[4] -> step[8] cost0 ms.
+19-09-17 21:05:37|1568725537365[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[8] -> step[16] cost1 ms.
+19-09-17 21:05:37|1568725537368[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537380[30256]31759|E|SwiftBrowserCookieMonster|getCookie4WebSo: cookie need update: isNeedReplaceSkey(true), isNeedReplacePskey(true), isNeedReplacePt4Token(true).
+19-09-17 21:05:37|1568725537382[30256]31759|E|SwiftBrowserCookieMonster|skey=m*r
+19-09-17 21:05:37|1568725537385[30256]31759|E|SwiftBrowserCookieMonster|last refresh skey time: 1568723800
+19-09-17 21:05:37|1568725537459[30256]30256|E|WebLog_WebViewWrapper|setSonicClient sonicClient = null
+19-09-17 21:05:37|1568725537464[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[16] -> step[32] cost99 ms.
+19-09-17 21:05:37|1568725537467[30256]30256|E|WebCoreDump|-->url:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1 is not in white list
+19-09-17 21:05:37|1568725537472[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[32] -> step[64] cost8 ms.
+19-09-17 21:05:37|1568725537504[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[64] -> step[128] cost32 ms.
+19-09-17 21:05:37|1568725537506[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[128] -> step[256] cost2 ms.
+19-09-17 21:05:37|1568725537509[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[256] -> step[512] cost3 ms.
+19-09-17 21:05:37|1568725537509[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[512] -> step[1024] cost0 ms.
+19-09-17 21:05:37|1568725537521[30256]30256|E|WebLog_WebViewFragment|CreateLoop:step[1024] -> step[1] cost12 ms.
+19-09-17 21:05:37|1568725537619[30256]30256|E|WebSoPlugin|QZoneWebViewPlugin onReceive  htmlBody(true) currentUrl(null) cache hit(false) hasLoadCache(false) load Url: https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1,silent_mode:false,isLocalData:true
+19-09-17 21:05:37|1568725537626[30256]30256|E|WebSoService|add _WebSoLocalTime=1568725537620, add _WebSoNetTime=null
+19-09-17 21:05:37|1568725537630[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537632[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537633[30256]30256|E|AuthorizeConfig|preload too often
+19-09-17 21:05:37|1568725537633[30256]30256|E|UrlCheckLog|now check url=https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1, async=true
+19-09-17 21:05:37|1568725537637[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537648[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537665[30256]30317|E|FlatBuffersParser|FlatBuffersParser updateEnable : true
+19-09-17 21:05:37|1568725537728[30256]30256|E|UrlCheckLog|check pass l=11
+19-09-17 21:05:37|1568725537730[30256]30256|E|WebLog_WebViewWrapper|onPageStarted:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:37|1568725537744[30256]31766|E|TicketManager|get ticket succ, sk!
+19-09-17 21:05:39|1568725539426[30256]30256|E|WebSoService|onGetHttpData succed(true), url:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:39|1568725539427[30256]30256|E|WebSoPlugin|QZoneWebViewPlugin onReceive  htmlBody(true) currentUrl(https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1) cache hit(false) hasLoadCache(true) load Url: https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1,silent_mode:false,isLocalData:false
+19-09-17 21:05:39|1568725539708[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:40|1568725540119[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:41|1568725541069[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:42|1568725541226[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:42|1568725541342[30256]30256|E|Web_X5_Performance|Web_X5_Load_Index, dns start: 0, connect start: 0, send start: 0, receive first packet start: 0, receive last packet end: 0
+19-09-17 21:05:42|1568725541343[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: netTimeConsumingReport
+19-09-17 21:05:42|1568725541343[30256]30256|E|SwiftBrowserTBSHandler|Web_qqbrowser_X5_from_loadUrl_to_FirstByte, cost=206
+19-09-17 21:05:42|1568725541343[30256]30256|E|SwiftBrowserTBSHandler|Web_qqbrowser_X5_from_FirstByte_to_FirstScreen, cost=522
+19-09-17 21:05:42|1568725541343[30256]30256|E|SwiftBrowserTBSHandler|from click to firstWord time = 915
+19-09-17 21:05:42|1568725541355[30256]30256|E|WebLog_WebViewWrapper|onPageFinished:https://zb.vip.qq.com/v2/home?_wv=5123&_proxy=1
+19-09-17 21:05:42|1568725541355[30256]30256|E|SwiftWebViewUtils|isSupportPreRend: 1
+19-09-17 21:05:42|1568725541401[30256]30256|E|SkinEngine|loadConstantState mDrawableCache delete res, resourcesId : 2130847435
+19-09-17 21:05:42|1568725542331[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:42|1568725542468[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:42|1568725542669[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:42|1568725542893[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:43|1568725543242[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:43|1568725543382[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:43|1568725543688[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:43|1568725543811[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:44|1568725544187[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:05:44|1568725544581[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:06:14|1568725574043[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:06:14|1568725574160[30256]30256|E|WebLog_WebViewWrapper|onMiscCallBack for one args: onNotifyTouchEvent
+19-09-17 21:07:21|1568725641216[30256]30256|E|MD5|loadso arm msfbootV2 resultCode=3387394
+19-09-17 21:07:21|1568725641216[30256]30256|E|MD5|loadso msfbootV2 true resultCode=3387394 cost=14

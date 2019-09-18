@@ -1,0 +1,8 @@
+.class public interface abstract Lrxh;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+
+# virtual methods
+.method public abstract a(Landroid/view/MotionEvent;)Z
+.end method

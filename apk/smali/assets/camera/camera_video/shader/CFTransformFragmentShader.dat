@@ -1,0 +1,21 @@
+precision highp float;
+ varying vec2 textureCoordinate;
+ varying vec2 textureCoordinate2;
+ uniform lowp sampler2D inputImageTexture;
+ uniform lowp sampler2D inputImageTexture2;
+
+ uniform lowp float alphaBlend;
+
+ void main()
+ {
+     vec4 color1 = vec4(0.0, 0.0, 0.0, 1.0);
+     vec4 color2 = vec4(0.0, 0.0, 0.0, 1.0);
+     if (textureCoordinate.x >= 0.0 && textureCoordinate.x <= 1.0 && textureCoordinate.y >= 0.0 && textureCoordinate.y <= 1.0) {
+         color1 = texture2D(inputImageTexture,textureCoordinate);
+     }
+     if (textureCoordinate2.x >= 0.0 && textureCoordinate2.x <= 1.0 && textureCoordinate2.y >= 0.0 && textureCoordinate2.y <= 1.0) {
+         color2 = texture2D(inputImageTexture2,textureCoordinate2);
+     }
+
+     gl_FragColor = color1 * (1.0 - alphaBlend) + color2 * alphaBlend;
+ }

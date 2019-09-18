@@ -1,0 +1,416 @@
+19-09-17 21:00:01|com.tencent.mobileqq:MSF|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:00:19|1568725219102[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:99778,receiveInterval=9670,addCmdCount=276
+19-09-17 21:00:47|1568725247417[27069]27171|E|MSF.C.NetConnTag|pa ok: 51630
+19-09-17 21:00:47|1568725247418[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51630 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywWMyczPDEVNikzJCYWJjM9Kz4DLTY7CD00 51858 d43c45f
+19-09-17 21:00:47|1568725247534[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51630 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywWMyczPDEVNikzJCYWJjM9Kz4DLTY7CD00 51942 cross:0
+19-09-17 21:00:47|1568725247545[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51630 serviceCmd:friendlist.GetSimpleOnlineFriendInfoReq appSeq:93 failCode:1000 cost=7 needBoot=false
+19-09-17 21:01:19|1568725279105[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:31686,receiveInterval=1536,addCmdCount=277
+19-09-17 21:02:19|1568725339107[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:91687,receiveInterval=1474,addCmdCount=277
+19-09-17 21:03:19|1568725399108[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:151689,receiveInterval=1436,addCmdCount=277
+19-09-17 21:03:20|1568725399853[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread Enter
+19-09-17 21:03:20|1568725399887[27069]27183|E|MSF.C.MonitorNetFlowStore|write data lenth : 687 | read data lenth : 145, has been stored.
+19-09-17 21:03:20|1568725399888[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread End takeTimes=35
+19-09-17 21:04:19|1568725459112[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:211692,receiveInterval=1375,addCmdCount=277
+19-09-17 21:05:11|1568725511149[27069]27069|E|MSF.C.LogManager|onReceive broadcastreceiver.action = android.intent.action.SCREEN_ON
+19-09-17 21:05:11|1568725511297[27069]27171|E|MSF.C.NetConnTag|pa ok: 51633
+19-09-17 21:05:11|1568725511298[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51633 uin:*9100 cmd:BSo0NgkuJnR6OzNgaQ 52533 d43c45f
+19-09-17 21:05:11|1568725511390[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51633 uin:*9100 cmd:BSo0NgkuJnR6OzNgaQ 51937 cross:0
+19-09-17 21:05:11|1568725511394[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51633 serviceCmd:OidbSvc.0xc43 appSeq:94 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:11|1568725511411[27069]27162|E|MSF.C.TokenChecker|checkToken for *9100 now: 1568725511400 lastCheckWebviewKeyTime: 1568723800000 needChangeToken: true isInstant:false
+19-09-17 21:05:11|1568725511411[27069]27162|E|MSF.C.TokenChecker|checkToken renew webKey for *9100 isNewVersion: false delayTime: 701933
+19-09-17 21:05:17|1568725517897[27069]27171|E|MSF.C.NetConnTag|pa ok: 51634
+19-09-17 21:05:17|1568725517898[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51634 uin:*9100 cmd:BSo0NgkuJnR6O2hsPgdy 51742 d43c45f
+19-09-17 21:05:17|1568725517925[27069]27171|E|MSF.C.NetConnTag|pa ok: 51635
+19-09-17 21:05:17|1568725517925[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51635 uin:*9100 cmd:BSo0NgkuJnR6OzMxbwd2 51743 d43c45f
+19-09-17 21:05:17|1568725517971[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51634 uin:*9100 cmd:BSo0NgkuJnR6O2hsPgdy 51770 cross:0
+19-09-17 21:05:17|1568725517974[27069]27171|E|MSF.C.NetConnTag|pa ok: 51636
+19-09-17 21:05:17|1568725517975[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51636 uin:*9100 cmd:GjE/MjM0IAkvMSY9OT1rGSImMz8PKCE7PiYCMSs 51952 d43c45f
+19-09-17 21:05:17|1568725517978[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51634 serviceCmd:OidbSvc.0x88d_7 appSeq:95 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:18|1568725518002[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51635 uin:*9100 cmd:BSo0NgkuJnR6OzMxbwd2 51739 cross:0
+19-09-17 21:05:18|1568725518011[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51635 serviceCmd:OidbSvc.0xce5_3 appSeq:96 failCode:1000 cost=8 needBoot=false
+19-09-17 21:05:18|1568725518018[27069]27171|E|MSF.C.NetConnTag|pa ok: 51637
+19-09-17 21:05:18|1568725518018[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51637 uin:*9100 cmd:GxITOC86BjUnLn4zPywLPz0FPDU9 55777 d43c45f
+19-09-17 21:05:18|1568725518064[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51636 uin:*9100 cmd:GjE/MjM0IAkvMSY9OT1rGSImMz8PKCE7PiYCMSs 51980 cross:0
+19-09-17 21:05:18|1568725518068[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51636 serviceCmd:ProfileService.CheckUpdateReq appSeq:97 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:18|1568725518113[27069]27171|E|MSF.C.NetConnTag|pa ok: 51638
+19-09-17 21:05:18|1568725518113[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51638 uin:*9100 cmd:GRIBLjU2IAk8IH4zPywQNC4mMTgZNzA0Pg 52930 d43c45f
+19-09-17 21:05:19|1568725518157[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51637 uin:*9100 cmd:GxITOC86BjUnLn4zPywLPz0FPDU9 51749 cross:0
+19-09-17 21:05:19|1568725518163[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51637 serviceCmd:QQClubComm.getNewFlag appSeq:98 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:19|1568725518245[27069]27171|E|MSF.C.NetConnTag|pa ok: 51639
+19-09-17 21:05:19|1568725518245[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51639 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 52547 d43c45f
+19-09-17 21:05:19|1568725518259[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51638 uin:*9100 cmd:GRIBLjU2IAk8IH4zPywQNC4mMTgZNzA0Pg 55102 cross:0
+19-09-17 21:05:19|1568725518267[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51638 serviceCmd:SQQzoneSvc.getUndealCount appSeq:99 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:19|1568725518358[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51639 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 51943 cross:0
+19-09-17 21:05:19|1568725518376[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51639 serviceCmd:OidbSvc.0xc42 appSeq:100 failCode:1000 cost=17 needBoot=false
+19-09-17 21:05:19|1568725518452[27069]27171|E|MSF.C.NetConnTag|pa ok: 51641
+19-09-17 21:05:19|1568725518455[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51641 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywRKCUsIBUqKCozJDcCMTc5NzEYJiE 51869 d43c45f
+19-09-17 21:05:19|1568725518470[27069]27171|E|MSF.C.NetConnTag|pa ok: 51642
+19-09-17 21:05:19|1568725518482[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51642 uin:*9100 cmd:BSo0NgkuJnR6O2hsPgd1 51822 d43c45f
+19-09-17 21:05:19|1568725518494[27069]27171|E|MSF.C.NetConnTag|pa ok: 51643
+19-09-17 21:05:19|1568725518495[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51643 uin:*9100 cmd:BSo0NgkuJnR6O2gyYwd0bg 51759 d43c45f
+19-09-17 21:05:19|1568725518509[27069]27171|E|MSF.C.NetConnTag|pa ok: 51644
+19-09-17 21:05:19|1568725518510[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51644 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywILyY3OQAoNyoqAy02Owg9NA 51856 d43c45f
+19-09-17 21:05:19|1568725518536[27069]27171|E|MSF.C.NetConnTag|pa ok: 51645
+19-09-17 21:05:19|1568725518537[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51645 uin:*9100 cmd:BSo0NgkuJnR6O2llOQd0 51737 d43c45f
+19-09-17 21:05:19|1568725518541[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51642 uin:*9100 cmd:BSo0NgkuJnR6O2hsPgd1 52170 cross:0
+19-09-17 21:05:19|1568725518547[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51642 serviceCmd:OidbSvc.0x88d_0 appSeq:102 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:19|1568725518548[27069]27171|E|MSF.C.NetConnTag|pa ok: 51646
+19-09-17 21:05:19|1568725518548[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51646 uin:*9100 cmd:GjE/MjM0IAkvMSY9OT1rCC8yEjUuOy0KOCwzMSkr 52034 d43c45f
+19-09-17 21:05:19|1568725518557[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51644 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywILyY3OQAoNyoqAy02Owg9NA 52140 cross:0
+19-09-17 21:05:19|1568725518559[27069]27171|E|MSF.C.NetConnTag|pa ok: 51647
+19-09-17 21:05:19|1568725518560[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51647 uin:*9100 cmd:BSo0NgkuJnR6O2g3PAdz 51739 d43c45f
+19-09-17 21:05:19|1568725518560[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51644 serviceCmd:friendlist.GetMultiTroopInfoReq appSeq:104 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:19|1568725518578[27069]27171|E|MSF.C.NetConnTag|pa ok: 51648
+19-09-17 21:05:19|1568725518579[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51648 uin:*9100 cmd:BSo0NgkuJnR6OzEybgd0 51772 d43c45f
+19-09-17 21:05:19|1568725518581[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51641 uin:*9100 cmd:LDE5MTQ8KTM5N34TPywRKCUsIBUqKCozJDcCMTc5NzEYJiE 51937 cross:0
+19-09-17 21:05:19|1568725518585[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51641 serviceCmd:friendlist.GetTroopAppointRemarkReq appSeq:101 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:19|1568725518592[27069]27171|E|MSF.C.NetConnTag|pa ok: 51649
+19-09-17 21:05:19|1568725518593[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51649 uin:*9100 cmd:Ay0zJj85Nj8fERwHLCprCxsLNTU+DTc2GCYh 51765 d43c45f
+19-09-17 21:05:19|1568725518668[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51645 uin:*9100 cmd:BSo0NgkuJnR6O2llOQd0 51749 cross:0
+19-09-17 21:05:19|1568725518670[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51646 uin:*9100 cmd:GjE/MjM0IAkvMSY9OT1rCC8yEjUuOy0KOCwzMSkr 52518 cross:0
+19-09-17 21:05:19|1568725518672[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51647 uin:*9100 cmd:BSo0NgkuJnR6O2g3PAdz 51759 cross:0
+19-09-17 21:05:19|1568725518674[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51643 uin:*9100 cmd:BSo0NgkuJnR6O2gyYwd0bg 52067 cross:0
+19-09-17 21:05:19|1568725518675[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51645 serviceCmd:OidbSvc.0x91c_1 appSeq:105 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:19|1568725518680[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51646 serviceCmd:ProfileService.ReqBatchProcess appSeq:106 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:19|1568725518680[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51649 uin:*9100 cmd:Ay0zJj85Nj8fERwHLCprCxsLNTU+DTc2GCYh 51761 cross:0
+19-09-17 21:05:19|1568725518682[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51647 serviceCmd:OidbSvc.0x8cf_6 appSeq:107 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:19|1568725518683[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51643 serviceCmd:OidbSvc.0x8f9_14 appSeq:103 failCode:1000 cost=1 needBoot=false
+19-09-17 21:05:19|1568725518684[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51649 serviceCmd:IncreaseURLSvr.QQHeadUrlReq appSeq:109 failCode:1000 cost=1 needBoot=false
+19-09-17 21:05:19|1568725518689[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51648 uin:*9100 cmd:BSo0NgkuJnR6OzEybgd0 53456 cross:0
+19-09-17 21:05:19|1568725518701[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51648 serviceCmd:OidbSvc.0xaf4_1 appSeq:108 failCode:1000 cost=9 needBoot=false
+19-09-17 21:05:19|1568725518725[27069]27171|E|MSF.C.NetConnTag|pa ok: 51650
+19-09-17 21:05:19|1568725518726[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51650 uin:*9100 cmd:BSo0NgkuJnR6O2gwaQd0 51742 d43c45f
+19-09-17 21:05:19|1568725518788[27069]27171|E|MSF.C.NetConnTag|pa ok: 51651
+19-09-17 21:05:19|1568725518789[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51651 uin:*9100 cmd:BSo0NgkuJnR6O2Vsagd0 51743 d43c45f
+19-09-17 21:05:19|1568725518791[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51650 uin:*9100 cmd:BSo0NgkuJnR6O2gwaQd0 51994 cross:0
+19-09-17 21:05:19|1568725518805[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51650 serviceCmd:OidbSvc.0x8d3_1 appSeq:110 failCode:1000 cost=11 needBoot=false
+19-09-17 21:05:19|1568725518903[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51651 uin:*9100 cmd:BSo0NgkuJnR6O2Vsagd0 51859 cross:0
+19-09-17 21:05:19|1568725518912[27069]27171|E|MSF.C.NetConnTag|pa ok: 51652
+19-09-17 21:05:19|1568725518913[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51652 uin:*9100 cmd:BSo0NgkuJnR6O2dsbQd0 51800 d43c45f
+19-09-17 21:05:19|1568725518914[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51651 serviceCmd:OidbSvc.0x580_1 appSeq:111 failCode:1000 cost=10 needBoot=false
+19-09-17 21:05:19|1568725518924[27069]27171|E|MSF.C.NetConnTag|pa ok: 51653
+19-09-17 21:05:19|1568725518924[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51653 uin:*9100 cmd:BSo0NgkuJnR6O2hhaAdxYg 51857 d43c45f
+19-09-17 21:05:19|1568725519011[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51652 uin:*9100 cmd:BSo0NgkuJnR6O2dsbQd0 52068 cross:0
+19-09-17 21:05:19|1568725519014[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51652 serviceCmd:OidbSvc.0x787_1 appSeq:112 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:19|1568725519094[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51653 uin:*9100 cmd:BSo0NgkuJnR6O2hhaAdxYg 52077 cross:0
+19-09-17 21:05:19|1568725519097[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51653 serviceCmd:OidbSvc.0x852_48 appSeq:113 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:19|1568725519114[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:190,receiveInterval=19,addCmdCount=297
+19-09-17 21:05:20|1568725520289[27069]27171|E|MSF.C.NetConnTag|pa ok: 51656
+19-09-17 21:05:20|1568725520293[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51656 uin:*9100 cmd:BSo0NgkuJnR6O2dtawd1 51804 d43c45f
+19-09-17 21:05:20|1568725520341[27069]27171|E|MSF.C.NetConnTag|pa ok: 51659
+19-09-17 21:05:20|1568725520341[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51659 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 52695 d43c45f
+19-09-17 21:05:20|1568725520440[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51656 uin:*9100 cmd:BSo0NgkuJnR6O2dtawd1 51768 cross:0
+19-09-17 21:05:20|1568725520452[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51656 serviceCmd:OidbSvc.0x791_0 appSeq:114 failCode:1000 cost=10 needBoot=false
+19-09-17 21:05:20|1568725520455[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51659 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 51963 cross:0
+19-09-17 21:05:20|1568725520461[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51659 serviceCmd:OidbSvc.0xc42 appSeq:115 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:20|1568725520635[27069]27171|E|MSF.C.NetConnTag|pa ok: 51664
+19-09-17 21:05:20|1568725520638[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51664 uin:*9100 cmd:BSo0NgkuJnR6O2dtawd1 51812 d43c45f
+19-09-17 21:05:20|1568725520747[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51664 uin:*9100 cmd:BSo0NgkuJnR6O2dtawd1 51776 cross:0
+19-09-17 21:05:20|1568725520755[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51664 serviceCmd:OidbSvc.0x791_0 appSeq:116 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:21|1568725521212[27069]27171|E|MSF.C.NetConnTag|pa ok: 51667
+19-09-17 21:05:21|1568725521216[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51667 uin:*9100 cmd:GTcxIAkuJnQNJiQbNDQsNC8QJDUuLTY 51767 d43c45f
+19-09-17 21:05:21|1568725521259[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51667 uin:*9100 cmd:GTcxIAkuJnQNJiQbNDQsNC8QJDUuLTY 51795 cross:0
+19-09-17 21:05:21|1568725521264[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51667 serviceCmd:StatSvc.GetOnlineStatus appSeq:117 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:22|1568725522542[27069]27171|E|MSF.C.NetConnTag|pa ok: 51671
+19-09-17 21:05:22|1568725522545[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51671 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 52619 d43c45f
+19-09-17 21:05:22|1568725522631[27069]27171|E|MSF.C.NetConnTag|pa ok: 51672
+19-09-17 21:05:22|1568725522635[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51672 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 52612 d43c45f
+19-09-17 21:05:22|1568725522637[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51671 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 51975 cross:0
+19-09-17 21:05:22|1568725522643[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51671 serviceCmd:OidbSvc.0xc42 appSeq:118 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:22|1568725522722[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51672 uin:*9100 cmd:BSo0NgkuJnR6OzNgaA 51976 cross:0
+19-09-17 21:05:22|1568725522725[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51672 serviceCmd:OidbSvc.0xc42 appSeq:119 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:23|1568725523841[27069]27171|E|MSF.C.NetConnTag|pa ok: 51674
+19-09-17 21:05:23|1568725523841[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51674 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51774 d43c45f
+19-09-17 21:05:23|1568725523851[27069]27171|E|MSF.C.NetConnTag|pa ok: 51676
+19-09-17 21:05:23|1568725523852[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51676 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51776 d43c45f
+19-09-17 21:05:23|1568725523892[27069]27171|E|MSF.C.NetConnTag|pa ok: 51677
+19-09-17 21:05:23|1568725523893[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51677 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 53817 d43c45f
+19-09-17 21:05:23|1568725523896[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51674 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51786 cross:0
+19-09-17 21:05:23|1568725523905[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51674 serviceCmd:OidbSvc.0x480_9 appSeq:120 failCode:1000 cost=8 needBoot=false
+19-09-17 21:05:23|1568725523907[27069]27171|E|MSF.C.NetConnTag|pa ok: 51678
+19-09-17 21:05:23|1568725523908[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51678 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 54226 d43c45f
+19-09-17 21:05:23|1568725523927[27069]27171|E|MSF.C.NetConnTag|pa ok: 51679
+19-09-17 21:05:23|1568725523927[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51679 uin:*9100 cmd:Bio3PC4ZNSoZNTN6KykaKT4sIi0FOykzLy0keh09MQk+LCItHD0gPgYqIyA 52067 d43c45f
+19-09-17 21:05:23|1568725523930[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51676 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51788 cross:0
+19-09-17 21:05:23|1568725523933[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51676 serviceCmd:OidbSvc.0x480_9 appSeq:121 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:23|1568725523963[27069]27171|E|MSF.C.NetConnTag|pa ok: 51680
+19-09-17 21:05:23|1568725523964[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51680 uin:*9100 cmd:Bio3PC4ZNSoZNTN6NzErMxUiICQFPCYoLzM/Ji52ATkYJiA7KCw 53332 d43c45f
+19-09-17 21:05:23|1568725523990[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51677 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 51885 cross:0
+19-09-17 21:05:23|1568725523991[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51678 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 51886 cross:0
+19-09-17 21:05:24|1568725524002[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51677 serviceCmd:CliLogSvc.UploadReq appSeq:122 failCode:1000 cost=10 needBoot=false
+19-09-17 21:05:24|1568725524006[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51678 serviceCmd:CliLogSvc.UploadReq appSeq:123 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:24|1568725524124[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51679 uin:*9100 cmd:Bio3PC4ZNSoZNTN6KykaKT4sIi0FOykzLy0keh09MQk+LCItHD0gPgYqIyA 51855 cross:0
+19-09-17 21:05:24|1568725524125[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51680 uin:*9100 cmd:Bio3PC4ZNSoZNTN6NzErMxUiICQFPCYoLzM/Ji52ATkYJiA7KCw 51792 cross:0
+19-09-17 21:05:24|1568725524128[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51679 serviceCmd:LightAppSvc.qq_story_client.GetStoryFeedList appSeq:124 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:24|1568725524133[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51680 serviceCmd:LightAppSvc.mini_app_dcreport.DcReport appSeq:125 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:25|1568725524865[27069]27069|E|MSF.S.MsfService|MSF_Alive_Log serivce onStart
+19-09-17 21:05:25|1568725524890[27069]27091|E|MSF.S.ReqHandler|handleMsfRequest registerMsfService
+19-09-17 21:05:25|1568725524890[27069]27091|E|MSF.S.AppProcessManager|onRegisterApp process=com.tencent.mobileqq:peak processBootName= appid=537062133 callback=776c739
+19-09-17 21:05:25|1568725524905[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini_internal fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:25|1568725524910[27069]27283|E|MSF.S.ReqHandler|handleMsfRequest registerMsfService
+19-09-17 21:05:25|1568725524911[27069]27283|E|MSF.S.AppProcessManager|onRegisterApp process=com.tencent.mobileqq:peak processBootName= appid=537062133 callback=d5c617e
+19-09-17 21:05:25|1568725524913[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini3 fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:25|1568725524919[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:qzone fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:25|1568725524924[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:qzone fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:25|1568725524930[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:25|1568725524937[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:25|1568725524944[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:tool fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:25|1568725524951[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:tool fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:25|1568725524961[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=10 needBoot=false
+19-09-17 21:05:25|1568725524966[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:25|1568725524973[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:peak fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:25|1568725524978[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:peak fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:25|1568725524983[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini_internal fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:25|1568725524988[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq:mini3 fromServiceMsg: FromServiceMsg msName:pushSetConfig ssoSeq:-1 serviceCmd:cmd_pushSetConfig appSeq:-1 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:25|1568725524998[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq:peak fromServiceMsg: FromServiceMsg msName:getAlterTickets ssoSeq:51689 serviceCmd: appSeq:1 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:25|1568725525204[27069]27171|E|MSF.C.NetConnTag|pa ok: 51690
+19-09-17 21:05:25|1568725525205[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51690 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51814 d43c45f
+19-09-17 21:05:25|1568725525264[27069]27171|E|MSF.C.NetConnTag|pa ok: 51693
+19-09-17 21:05:25|1568725525265[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51693 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51793 d43c45f
+19-09-17 21:05:25|1568725525310[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51693 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51805 cross:0
+19-09-17 21:05:25|1568725525314[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51693 serviceCmd:OidbSvc.0x480_9 appSeq:127 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:25|1568725525346[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51690 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51786 cross:0
+19-09-17 21:05:25|1568725525354[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51690 serviceCmd:RedTouchSvc.ClientReport appSeq:126 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:25|1568725525495[27069]27171|E|MSF.C.NetConnTag|pa ok: 51694
+19-09-17 21:05:25|1568725525496[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51694 uin:*9100 cmd:JzIhIz86ayAobScxOCsq 52754 d43c45f
+19-09-17 21:05:26|1568725526974[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51694 uin:*9100 cmd:JzIhIz86ayAobScxOCsq 139574 cross:0
+19-09-17 21:05:26|1568725526981[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq:tool fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51694 serviceCmd:mqqweb.zb.webso appSeq:3 failCode:1000 cost=6 needBoot=false
+19-09-17 21:05:27|1568725527125[27069]27171|E|MSF.C.NetConnTag|pa ok: 51697
+19-09-17 21:05:27|1568725527126[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51697 uin:*9100 cmd:BSo0NgkuJnR6OzI3OAd1 51909 d43c45f
+19-09-17 21:05:28|1568725527438[27069]27171|E|MSF.C.NetConnTag|pa ok: 51698
+19-09-17 21:05:28|1568725527438[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51698 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52526 d43c45f
+19-09-17 21:05:28|1568725527486[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51697 uin:*9100 cmd:BSo0NgkuJnR6OzI3OAd1 51865 cross:0
+19-09-17 21:05:28|1568725527491[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51697 serviceCmd:OidbSvc.0xbcb_0 appSeq:128 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:28|1568725527677[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51698 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52106 cross:0
+19-09-17 21:05:28|1568725527680[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51698 serviceCmd:SQQzoneSvc.ClientReport appSeq:129 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:28|1568725527743[27069]27171|E|MSF.C.NetConnTag|pa ok: 51701
+19-09-17 21:05:28|1568725527743[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51701 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52513 d43c45f
+19-09-17 21:05:28|1568725527827[27069]27171|E|MSF.C.NetConnTag|pa ok: 51702
+19-09-17 21:05:28|1568725527827[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51702 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52498 d43c45f
+19-09-17 21:05:28|1568725527839[27069]27171|E|MSF.C.NetConnTag|pa ok: 51703
+19-09-17 21:05:28|1568725527839[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51703 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52499 d43c45f
+19-09-17 21:05:28|1568725527940[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51701 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52109 cross:0
+19-09-17 21:05:28|1568725527945[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51701 serviceCmd:SQQzoneSvc.ClientReport appSeq:130 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:28|1568725528080[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51702 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52110 cross:0
+19-09-17 21:05:28|1568725528081[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51703 uin:*9100 cmd:GRIBLjU2IAk8IH4XNjEgND4RNSQ1KjE 52111 cross:0
+19-09-17 21:05:28|1568725528085[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51702 serviceCmd:SQQzoneSvc.ClientReport appSeq:131 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:28|1568725528087[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51703 serviceCmd:SQQzoneSvc.ClientReport appSeq:132 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:29|1568725528229[27069]27171|E|MSF.C.NetConnTag|pa ok: 51705
+19-09-17 21:05:29|1568725528230[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51705 uin:*9100 cmd:BywyPTY9Fz86LCIgdA02PzgCMyAzNysILzM/Ji4 52445 d43c45f
+19-09-17 21:05:29|1568725528816[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51705 uin:*9100 cmd:BywyPTY9Fz86LCIgdA02PzgCMyAzNysILzM/Ji4 51825 cross:0
+19-09-17 21:05:29|1568725528819[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51705 serviceCmd:MobileReport.UserActionReport appSeq:133 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:31|1568725531640[27069]27171|E|MSF.C.NetConnTag|pa ok: 51710
+19-09-17 21:05:31|1568725531640[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51710 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 52010 d43c45f
+19-09-17 21:05:33|1568725533532[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onCreate 
+19-09-17 21:05:33|1568725533538[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onStartJob 
+19-09-17 21:05:33|1568725533539[27069]27167|E|MSF.C.ConfigManager|MSF_Alive_Log get config jobscheduler_enable=2
+19-09-17 21:05:33|1568725533540[27069]27167|E|MSFAliveManager|MSF_Alive_Log get job state = 2
+19-09-17 21:05:33|1568725533540[27069]27167|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService handleMessage start service
+19-09-17 21:05:34|1568725534637[27069]27171|E|MSF.C.NetConnTag|pa ok: 51711
+19-09-17 21:05:34|1568725534637[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51711 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51859 d43c45f
+19-09-17 21:05:34|1568725534688[27069]27171|E|MSF.C.NetConnTag|pa ok: 51713
+19-09-17 21:05:34|1568725534689[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51713 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51813 d43c45f
+19-09-17 21:05:34|1568725534745[27069]27171|E|MSF.C.NetConnTag|pa ok: 51714
+19-09-17 21:05:34|1568725534746[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51714 uin:*9100 cmd:GRIBLjU2IAk8IH4zPywQNC4mMTgZNzA0Pg 53006 d43c45f
+19-09-17 21:05:34|1568725534748[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51713 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51825 cross:0
+19-09-17 21:05:34|1568725534756[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51713 serviceCmd:OidbSvc.0x480_9 appSeq:136 failCode:1000 cost=7 needBoot=false
+19-09-17 21:05:34|1568725534923[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51711 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51807 cross:0
+19-09-17 21:05:34|1568725534931[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51711 serviceCmd:RedTouchSvc.ClientReport appSeq:135 failCode:1000 cost=5 needBoot=false
+19-09-17 21:05:34|1568725534938[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51714 uin:*9100 cmd:GRIBLjU2IAk8IH4zPywQNC4mMTgZNzA0Pg 53386 cross:0
+19-09-17 21:05:34|1568725534941[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51714 serviceCmd:SQQzoneSvc.getUndealCount appSeq:137 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:35|1568725535070[27069]27171|E|MSF.C.NetConnTag|pa ok: 51716
+19-09-17 21:05:35|1568725535070[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51716 uin:*9100 cmd:BSo0NgkuJnR6O2dgOA 51832 d43c45f
+19-09-17 21:05:36|1568725535281[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51716 uin:*9100 cmd:BSo0NgkuJnR6O2dgOA 51860 cross:0
+19-09-17 21:05:36|1568725535284[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51716 serviceCmd:OidbSvc.0x74b appSeq:138 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:37|1568725537290[27069]27171|E|MSF.C.NetConnTag|pa ok: 51722
+19-09-17 21:05:37|1568725537292[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51722 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51846 d43c45f
+19-09-17 21:05:37|1568725537338[27069]27171|E|MSF.C.NetConnTag|pa ok: 51725
+19-09-17 21:05:37|1568725537338[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51725 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51825 d43c45f
+19-09-17 21:05:37|1568725537389[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51722 uin:*9100 cmd:GCY0ADUtJjIZNTN6GTQsPyQ3AjEqNzcu 51818 cross:0
+19-09-17 21:05:37|1568725537392[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51722 serviceCmd:RedTouchSvc.ClientReport appSeq:139 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:37|1568725537416[27069]27171|E|MSF.C.NetConnTag|pa ok: 51726
+19-09-17 21:05:37|1568725537417[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51726 uin:*9100 cmd:JzIhIz86ayAobScxOCsq 52914 d43c45f
+19-09-17 21:05:37|1568725537420[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51725 uin:*9100 cmd:BSo0NgkuJnR6O2Rsagd8 51837 cross:0
+19-09-17 21:05:37|1568725537423[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51725 serviceCmd:OidbSvc.0x480_9 appSeq:140 failCode:1000 cost=2 needBoot=false
+19-09-17 21:05:39|1568725539344[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51726 uin:*9100 cmd:JzIhIz86ayAobScxOCsq 140030 cross:0
+19-09-17 21:05:39|1568725539350[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq:tool fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51726 serviceCmd:mqqweb.zb.webso appSeq:4 failCode:1000 cost=4 needBoot=false
+19-09-17 21:05:40|1568725540306[27069]27171|E|MSF.C.NetConnTag|pa ok: 51727
+19-09-17 21:05:40|1568725540307[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51727 uin:*9100 cmd:BywyPTY9Fz86LCIgdA02PzgCMyAzNysILzM/Ji4 52467 d43c45f
+19-09-17 21:05:40|1568725540374[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51727 uin:*9100 cmd:BywyPTY9Fz86LCIgdA02PzgCMyAzNysILzM/Ji4 51847 cross:0
+19-09-17 21:05:40|1568725540377[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51727 serviceCmd:MobileReport.UserActionReport appSeq:141 failCode:1000 cost=3 needBoot=false
+19-09-17 21:05:41|1568725541367[27069]27171|E|MSF.C.NetConnTag|pa ok: 51728
+19-09-17 21:05:41|1568725541368[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51728 uin:*9100 cmd:CS85GDU/FiwpbQUkNjckPhgmIQ 52028 d43c45f
+19-09-17 21:05:58|1568725558799[27069]27171|E|MSF.C.NetConnTag|pa ok: 51739
+19-09-17 21:05:58|1568725558800[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51739 uin:*9100 cmd:GxIHMTssLT84ETUkNSoxdC0mJAM/OTEyLzESLRY6Ng 51847 d43c45f
+19-09-17 21:05:58|1568725558812[27069]27171|E|MSF.C.NetConnTag|pa ok: 51740
+19-09-17 21:05:58|1568725558814[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51740 uin:*9100 cmd:GxIHMTssLT84ETUkNSoxdC0mJAM/OTEyLzESLRY6Ng 51848 d43c45f
+19-09-17 21:05:58|1568725558985[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51740 uin:*9100 cmd:GxIHMTssLT84ETUkNSoxdC0mJAM/OTEyLzESLRY6Ng 51892 cross:0
+19-09-17 21:05:58|1568725558997[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51740 serviceCmd:QQWeatherReport.getWeatherByLbs appSeq:144 failCode:1000 cost=10 needBoot=false
+19-09-17 21:05:59|1568725559111[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51739 uin:*9100 cmd:GxIHMTssLT84ETUkNSoxdC0mJAM/OTEyLzESLRY6Ng 51891 cross:0
+19-09-17 21:05:59|1568725559115[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51739 serviceCmd:QQWeatherReport.getWeatherByLbs appSeq:143 failCode:1000 cost=3 needBoot=false
+19-09-17 21:06:19|1568725579118[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:20303,receiveInterval=20005,addCmdCount=330
+19-09-17 21:06:44|1568725604949[27069]27851|E|GuardManager|onEvent:1, 0, 0
+19-09-17 21:06:45|1568725605067[27069]27069|E|MSF.C.LogManager|onReceive broadcastreceiver.action = android.intent.action.SCREEN_OFF
+19-09-17 21:06:45|1568725605244[27069]27171|E|MSF.C.NetConnTag|pa ok: 51744
+19-09-17 21:06:45|1568725605246[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51744 uin:*9100 cmd:BSo0NgkuJnR6OzNgaQ 52700 d43c45f
+19-09-17 21:06:45|1568725605330[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51744 uin:*9100 cmd:BSo0NgkuJnR6OzNgaQ 52048 cross:0
+19-09-17 21:06:45|1568725605335[27069]27180|E|MSF.S.AppProcessManager|SendToApp process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:unknown ssoSeq:51744 serviceCmd:OidbSvc.0xc43 appSeq:146 failCode:1000 cost=3 needBoot=false
+19-09-17 21:06:49|1568725609257[27069]27091|E|MSF.S.AppProcessInfo|binderDied appProcessName=com.tencent.mobileqq:mini keepProcessAlive=false
+19-09-17 21:07:07|1568725627538[27069]27090|E|MSF.S.AppProcessInfo|binderDied appProcessName=com.tencent.mobileqq:mini3 keepProcessAlive=false
+19-09-17 21:07:07|1568725627552[27069]27283|E|MSF.S.AppProcessInfo|binderDied appProcessName=com.tencent.mobileqq:mini_internal keepProcessAlive=false
+19-09-17 21:07:19|1568725639121[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:33874,receiveInterval=3757,addCmdCount=331
+19-09-17 21:07:21|1568725641268[27069]27283|E|MSF.S.AppProcessInfo|binderDied appProcessName=com.tencent.mobileqq:peak keepProcessAlive=false
+19-09-17 21:08:19|1568725699124[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:93878,receiveInterval=3697,addCmdCount=331
+19-09-17 21:08:56|1568725736070[27069]27069|E|MSF.C.LogManager|onReceive broadcastreceiver.action = android.intent.action.SCREEN_ON
+19-09-17 21:08:57|1568725737889[27069]27069|E|MSF.C.LogManager|onReceive broadcastreceiver.action = android.intent.action.SCREEN_OFF
+19-09-17 21:09:19|1568725759128[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:153881,receiveInterval=3636,addCmdCount=331
+19-09-17 21:09:45|1568725785451[27069]27851|E|MSF.S.ReqHandler|handleMsfRequest unRegisterMsfService
+19-09-17 21:09:45|1568725785451[27069]27851|E|MSF.S.AppProcessManager|onUnRegisterApp process=com.tencent.mobileqq:qzone stopWakeupProcess=true
+19-09-17 21:09:45|1568725785451[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread Enter
+19-09-17 21:09:45|1568725785476[27069]27183|E|MSF.C.MonitorNetFlowStore|write data lenth : 6309 | read data lenth : 868, has been stored.
+19-09-17 21:09:45|1568725785477[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread End takeTimes=25
+19-09-17 21:10:19|1568725819131[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:213885,receiveInterval=3577,addCmdCount=331
+19-09-17 21:11:15|1568725875350[27069]27171|E|MSF.C.NetConnTag|pa ok: 51748
+19-09-17 21:11:15|1568725875353[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51748 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51832 d43c45f
+19-09-17 21:11:15|1568725875461[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51748 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51860 cross:0
+19-09-17 21:11:19|1568725879135[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:3781,receiveInterval=3664,addCmdCount=332
+19-09-17 21:12:19|1568725939139[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:63785,receiveInterval=3605,addCmdCount=332
+19-09-17 21:13:19|1568725999141[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:123788,receiveInterval=3547,addCmdCount=332
+19-09-17 21:14:19|1568726059145[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:183792,receiveInterval=3505,addCmdCount=332
+19-09-17 21:15:19|1568726119149[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:243795,receiveInterval=3448,addCmdCount=332
+19-09-17 21:15:27|1568726127684[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread Enter
+19-09-17 21:15:27|1568726127699[27069]27183|E|MSF.C.MonitorNetFlowStore|write data lenth : 0 | read data lenth : 145, has been stored.
+19-09-17 21:15:27|1568726127700[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread End takeTimes=16
+19-09-17 21:15:27|1568726127700[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread Enter
+19-09-17 21:15:27|1568726127713[27069]27183|E|MSF.C.MonitorNetFlowStore|write data lenth : 893 | read data lenth : 0, has been stored.
+19-09-17 21:15:27|1568726127714[27069]27183|E|MSF.C.MonitorNetFlowStore|MonitorWriteDataThread End takeTimes=14
+19-09-17 21:15:45|1568726145490[27069]27171|E|MSF.C.NetConnTag|pa ok: 51752
+19-09-17 21:15:45|1568726145501[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51752 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51836 d43c45f
+19-09-17 21:15:45|1568726145589[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51752 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51864 cross:0
+19-09-17 21:16:19|1568726179152[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:33650,receiveInterval=3523,addCmdCount=333
+19-09-17 21:16:46|1568726206179[27069]27091|E|MSF.S.AppProcessInfo|binderDied appProcessName=com.tencent.mobileqq:tool keepProcessAlive=false
+19-09-17 21:16:53|1568726213377[27069]27162|E|MSF.C.WTLoginCenter|changeTokenAfterLogin checkIsNeedLoginWithPasswd 1 process: cmd:login.chgTok_WEBVIEW_KEY
+19-09-17 21:16:53|1568726213380[27069]27162|E|MSF.C.TokenChecker|refresh webKey indeed
+19-09-17 21:16:53|1568726213593[27069]27171|E|MSF.C.NetConnTag|pa ok: 51754
+19-09-17 21:16:53|1568726213596[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51754 uin:*9100 cmd:PTc8Oz0xK3QvOzM8OzYiPxUmPSQ 53014 d43c45f
+19-09-17 21:16:53|1568726213896[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51754 uin:*9100 cmd:PTc8Oz0xK3QvOzM8OzYiPxUmPSQ 53818 cross:0
+19-09-17 21:16:53|1568726213897[27069]27333|E|MSF.C.WTLoginCenter.MsfProvider|onRecvData find wtloginMsfListener for 51754
+19-09-17 21:16:54|1568726214265[27069]27069|E|MSF.C.WTLoginCenter.MsfProvider|51754 serviceCmd=login.chgTok_WEBVIEW_KEY OnGetStWithoutPasswd2 succ, dwMainSigMap=34607328, dwDstSubAppid.length=1, st.length=0
+19-09-17 21:16:54|1568726214271[27069]27180|E|MSF.S.AppProcessManager|DeadObjectException process=com.tencent.mobileqq:mini_internal cost=1
+android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(Binder.java:764)
+	at com.tencent.qphone.base.remote.IMsfServiceCallbacker$Stub$Proxy.onRecvPushResp(IMsfServiceCallbacker.java:139)
+	at com.tencent.mobileqq.msf.service.b.a(AppProcessManager.java:426)
+	at com.tencent.mobileqq.msf.service.b.run(AppProcessManager.java:337)
+
+19-09-17 21:16:54|1568726214273[27069]27180|E|MSF.S.AppProcessManager|DeadObjectException process=com.tencent.mobileqq:mini3 cost=1
+android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(Binder.java:764)
+	at com.tencent.qphone.base.remote.IMsfServiceCallbacker$Stub$Proxy.onRecvPushResp(IMsfServiceCallbacker.java:139)
+	at com.tencent.mobileqq.msf.service.b.a(AppProcessManager.java:426)
+	at com.tencent.mobileqq.msf.service.b.run(AppProcessManager.java:337)
+
+19-09-17 21:16:54|1568726214274[27069]27180|E|MSF.S.AppProcessManager|DeadObjectException process=com.tencent.mobileqq:mini cost=1
+android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(Binder.java:764)
+	at com.tencent.qphone.base.remote.IMsfServiceCallbacker$Stub$Proxy.onRecvPushResp(IMsfServiceCallbacker.java:139)
+	at com.tencent.mobileqq.msf.service.b.a(AppProcessManager.java:426)
+	at com.tencent.mobileqq.msf.service.b.run(AppProcessManager.java:337)
+
+19-09-17 21:16:54|1568726214275[27069]27180|E|MSF.S.AppProcessManager|DeadObjectException process=com.tencent.mobileqq:tool cost=1
+android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(Binder.java:764)
+	at com.tencent.qphone.base.remote.IMsfServiceCallbacker$Stub$Proxy.onRecvPushResp(IMsfServiceCallbacker.java:139)
+	at com.tencent.mobileqq.msf.service.b.a(AppProcessManager.java:426)
+	at com.tencent.mobileqq.msf.service.b.run(AppProcessManager.java:337)
+
+19-09-17 21:16:54|1568726214296[27069]27180|E|MSF.S.AppProcessManager|SendToApp PUSH process:com.tencent.mobileqq fromServiceMsg: FromServiceMsg msName:onTicketChanged ssoSeq:51755 serviceCmd:msf.ticketchanged appSeq:-1 failCode:1000 cost=21 needBoot=false
+19-09-17 21:16:54|1568726214306[27069]27180|E|MSF.S.AppProcessManager|DeadObjectException process=com.tencent.mobileqq:peak cost=9
+android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(Binder.java:764)
+	at com.tencent.qphone.base.remote.IMsfServiceCallbacker$Stub$Proxy.onRecvPushResp(IMsfServiceCallbacker.java:139)
+	at com.tencent.mobileqq.msf.service.b.a(AppProcessManager.java:426)
+	at com.tencent.mobileqq.msf.service.b.run(AppProcessManager.java:337)
+
+19-09-17 21:16:54|1568726214338[27069]27171|E|MSF.C.NetConnTag|pa ok: 51756
+19-09-17 21:16:54|1568726214342[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51756 uin:*9100 cmd:PTc8Oz0xK3Q+MTE6KQcgNzo 52440 d43c45f
+19-09-17 21:16:54|1568726214345[27069]27069|E|MSF.C.TokenChecker|RENEW webview key succ for *9100
+19-09-17 21:16:54|1568726214355[27069]27069|E|MSF.C.WTLoginCenter.MsfProvider|OnGetStWithoutPasswd2 M2oC c8Gh ffffffa46bffffffa9ffffff94 *
+19-09-17 21:16:54|1568726214404[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51756 uin:*9100 cmd:PTc8Oz0xK3Q+MTE6KQcgNzo 51892 cross:0
+19-09-17 21:16:54|1568726214404[27069]27333|E|MSF.C.WTLoginCenter.MsfProvider|onRecvData find wtloginMsfListener for 51756
+19-09-17 21:17:19|1568726239155[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:24812,receiveInterval=24749,addCmdCount=335
+19-09-17 21:18:19|1568726299159[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:84816,receiveInterval=24712,addCmdCount=335
+19-09-17 21:19:19|1568726359161[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:144818,receiveInterval=24675,addCmdCount=335
+19-09-17 21:19:29|1568726369071[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onCreate 
+19-09-17 21:19:29|1568726369078[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onStartJob 
+19-09-17 21:19:29|1568726369079[27069]27167|E|MSF.C.ConfigManager|MSF_Alive_Log get config jobscheduler_enable=2
+19-09-17 21:19:29|1568726369079[27069]27167|E|MSFAliveManager|MSF_Alive_Log get job state = 2
+19-09-17 21:19:29|1568726369079[27069]27167|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService handleMessage start service
+19-09-17 21:20:19|1568726419163[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:204820,receiveInterval=24617,addCmdCount=335
+19-09-17 21:21:19|1568726479165[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:264823,receiveInterval=24566,addCmdCount=335
+19-09-17 21:21:24|1568726484437[27069]27171|E|MSF.C.NetConnTag|pa ok: 51757
+19-09-17 21:21:24|1568726484449[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51757 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51841 d43c45f
+19-09-17 21:21:24|1568726484636[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51757 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51869 cross:0
+19-09-17 21:22:19|1568726539169[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:54719,receiveInterval=24506,addCmdCount=336
+19-09-17 21:23:19|1568726599174[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:114724,receiveInterval=24446,addCmdCount=336
+19-09-17 21:24:19|1568726659178[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:174729,receiveInterval=24407,addCmdCount=336
+19-09-17 21:24:46|1568726686603[27069]27283|E|GuardManager|onEvent:2, 720000, 0
+19-09-17 21:25:19|1568726719183[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:234732,receiveInterval=24380,addCmdCount=336
+19-09-17 21:26:19|1568726779185[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:294736,receiveInterval=24326,addCmdCount=336
+19-09-17 21:27:19|1568726839190[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:354740,receiveInterval=24281,addCmdCount=336
+19-09-17 21:28:04|1568726884973[27069]27171|E|MSF.C.NetConnTag|pa ok: 51760
+19-09-17 21:28:04|1568726884984[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51760 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51844 d43c45f
+19-09-17 21:28:04|1568726884997[27069]27171|E|MSF.C.NetConnTag|pa ok: 51761
+19-09-17 21:28:04|1568726884998[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51761 uin:0 cmd:AiYxJi46IDs+bRE4My4g 51887 d43c45f
+19-09-17 21:28:05|1568726885123[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51761 uin:0 cmd:AiYxJi46IDs+bRE4My4g 51827 cross:0
+19-09-17 21:28:05|1568726885166[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51760 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51872 cross:0
+19-09-17 21:28:19|1568726899192[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:14194,receiveInterval=14021,addCmdCount=338
+19-09-17 21:29:19|1568726959194[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:74196,receiveInterval=13964,addCmdCount=338
+19-09-17 21:30:19|1568727019196[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:134197,receiveInterval=13906,addCmdCount=338
+19-09-17 21:31:19|1568727079199[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:194200,receiveInterval=13861,addCmdCount=338
+19-09-17 21:32:19|1568727139202[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:254203,receiveInterval=13803,addCmdCount=338
+19-09-17 21:33:19|1568727199205[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:314206,receiveInterval=13751,addCmdCount=338
+19-09-17 21:34:19|1568727259207[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:374209,receiveInterval=13700,addCmdCount=338
+19-09-17 21:35:19|1568727319211[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:434212,receiveInterval=13666,addCmdCount=338
+19-09-17 21:35:57|1568727357624[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onCreate 
+19-09-17 21:35:57|1568727357630[27069]27069|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService onStartJob 
+19-09-17 21:35:57|1568727357644[27069]27167|E|MSF.C.ConfigManager|MSF_Alive_Log get config jobscheduler_enable=2
+19-09-17 21:35:57|1568727357645[27069]27167|E|MSFAliveManager|MSF_Alive_Log get job state = 2
+19-09-17 21:35:57|1568727357646[27069]27167|E|MSFAliveJobService|MSF_Alive_Log MSFAliveJobService handleMessage start service
+19-09-17 21:35:57|1568727357717[27069]27171|E|MSF.C.ConfigManager|send checkConfig uin=*9100 appid=537062133
+19-09-17 21:35:57|1568727357727[27069]27171|E|MSF.C.NetConnTag|pa ok: 51762
+19-09-17 21:35:57|1568727357729[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51762 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51846 d43c45f
+19-09-17 21:35:57|1568727357740[27069]27171|E|MSF.C.NetConnTag|pa ok: 51764
+19-09-17 21:35:57|1568727357741[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51764 uin:0 cmd:AiYxJi46IDs+bRE4My4g 51890 d43c45f
+19-09-17 21:35:57|1568727357752[27069]27171|E|MSF.C.NetConnTag|pa ok: 51763
+19-09-17 21:35:57|1568727357753[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51763 uin:*9100 cmd:CSw+MjM/Fj84NTk3P3YGNiMmPiAIPTQ 51975 d43c45f
+19-09-17 21:35:57|1568727357905[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51762 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51874 cross:0
+19-09-17 21:35:57|1568727357957[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51764 uin:0 cmd:AiYxJi46IDs+bRE4My4g 51830 cross:0
+19-09-17 21:35:57|1568727357969[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51763 uin:*9100 cmd:CSw+MjM/Fj84NTk3P3YGNiMmPiAIPTQ 52147 cross:0
+19-09-17 21:35:57|1568727357971[27069]27333|E|MSF.C.ConfigManager|handleConfig before quic_enable=1
+19-09-17 21:35:57|1568727357979[27069]27162|E|MSF.C.TokenChecker|checkToken for *9100 now: 1568727357945 lastCheckWebviewKeyTime: 1568726213000 needChangeToken: false isInstant:false
+19-09-17 21:35:57|1568727357982[27069]27333|E|MSF.C.ConfigManager|parse quic_enable config error
+19-09-17 21:35:58|1568727358016[27069]27333|E|MsfSdkUtils|writeServerConfig processName:com.tencent.mobileqq,configType:1,uin:1150289100
+19-09-17 21:35:58|1568727358028[27069]27333|E|MSF.C.ConfigManager|StandbyMode whitelist not be found.
+19-09-17 21:35:58|1568727358028[27069]27333|E|MSF.C.ConfigManager|handleConfig after quic_enable=1
+19-09-17 21:35:58|1568727358411[27069]1788|E|MSF.C.SsoListManager|save wifi policy id=2019-09-17 21:36:27 deliverying a policy
+19-09-17 21:35:58|1568727358419[27069]1788|E|MSF.C.SsoListManager|save http get wifisso for socket://61.181.203.216:8080#00000:0:0:8:true:tj:uni;socket://153.3.50.86:14000#00000:0:0:8:true:sh:uni;socket://58.251.106.145:8080#00000:0:0:8:true:sz:uni;socket://221.198.69.96:80#00000:0:0:8:true:tj:uni;socket://153.3.50.58:14000#00000:0:0:8:true:sh:uni;socket://220.249.243.116:443#00000:0:0:8:true:sz:uni;socket://221.198.69.95:80#00000:0:0:8:true:tj:uni;socket://153.3.50.238:80#00000:0:0:8:true:sh:uni;socket://msfwifi.3g.qq.com:8080#00000:0:0:8:false:others:others;socket://61.181.203.250:80#00000:0:0:8:true:tj:uni;
+19-09-17 21:35:58|1568727358419[27069]1788|E|MSF.C.SsoListManager|save http get wifiHttpsso for http://125.39.247.148:80#00000:0:0:8:false:tj:uni;http://140.207.54.90:80#00000:0:0:8:false:sh:uni;http://220.249.243.163:80#00000:0:0:8:false:sz:uni;http://125.39.247.148:80#00000:0:0:8:false:tj:uni;
+19-09-17 21:36:19|1568727379215[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:21461,receiveInterval=21185,addCmdCount=341
+19-09-17 21:37:19|1568727439216[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:81463,receiveInterval=21122,addCmdCount=341
+19-09-17 21:38:19|1568727499220[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:141465,receiveInterval=21065,addCmdCount=341
+19-09-17 21:39:19|1568727559223[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:201470,receiveInterval=21012,addCmdCount=341
+19-09-17 21:40:19|1568727619226[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:261473,receiveInterval=20958,addCmdCount=341
+19-09-17 21:41:19|1568727679228[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:321475,receiveInterval=20897,addCmdCount=341
+19-09-17 21:41:57|1568727717202[27069]27171|E|MSF.C.NetConnTag|pa ok: 51765
+19-09-17 21:41:57|1568727717204[27069]27171|E|MSF.C.NetConnTag|netSend ssoSeq:51765 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51849 d43c45f
+19-09-17 21:41:57|1568727717318[27069]27333|E|MSF.C.NetConnTag|netRecv ssoSeq:51765 uin:*9100 cmd:GTcxIAkuJnQZKj0kNj0CPz4 51877 cross:0
+19-09-17 21:42:19|1568727739231[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:22026,receiveInterval=21907,addCmdCount=342
+19-09-17 21:43:19|1568727799233[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:82029,receiveInterval=21854,addCmdCount=342
+19-09-17 21:44:19|1568727859235[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:142031,receiveInterval=21820,addCmdCount=342
+19-09-17 21:45:19|1568727919237[27069]27162|E|WorkerThreadMonitor|Kill MSF check result[ senderSize:0,sendInterval:202033,receiveInterval=21772,addCmdCount=342

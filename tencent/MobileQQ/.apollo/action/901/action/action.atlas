@@ -1,0 +1,33 @@
+action.png
+size: 60, 60
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Balloon
+  rotate: false
+  xy: 0, 0
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: 0
+Eye_Husky_01
+  rotate: false
+  xy: 0, 29
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: 2
+Eye_Husky_02
+  rotate: false
+  xy: 0, 45
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: 3
+Mouth_Husky_01
+  rotate: true
+  xy: 34, 0
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: 1

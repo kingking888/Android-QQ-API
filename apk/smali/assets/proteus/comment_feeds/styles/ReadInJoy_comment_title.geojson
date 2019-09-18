@@ -1,0 +1,137 @@
+{
+    "ReadInJoy_comment_title": {
+        "view_type": "container",
+        "layout_type":"layout_linear",
+        "direction": "vertical",
+        "height": {
+            "type": "wrap_content"
+        },
+        "width": {
+            "type": "relative",
+            "value": "375"
+        },
+        "subviews":[
+            {
+                "view_type": "UIView",
+                "view_id": "id_comment_title_top_gray",
+                "align_parent_top": "YES",
+                "height": {
+                    "type": "relative",
+                    "value": "10"
+                },
+                "width": {
+                    "type": "relative",
+                    "value": "375"
+                },
+                "attributes": {
+                    "setBackgroundColorString:": "#FFFFFF"
+                }
+            },
+            {
+                "view_type": "container",
+                "layout_type":"layout_relative",
+                "default_visible":"YES",
+                "below_of_view":"id_comment_title_top_gray",
+                
+                "height": {
+                    "type": "relative",
+                    "value": "32"
+                },
+                "width": {
+                    "type": "relative",
+                    "value": "375"
+                },
+                "subviews":[
+                    {
+                        "view_type": "UILabel",
+                        "view_id": "id_comment_title",
+                        "align_parent_center_vertical": "YES",
+                        "margin_left":"12",
+                        "height": {
+                            "type": "relative",
+                            "value": "18"
+                        },
+                        "width": {
+                            "type": "wrap_content"
+                        },
+                        "attributes": {
+                            "setText:": "$comment_title",
+                            "setTextColorString:": "#262626",
+                            "setBoldFontSizeString:": "14",
+                            "setNumberOfLinesString:": "1"
+                        }
+                    },
+                    {
+                        "view_type": "UILabel",
+                        "view_id": "id_comment_count",
+                        "align_parent_center_vertical": "YES",
+                        "right_of_view": "id_comment_title",
+                        "height": {
+                            "type": "relative",
+                            "value": "18"
+                        },
+                        "width": {
+                            "type": "wrap_content"
+                        },
+                        "attributes": {
+                            "setText:": "$comment_count",
+                            "setTextColorString:": "#737373",
+                            "setBoldFontSizeString:": "14",
+                            "setNumberOfLinesString:": "1"
+                        }
+                    },
+                    {
+                        "view_type": "UIButton",
+                        "event_type": "cmd_choose_comment_type_click",
+                        "view_id": "id_comment_type_choose_icon",
+                        "default_visible":"NO",
+                        "align_parent_right": "YES",
+                        "align_parent_center_vertical": "YES",
+                        "event_type": "cmd_choose_comment_type_click",
+                        "margin_right":"18",
+                        "height": {
+                            "type": "relative",
+                            "value": "21"
+                        },
+                        "width": {
+                            "type": "relative",
+                            "value": "21"
+                        },
+                        "attributes": {
+                            "setImages:forStates:": [
+                                [
+                                    "rij_comment_type_choose"
+                                ],
+                                [
+                                    "0"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "view_type": "UILabel",
+                        "view_id": "id_comment_type_choose_text",
+                        "left_of_view": "id_comment_type_choose_icon",
+                        "default_visible":"NO",
+                        "align_parent_center_vertical": "YES",
+                        "event_type": "cmd_choose_comment_type_click",
+                        "height": {
+                            "type": "relative",
+                            "value": "18"
+                        },
+                        "width": {
+                            "type": "wrap_content"
+                        },
+                        "attributes": {
+                            "setText:": "$comment_type",
+                            "setTextColorString:": "#4799DF",
+                            "setFontSizeString:": "14",
+                            "setNumberOfLinesString:": "1"
+                        }
+                    }
+                    
+                ]
+            }
+        ]
+    }
+}

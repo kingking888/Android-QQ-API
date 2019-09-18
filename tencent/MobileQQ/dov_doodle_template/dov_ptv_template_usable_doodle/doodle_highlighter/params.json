@@ -1,0 +1,9 @@
+{
+  "minAppVersion": 430,
+  "shaderType": 14,
+  "doodleImage": {
+      "count": 1,
+      "width": 40,
+      "height": 40
+  }
+}

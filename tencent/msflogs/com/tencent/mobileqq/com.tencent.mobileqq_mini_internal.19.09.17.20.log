@@ -1,0 +1,113 @@
+19-09-17 20:36:53|com.tencent.mobileqq:mini_internal|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:36:53|1568723813240[28265]28265|E|AutoMonitor|nextState -1, 0
+19-09-17 20:36:53|1568723813306[28265]28265|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:53|1568723813308[28265]28265|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:53|1568723813308[28265]28265|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:36:54|1568723813498[28265]28265|E|MSF.D.MonitorSocket|monitor_config not found, disable monitor socket
+19-09-17 20:36:54|1568723813506[28265]28265|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:mini_internal null 433687
+19-09-17 20:36:54|1568723813537[28265]28265|E|UpdatePluginVersion|433687, 433687
+19-09-17 20:36:54|1568723813554[28265]28265|E|RdmInit|doStep process=com.tencent.mobileqq:mini_internal, sRdmState=0
+19-09-17 20:36:54|1568723813674[28265]28265|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:mini_internal, pid=28265
+19-09-17 20:36:54|1568723813841[28265]28265|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:mini_internal, pid=28265
+19-09-17 20:36:54|1568723814103[28265]28265|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:36:54|1568723814247[28265]28265|E|AutoMonitor|MTA, cost=38 results: true
+19-09-17 20:36:54|1568723814253[28265]28265|E|mqq|doInit begin withcom.tencent.mobileqq:mini_internal
+19-09-17 20:36:54|1568723814286[28265]28356|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:54|1568723814286[28265]28356|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:54|1568723814303[28265]28265|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:36:55|1568723814370[28265]28265|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:36:55|1568723814370[28265]28265|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:36:55|1568723814371[28265]28265|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:mini_internal
+19-09-17 20:36:55|1568723814378[28265]28265|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:55|1568723814387[28265]28265|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:36:55|1568723814388[28265]28265|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:36:55|1568723814453[28265]28265|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:55|1568723814466[28265]28265|E|MSF.D.Proxy|threadID:2, threadName: main bind service finished true
+19-09-17 20:36:55|1568723814474[28265]28265|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:36:55|1568723814476[28265]28265|E|mqq|[AppRuntime]MiniAppInterface (*9100) onCreate,savedInstanceState=null
+19-09-17 20:36:55|1568723814478[28265]28265|E|miniapp-start|MiniAppInterface onCreate
+19-09-17 20:36:55|1568723814503[28265]28363|E|mqq|newServlet = mqq.app.BuiltInServlet@6053a3e
+19-09-17 20:36:55|1568723814515[28265]28363|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:36:55|1568723814532[28265]28363|E|MSF.D.Proxy|threadID:757, threadName: ServletForward bind service finished true
+19-09-17 20:36:55|1568723814532[28265]28363|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:36:55|1568723814796[28265]28265|E|MiniAppDexLoader| MiniAppDexLoader : com.tencent.mobileqq.mini.app.AppLoaderManager :
+19-09-17 20:36:55|1568723814838[28265]28329|E|SoLoadUtilNew|load GIFEngine result:true code 3387394
+19-09-17 20:36:55|1568723814910[28265]28265|E|mqq|doInit finished
+19-09-17 20:36:55|1568723814912[28265]28265|E|MainService|start MSF-Receiver 764
+19-09-17 20:36:55|1568723815161[28265]28265|E|miniapp-start|AppBrandTaskPreloadReceiver onReceive action: mini_preload_app
+19-09-17 20:36:55|1568723815161[28265]28265|E|miniapp-start|预加载小程序
+19-09-17 20:36:55|1568723815234[28265]28265|E|miniapp-process_AppBrandProxy|mService is null! Begin Bind Service!
+19-09-17 20:36:55|1568723815241[28265]28265|E|miniapp-process_AppBrandProxy|onAppStart IAppBrandService Connection is Null.
+19-09-17 20:36:55|1568723815242[28265]28265|E|miniapp-start|AppLoaderManager start
+19-09-17 20:36:55|1568723815261[28265]28382|E|miniapp-start|Task begin: MiniTask$RuntimeCreateTask
+19-09-17 20:36:55|1568723815261[28265]28382|E|miniapp-start_AppBrandRuntimeContainer|preloadEmptyRuntime begin
+19-09-17 20:36:55|1568723815284[28265]28265|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:36:55|1568723815311[28265]28265|E|miniapp-process_AppBrandProxy|onServiceConnected:com.tencent.mobileqq.mini.launch.IAppBrandService$Stub$Proxy@9ce9333
+19-09-17 20:36:55|1568723815311[28265]28265|E|miniapp-process_AppBrandProxy|Sync Process Status=1
+19-09-17 20:36:56|1568723815532[28265]28403|E|mqq|newServlet = com.tencent.mobileqq.mini.servlet.MiniAppDcReportServlet@f98187
+19-09-17 20:36:56|1568723815663[28265]28329|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:36:56|1568723815688[28265]28382|E|BaseJsPluginEngine|Default white appid:1108292102
+19-09-17 20:36:56|1568723815740[28265]28329|E|SharpPDec|sRetryWaitTime(ms):3000
+19-09-17 20:36:56|1568723815850[28265]28403|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 1732a4c
+19-09-17 20:36:56|1568723815852[28265]28403|E|miniapp-cmd|send request cmd=LightAppSvc.mini_app_dcreport.DcReport traceId=1150289100_0917203655533_89583
+19-09-17 20:36:56|1568723816389[28265]28329|E|RdmInit|doStep process=com.tencent.mobileqq:mini_internal, sRdmState=1
+19-09-17 20:36:56|1568723816478[28265]28382|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler d3bbe7c
+19-09-17 20:36:56|1568723816601[28265]28329|E|EIPCConst|connectProvider success
+19-09-17 20:36:56|1568723816966[28265]28389|E|TicketManager|set alter tickets for *9100
+19-09-17 20:36:57|1568723817160[28265]28389|E|miniapp-cmd|receive response cmd=LightAppSvc.mini_app_dcreport.DcReport resultCode=1000 traceId=1150289100_0917203655533_89583
+19-09-17 20:36:57|1568723817223[28265]28518|E|[mini] MiniAppObserver|onDcReport : 1
+19-09-17 20:36:57|1568723817223[28265]28518|E|[mini] MiniAppObserver|onDcReport ok 
+19-09-17 20:36:58|1568723818312[28265]28329|E|InitHook|NOT AVA
+19-09-17 20:36:59|1568723818961[28265]28382|E|BaseJsPluginEngine|registerJsPlugin, conflict event:fs_appendFile
+19-09-17 20:36:59|1568723818977[28265]28382|E|miniapp-start_AppBrandRuntimeContainer|preloadEmptyRuntime end
+19-09-17 20:36:59|1568723818977[28265]28382|E|miniapp-start|Task end: MiniTask$RuntimeCreateTask succ=true
+19-09-17 20:36:59|1568723818977[28265]28382|E|miniapp-start|Task begin: PagePreloadTask
+19-09-17 20:37:04|1568723824229[28265]28382|E|WebViewContainer|Default white appid:1108164955,1108291530,1109544007
+19-09-17 20:37:04|1568723824229[28265]28382|E|miniapp-start|Task end: PagePreloadTask succ=true
+19-09-17 20:37:04|1568723824230[28265]28382|E|miniapp-start|Task begin: ApkgLoadAsyncTask
+19-09-17 20:37:04|1568723824230[28265]28382|E|miniapp-start|Task begin: BaselibLoadAsyncTask
+19-09-17 20:37:04|1568723824230[28265]28382|E|miniapp-start|startLoadBaseLib.
+19-09-17 20:37:05|1568723824410[28265]28382|E|miniapp-start|execute baseLibLoad task. url= version=1.6.9.12014
+19-09-17 20:37:05|1568723824415[28265]28382|E|miniapp-start|current is default version:1.6.9.12014
+19-09-17 20:37:05|1568723824516[28265]28382|E|miniapp-start|readJsFromFile from download.
+19-09-17 20:37:05|1568723824517[28265]28382|E|miniapp-start|readJsFromFile from Assets.
+19-09-17 20:37:07|1568723827488[28265]28382|E|miniapp-start|Task end: BaselibLoadAsyncTask succ=true
+19-09-17 20:37:07|1568723827606[28265]28384|E|miniapp-start|handleMessage 311
+19-09-17 20:37:07|1568723827614[28265]28382|E|miniapp-start|Task begin: TbsAsyncTask
+19-09-17 20:37:07|1568723827614[28265]28382|E|miniapp-start|startTbs
+19-09-17 20:37:07|1568723827674[28265]28382|E|miniapp-start|tbsVersion=0 tmpDirTbsVersion=0
+19-09-17 20:37:07|1568723827733[28265]28382|E|miniapp-start|X5 isn't completed， use system core。
+19-09-17 20:37:08|1568723828126[28265]28382|E|miniapp-start|Task end: TbsAsyncTask succ=true
+19-09-17 20:37:08|1568723828127[28265]28384|E|miniapp-start|handleMessage 311
+19-09-17 20:37:08|1568723828127[28265]28384|E|miniapp-start|handleMessage 311
+19-09-17 20:37:08|1568723828128[28265]28384|E|miniapp-start|handleMessage 311
+19-09-17 20:37:08|1568723828128[28265]28384|E|miniapp-start|handleMessage 311
+19-09-17 20:37:08|1568723828225[28265]28382|E|miniapp-start|Task begin: MiniTask$RuntimeContainerInitTask
+19-09-17 20:37:08|1568723828403[28265]28382|E|miniapp-start|Task end: MiniTask$RuntimeContainerInitTask succ=true
+19-09-17 20:37:08|1568723828403[28265]28382|E|miniapp-start|Task begin: JsPluginEngineTask
+19-09-17 20:37:09|1568723829813[28265]28382|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 6974685
+19-09-17 20:37:12|1568723832856[28265]28382|E|miniapp-start|Task end: JsPluginEngineTask succ=true
+19-09-17 20:37:12|1568723832856[28265]28382|E|miniapp-start|Task begin: PageCreateAsyncTask
+19-09-17 20:37:15|1568723835293[28265]28265|E|miniapp-start|Task end: PageCreateAsyncTask succ=true
+19-09-17 20:37:15|1568723835300[28265]28382|E|miniapp-start|Task begin: ServiceCreateAsyncTask
+19-09-17 20:37:15|1568723835300[28265]28382|E|miniapp-start|initServiceWebViewEx
+19-09-17 20:37:15|1568723835326[28265]28382|E|miniapp-start|create new ServiceWebview when initServiceWebViewEx, tbsVersion : 0, tmpDirTbsVersion: 0  isFallback:true
+19-09-17 20:37:15|1568723835533[28265]28265|E|miniapp-start|Task end: ServiceCreateAsyncTask succ=true
+19-09-17 20:37:15|1568723835553[28265]28382|E|miniapp-start|Task begin: ServiceInitAsyncTask
+19-09-17 20:37:15|1568723835553[28265]28382|E|ServiceOriginalWebview|---begin initWAServiceJS---- waServiceJSLoaded=false
+19-09-17 20:37:18|1568723838453[28265]28905|E|ServiceOriginalWebview|invokeHandler|service: initWeixinJSBridgeFinish |id:1
+19-09-17 20:37:18|1568723838453[28265]28905|E|AppBrandRuntime|WeixinJSBridge finished.
+19-09-17 20:37:18|1568723838472[28265]28905|E|ServiceOriginalWebview|invokeHandler|service: getSystemInfo |id:2
+19-09-17 20:37:18|1568723838473[28265]28905|E|BaseJsPluginEngine|handleNativeRequest fail eventName=getSystemInfo,webview=null,callbackId=2,isDestory=false
+19-09-17 20:37:20|1568723840110[28265]28265|E|miniapp-start|Task end: ServiceInitAsyncTask succ=true
+19-09-17 20:37:20|1568723840110[28265]28265|E|ServiceOriginalWebview|---end initWAServiceJS----
+19-09-17 20:37:20|1568723840114[28265]28382|E|miniapp-start|Task begin: PageInitAsyncTask
+19-09-17 20:37:20|1568723840117[28265]28265|E|miniapp-start|---PageWebView start loadHtml---
+19-09-17 20:37:20|1568723840173[28265]28265|E|miniapp-start|Task end: PageInitAsyncTask succ=true
+19-09-17 20:37:22|1568723842373[28265]28905|E|PageWebview111|initWeixinJSBridgeFinish
+19-09-17 20:37:26|1568723846892[28265]28265|E|miniapp-start|---PageWebView end load WAWebviewJs ---
+19-09-17 20:50:37|1568724637922[28265]28265|E|miniapp-process_AppBrandProxy|onServiceDisconnected.
+19-09-17 20:50:38|1568724638948[28265]28287|E|EIPCConst|connectProvider success
+19-09-17 20:50:39|1568724639006[28265]28265|E|miniapp-process_AppBrandProxy|onServiceConnected:com.tencent.mobileqq.mini.launch.IAppBrandService$Stub$Proxy@d920613
+19-09-17 21:00:01|com.tencent.mobileqq:mini_internal|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:00:01|com.tencent.mobileqq:mini_internal|D|MSF.D.QLog|Nexus 5X 8.1.0 create newLogFile com.tencent.mobileqq_mini_internal.19.09.17.21.log true

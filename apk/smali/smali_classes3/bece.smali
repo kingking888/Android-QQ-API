@@ -1,0 +1,29 @@
+.class public Lbece;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+
+# instance fields
+.field final synthetic a:Lbeca;
+
+.field public a:Lbecd;
+
+.field public a:Ljava/lang/String;
+
+.field public a:Z
+
+.field public b:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>(Lbeca;)V
+    .locals 0
+
+    .prologue
+    .line 394
+    iput-object p1, p0, Lbece;->a:Lbeca;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

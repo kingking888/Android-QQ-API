@@ -1,0 +1,96 @@
+.class public Laejc;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Lbcvp;
+
+
+# instance fields
+.field final synthetic a:Laeji;
+
+.field final synthetic a:Lbcvk;
+
+.field final synthetic a:Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;
+
+.field final synthetic a:Lcom/tencent/mobileqq/data/MessageForShortVideo;
+
+
+# direct methods
+.method public constructor <init>(Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;Lcom/tencent/mobileqq/data/MessageForShortVideo;Laeji;Lbcvk;)V
+    .locals 0
+
+    .prologue
+    .line 1813
+    iput-object p1, p0, Laejc;->a:Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;
+
+    iput-object p2, p0, Laejc;->a:Lcom/tencent/mobileqq/data/MessageForShortVideo;
+
+    iput-object p3, p0, Laejc;->a:Laeji;
+
+    iput-object p4, p0, Laejc;->a:Lbcvk;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public OnClick(Landroid/view/View;I)V
+    .locals 3
+
+    .prologue
+    .line 1816
+    packed-switch p2, :pswitch_data_0
+
+    .line 1829
+    :goto_0
+    :pswitch_0
+    iget-object v0, p0, Laejc;->a:Lbcvk;
+
+    invoke-virtual {v0}, Lbcvk;->dismiss()V
+
+    .line 1830
+    return-void
+
+    .line 1818
+    :pswitch_1
+    iget-object v0, p0, Laejc;->a:Lcom/tencent/mobileqq/data/MessageForShortVideo;
+
+    iget v0, v0, Lcom/tencent/mobileqq/data/MessageForShortVideo;->uiOperatorFlag:I
+
+    const/4 v1, 0x2
+
+    if-ne v0, v1, :cond_0
+
+    .line 1819
+    iget-object v0, p0, Laejc;->a:Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;
+
+    iget-object v1, p0, Laejc;->a:Lcom/tencent/mobileqq/data/MessageForShortVideo;
+
+    iget-object v2, p0, Laejc;->a:Laeji;
+
+    invoke-virtual {v0, v1, v2}, Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;->b(Lcom/tencent/mobileqq/data/MessageForShortVideo;Laeji;)V
+
+    goto :goto_0
+
+    .line 1821
+    :cond_0
+    iget-object v0, p0, Laejc;->a:Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;
+
+    iget-object v1, p0, Laejc;->a:Lcom/tencent/mobileqq/data/MessageForShortVideo;
+
+    iget-object v2, p0, Laejc;->a:Laeji;
+
+    invoke-virtual {v0, v1, v2}, Lcom/tencent/mobileqq/activity/aio/item/ShortVideoRealItemBuilder;->a(Lcom/tencent/mobileqq/data/MessageForShortVideo;Laeji;)V
+
+    goto :goto_0
+
+    .line 1816
+    :pswitch_data_0
+    .packed-switch 0x0
+        :pswitch_1
+        :pswitch_0
+    .end packed-switch
+.end method

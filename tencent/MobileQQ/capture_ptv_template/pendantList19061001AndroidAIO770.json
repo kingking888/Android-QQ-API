@@ -1,0 +1,1104 @@
+﻿{
+	"ufaurl_ios": "http://sqimg.qq.com/qq_product_operations/zaqizaba/sdknew.zip",
+	"ufaurl_ios_md5": "29af015548e76ed6dfd7401db8c0b819",
+	"iconRedDotVersion": 9,
+	"needRedDot": true,
+	"defaultUseVersion": 2,
+	"defaultUseId": "169",
+	"defaultCategoryVersion": 13,
+	"redDotShowTime": 600000,
+	"defaultCategoryId": 1,
+	"itemRedDotVersion": 9,
+	"itemNeedRedDot": [
+		"345",
+		"346",
+		"343",
+		"344"
+	],
+	"gesture_ios": "http://d.url.cn/myapp/qq_desk/qqrm/gesture/gestureSDK.zip",
+	"gesture_ios_md5": "2e7c92a63568d061d9ecc736a3e8bf72",
+	"gesture_ios_720": "http://d.url.cn/myapp/qq_desk/qqrm/gesture/201708281106GestureSDK720.zip",
+	"gesture_ios_720_md5": "c2be351aa57e79800516c5432dd33177",
+	"gestureGapFrame": 5,
+	"gestureGapTime": 500,
+	"gestureShouldUpload": false,
+	"bigheadCommonRes": {
+		"bighead_model_name": "bighead_net_0604",
+		"bighead_model_resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/bighead/bighead_net_0604.zip",
+		"bighead_model_resmd5": "a3759eb2ba08b71332f69a864f5a1b1b"
+	},
+	"category": [
+		{
+			"categoryId": 1,
+			"redDotVersion": 20,
+			"needRedDot": false,
+			"categoryName": "热门",
+			"commonRes": {
+				"dg_stage_name": "postureRecognizeStage",
+				"dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+				"dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6",
+				"dg_model_name": "pose_dn_1p6",
+				"dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+				"dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456"
+			},
+			"content": [
+			{
+                    "predownload": false,
+                    "md5": "a1b85016ee8ad4e3ff0145c51ba082d8",
+                    "id": "516",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maoerweiba_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maoerweiba_iOS.zip",
+                    "name": "video_maoerweiba_iOS"
+                } ,
+{
+                    "predownload": false,
+                    "md5": "2dc05364f67fd425c543ad39aff241f8",
+                    "id": "628",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xianhudie1_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xianhudie_iOS.zip",
+                    "name": "video_xianhudie_iOS"
+                } , 			
+  {
+                    "predownload": false,
+                    "md5": "1ebac49fd706b9f8c07fa03e4d17e545",
+                    "id": "494",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaokeai_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaokeai_iOS.zip",
+                    "name": "video_xiaokeai_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "613c2110dc7f96f6b3554e2255233bb6",
+                    "id": "396",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_weimi1_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_weimi1_iOS.zip",
+                    "name": "video_weimi1_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "9b2631d51b6a399198029b8c52abd0fc",
+                    "id": "397",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_weimipk_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_weimipk_iOS.zip",
+                    "name": "video_weimipk_iOS"
+                },	
+				{
+                    "predownload": false,
+                    "md5": "62db4cb63e2c5727553d1753160cb638",
+                    "id": "611",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_renjianrenai2_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_renjianrenai20190128_iOS.zip",
+                    "name": "video_renjianrenai20190128_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "d497581f53ad90477365bb3e0080e35b",
+                    "id": "515",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springrabbit_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springrabbit_iOS.zip",
+                    "name": "video_springrabbit_iOS"
+                },
+   {
+                    "predownload": false,
+                    "md5": "de6ab012bbdc6b4330c66146d2b89137",
+                    "id": "578",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_GlowCat_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_GlowCat_iOS.zip",
+                    "name": "video_GlowCat_iOS"
+                } , 
+			{
+                    "predownload": false,
+                    "md5": "ad9222157aa9fed7c1d2901033db1431",
+                    "id": "603",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_meishaonvmao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_meishaonvmao_iOS.zip",
+                    "name": "video_meishaonvmao_iOS"
+                } , 	
+				{
+                    "predownload": false,
+                    "md5": "d497581f53ad90477365bb3e0080e35b",
+                    "kind": "12",
+					"id": "524",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/weishi_hunsha.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springrabbit_iOS.zip",
+                    "name": "video_springrabbit_iOS"
+                } ,	
+				{
+                    "predownload": false,
+                    "md5": "d497581f53ad90477365bb3e0080e35b",
+                    "kind": "12",
+					"id": "547",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/weishi_miaoxian.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springrabbit_iOS.zip",
+                    "name": "video_springrabbit_iOS"
+                } , 	
+			
+ {
+                    "predownload": false,
+                    "md5": "0b011123065952979d3272d2bc9772a9",
+                    "id": "602",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_baisemaoerduo_android.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_baisemaoerduo_android.zip",
+                    "name": "video_baisemaoerduo_android"
+                } , 
+ {
+                    "predownload": false,
+                    "md5": "fdd4c28a7b833bbb66ddf1beff66f0a0",
+                    "id": "598",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zuanshitxm_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zuanshitxm_iOS.zip",
+                    "name": "video_zuanshitxm_iOS"
+                } , 		
+  {
+                    "predownload": false,
+                    "md5": "282ed962d72747a56edb88f71356006c",
+                    "id": "563",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_aixinpaopao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_aixinpaopao_iOS.zip",
+                    "name": "video_aixinpaopao_iOS"
+                } , 	
+                
+ {
+                    "predownload": false,
+                    "md5": "2b35b3ff42b0fe025745b358da1f5116",
+                    "id": "579",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bear_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bear_iOS.zip",
+                    "name": "video_bear_iOS"
+                } ,  
+                {
+                    "predownload": false,
+                    "md5": "9ed537e2fe8801de017bd0eb20a98607",
+                    "id": "523",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_Kbang_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_Kbang_iOS.zip",
+                    "name": "video_Kbang_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "a4571a2294b9f1fdbcbb793cbddf9ab9",
+                    "id": "444",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhuatoumao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhuatoumao_iOS.zip",
+                    "name": "video_zhuatoumao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "3a674b0f009c573bc6339ef1d28f8135",
+                    "id": "431",
+                    "kind": "7",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bopuqiepian.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_mv_bopuyidonglv.zip",
+                    "name": "video_mv_bopuyidonglv"
+                },
+                {
+                    "predownload": false,
+                    "md5": "fbc6f756be2c0d9621d3f64b988a61d7",
+                    "id": "359",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiangji_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiangji_iOS.zip",
+                    "name": "video_xiangji_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "5bcde174305b658d87a184ad3c806a74",
+                    "id": "307",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_xingzuo_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_xingzuo_iOS.zip",
+                    "name": "video_xingzuo_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "9bd5105f00e945f64249f1d20f27de81",
+                    "id": "186",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maozi_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maozi_iOS.zip",
+                    "name": "video_maozi_iOS"
+                }
+			]
+		},
+		{
+			"categoryId": 6,
+			"redDotVersion": 3,
+			"needRedDot": false,
+			"categoryName": "萌宠",
+			"content": [
+			{
+                    "predownload": false,
+                    "md5": "af22e8821b34a540f575dd4fdd10cc31",
+                    "id": "213",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_dushumao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_dushumao_iOS.zip",
+                    "name": "video_dushumao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "37a86835f1b96bbfa0db129a7861fd77",
+                    "id": "332",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_fenhongmao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_fenhongmao_iOS.zip",
+                    "name": "video_fenhongmao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "a4571a2294b9f1fdbcbb793cbddf9ab9",
+                    "id": "444",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhuatoumao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhuatoumao_iOS.zip",
+                    "name": "video_zhuatoumao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "52fee0c626f35d59ff92882e0a64934d",
+                    "id": "481",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_junjie_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_junjie_iOS.zip",
+                    "name": "video_junjie_iOS"
+                },
+                
+                {
+                    "predownload": false,
+                    "md5": "4283e6a3e3104fbbe6423e019ee1ad5a",
+                    "id": "339",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/jingling1.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jingling_iOS.zip",
+                    "name": "video_jingling_iOS"
+                },
+
+				 {
+                    "predownload": false,
+                    "md5": "251634947f9313246fe218dcae82e170",
+                    "id": "580",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_huli_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_huli_iOS.zip",
+                    "name": "video_huli_iOS"
+                } ,  
+   {
+                    "predownload": false,
+                    "md5": "4adce520bdb1dbd14abfbd2e41827a71",
+                    "id": "565",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_flowerrabbit_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_flowerrabbit_iOS.zip",
+                    "name": "video_flowerrabbit_iOS"
+                } ,	
+                {
+                    "predownload": false,
+                    "md5": "ed73ab3da5eae9cfe1773c68699b535e",
+                    "id": "171",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_cherryfox_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_cherryfox_Android.zip",
+                    "name": "video_cherryfox_Android"
+                },	
+{
+                    "predownload": false,
+                    "md5": "9078876e67d41816297daa274a464470",
+                    "id": "280",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bingqiling_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bingqiling_iOS.zip",
+                    "name": "video_bingqiling_iOS"
+                },	
+{
+                    "predownload": false,
+                    "md5": "b37f0388f06a7ac48d6e5271a2414e89",
+                    "id": "554",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_satancat_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_satancat_iOS.zip",
+                    "name": "video_satancat_iOS"
+                } ,	
+				{
+                    "predownload": false,
+                    "md5": "67da56375a5fca29dec0c204165126d5",
+                    "id": "358",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_chuiertu_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_chuiertu_iOS.zip",
+                    "name": "video_chuiertu_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "9bde61c51e07665f515f80af0bb3af22",
+                    "id": "302",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hello_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hello_iOS.zip",
+                    "name": "video_hello_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "33f9626a7eb1e97cfb5246c56e2106f7",
+                    "id": "308",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_senlinmao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_senlinmao_iOS.zip",
+                    "name": "video_senlinmao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "462955407b64cd64f5ff9f50703f0387",
+                    "id": "155",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_whitecat_Android.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_whitecat_Android.zip",
+                    "name": "video_whitecat_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "5a9acba16836ea53df7dd99870aac308",
+                    "id": "311",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_nvpu_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_nvpu_iOS.zip",
+                    "name": "video_nvpu_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "83b42932f255fddad9b9ee73e40016d4",
+                    "id": "81",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_guangxiong_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_guangxiong_iOS.zip",
+                    "name": "video_guangxiong_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "acf8aa43d87dc09ac0175a80f1751e8e",
+                    "id": "284",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_caidai_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_caidai_iOS.zip",
+                    "name": "video_caidai_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "23a63c4f421c120263f8c0c663fe18ac",
+                    "id": "154",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_cathuzi_pink_Android.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_cathuzi_pink_Android.zip",
+                    "name": "video_cathuzi_pink_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "68ab1f4095dbfed9065a63080f2eec43",
+                    "id": "74",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_guangmao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_guangmao_iOS.zip",
+                    "name": "video_guangmao_iOS"
+                },{
+                    "predownload": false,
+                    "md5": "d29057879d0ecfb359e11dfaa44ab449",
+                    "id": "127",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zuanshitu_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zuanshitunew_iOS.zip",
+                    "name": "video_zuanshitunew_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "d9832c0ff5568cdc2b5b3e4af14a8b29",
+                    "id": "60",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tuzi_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tuzi_iOS.zip",
+                    "name": "video_tuzi_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "e15f0896b4a7ecab09fd8230ed9d9f7b",
+                    "id": "325",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_dingchun_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_dingchun_iOS.zip",
+                    "name": "video_dingchun_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "11efb5a83abf686997f182cf52470c2f",
+                    "id": "294",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_sansheng_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_sansheng_iOS.zip",
+                    "name": "video_sansheng_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "41dc1aaa3bad31222449f36bba51f10f",
+                    "id": "272",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maoerduo_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maoerduo_iOS.zip",
+                    "name": "video_maoerduo_iOS"
+                }
+			]
+		},
+		{
+			"categoryId": 3,
+			"redDotVersion": 2,
+			"needRedDot": false,
+			"categoryName": "头饰",
+			"content": [
+			{
+                    "predownload": false,
+                    "md5": "fd06c678f77e61cbeb789b505b4287ec",
+                    "id": "594",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jiaocha_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jiaocha_iOS.zip",
+                    "name": "video_jiaocha_iOS"
+                } , 	
+{
+                    "predownload": false,
+                    "md5": "247b8abe28a7ea9fd225be95d9c34976",
+                    "id": "609",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_sd_fish_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_sd_fish_iOS.zip",
+                    "name": "video_sd_fish_iOS"
+                } , {
+                    "predownload": false,
+                    "md5": "5bcde174305b658d87a184ad3c806a74",
+                    "id": "307",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_xingzuo_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/test/video_xingzuo_iOS.zip",
+                    "name": "video_xingzuo_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "82f76fd4ea82d63a7c6335aa9d5cc02e",
+                    "id": "442",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xuanguang_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xuanguang_iOS.zip",
+                    "name": "video_xuanguang_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "717e9ef33cf7c1cab860decd46d61c56",
+                    "id": "518",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_lovestar_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_lovestar_iOS.zip",
+                    "name": "video_lovestar_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "c4aad7bd87bc0eefc86c41f5b3efc763",
+                    "id": "266",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xigua_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xigua1_iOS.zip",
+                    "name": "video_xigua1_iOS"
+                },
+{
+                    "predownload": false,
+                    "md5": "ee51e26f707e36c20f4b745978c5bf1c",
+                    "id": "608",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_winterear_rabbit_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_winterear_rabbit_iOS.zip",
+                    "name": "video_winterear_rabbit_iOS"
+                } , 	
+{
+                    "predownload": false,
+                    "md5": "3eca1adc5d053a7aa497d8cf7919014a",
+                    "id": "605",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_icequeen_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_icequeen_wuzi_iOS.zip",
+                    "name": "video_icequeen_wuzi_iOS"
+                } , 
+ {
+                    "predownload": false,
+                    "md5": "0a6d6faaf5a10dd2630444d4d9775515",
+                    "id": "607",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/weishi_3Dhua.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_fenseshawangmao_iOS.zip",
+                    "name": "video_fenseshawangmao_iOS"
+                } ,	
+				{
+                    "predownload": false,
+                    "md5": "396e47507d0f0137ac1b4e58f72974d2",
+                    "id": "601",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_qianse_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_qianse_Android.zip",
+                    "name": "video_qianse_Android"
+                } , 
+{
+                    "predownload": false,
+                    "md5": "b87985fe95439ed035ae1588d9c29888",
+                    "id": "432",
+                    "kind": "7",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liutiyanjing.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_mv_liutiyanjing.zip",
+                    "name": "video_mv_liutiyanjing"
+                },
+                {
+                    "predownload": false,
+                    "md5": "3a674b0f009c573bc6339ef1d28f8135",
+                    "id": "431",
+                    "kind": "7",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bopuqiepian.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_mv_bopuyidonglv.zip",
+                    "name": "video_mv_bopuyidonglv"
+                },
+                {
+                    "predownload": false,
+                    "md5": "afd76bf57bf26c95b8fe9a975bedb3d7",
+                    "id": "430",
+                    "kind": "7",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_guzhangfeng.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_mv_guzhangfeng.zip",
+                    "name": "video_mv_guzhangfeng"
+                },
+                {
+                    "predownload": false,
+                    "md5": "e41f71cc60506189b42baa00f29e2641",
+                    "id": "429",
+                    "kind": "7",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_ailisi.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_mv_ailicemengyou.zip",
+                    "name": "video_mv_ailicemengyou"
+                },
+                {
+                    "predownload": false,
+                    "md5": "c9f70f8d77024085f67b26117f1446d9",
+                    "id": "445",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaxue_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaxuebq_iOS.zip",
+                    "name": "video_xiaxuebq_iOS"
+                },
+				{
+                    "predownload": false,
+                    "md5": "fbc6f756be2c0d9621d3f64b988a61d7",
+                    "id": "359",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiangji_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiangji_iOS.zip",
+                    "name": "video_xiangji_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "cfb003fbfdc7bca4e9e5d2d8d2568c1a",
+                    "id": "285",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_diss_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_diss_iOS.zip",
+                    "name": "video_diss_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "d1a8fd97136bfa4b01be3838c080bbc5",
+                    "id": "310",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jidan_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jidan_iOS.zip",
+                    "name": "video_jidan_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "a76e2dfa7864ab68b423aa4de0e7742d",
+                    "id": "322",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_youyong_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_youyong_iOS.zip",
+                    "name": "video_youyong_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "64eb94b809aca7bc5866eca7761f0bd9",
+                    "id": "190",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_summer_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_summer_iOS.zip",
+                    "name": "video_summer_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "9bd5105f00e945f64249f1d20f27de81",
+                    "id": "186",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maozi_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_maozi_iOS.zip",
+                    "name": "video_maozi_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "d3f36b5002f13c30b860f86754983879",
+                    "id": "179",
+                    "iconurl": "https://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_chunji_iOS.png",
+                    "resurl": "https://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_chunji_iOS.zip",
+                    "name": "video_chunji_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "154a91f25e4e104d5eb90a72c615a2a4",
+                    "id": "172",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springflower_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_springflower_Android.zip",
+                    "name": "video_springflower_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "49ca85b2eefd05d0570dd5fc058769d0",
+                    "id": "125",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaofa_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaofa_iOS.zip",
+                    "name": "video_xiaofa_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "7b3e1011b9bf7a516ca8e03cfd681d0d",
+                    "id": "147",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_masaike_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_masaike_iOS.zip",
+                    "name": "video_masaike_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "16e8b6429aecd72cb041d30ff5ff92c0",
+                    "id": "59",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yumao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yumao_iOS.zip",
+                    "name": "video_yumao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "e2fc656f0c67040365de3957d35b1c50",
+                    "id": "162",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liuhai_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liuhai_Android.zip",
+                    "name": "video_liuhai_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "4b303da64c8d0d9c9ef41cef019abbfc",
+                    "id": "276",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_shiwu_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_shiwu_iOS.zip",
+                    "name": "video_shiwu_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "993bdb0ec52795c018c8759d4d23cb23",
+                    "id": "293",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bubble_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bubbleAndroid.zip",
+                    "name": "video_bubbleAndroid"
+                },
+                {
+                    "predownload": false,
+                    "md5": "68d315a0e5a32a5a5678a56bf7c5c13a",
+                    "id": "288",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yingguangbi_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yingguangbi_iOS.zip",
+                    "name": "video_yingguangbi_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "02ece5ea639b310f96db77a0870821b1",
+                    "id": "37",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/dalaoban.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_dalaoban_iOS.zip",
+                    "name": "video_dalaoban_iOS"
+                }
+			]
+		},
+		{
+			"categoryId": 5,
+			"redDotVersion": 4,
+			"needRedDot": false,
+			"categoryName": "表情包",
+			"content": [{
+					"predownload": false,
+					"md5": "33535f3b7f3469d5230d098065131b0d",
+					"id": "321",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yilishabai_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yilishabai_iOS.zip",
+					"name": "video_yilishabai_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "5574c9a5991f4ec9d72ec68178f03059",
+					"id": "159",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_meng_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_meng_iOS.zip",
+					"name": "video_meng_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "bc245cfea67af71137cfabaeffd775ba",
+					"id": "176",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_layanjing.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_layanjing_Android.zip",
+					"name": "video_layanjing_Android"
+				},
+				{
+					"predownload": false,
+					"md5": "4109e0bc10761090817c1242cb4c259e",
+					"id": "158",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_laotie_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_laotie_iOS.zip",
+					"name": "video_laotie_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "411c0cd1fd68d2e1bfa7b9b7137296b9",
+					"id": "170",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_shuijiao_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_shuijiao_iOS.zip",
+					"name": "video_shuijiao_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "d510339a2a5e221682e55fee1e391938",
+					"id": "67",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bixin_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bixin_iOS.zip",
+					"name": "video_bixin_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "341f25e76be4a417ab4392b3db4a6899",
+					"id": "149",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaoxinxin_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiaoxinxin_iOS.zip",
+					"name": "video_xiaoxinxin_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "10617b2ce0c2087df70cec9221a18f62",
+					"id": "146",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_pipixia_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_pipixia_iOS.zip",
+					"name": "video_pipixia_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "9a47dae2e43b214c7e68c8ebe19e2232",
+					"id": "156",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bang_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_bang1_iOS.zip",
+					"name": "video_bang1_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "e0da1e6cbd1c1a8196924ec2df9f75f5",
+					"id": "82",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_haiyoushei_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_haiyoushei_iOS.zip",
+					"name": "video_haiyoushei_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "4c104f47a690e01f8078714a69f7f22e",
+					"id": "65",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_haixiu_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_haixiu_iOS.zip",
+					"name": "video_haixiu_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "51e30774e19a11dbb18066660fefb5d9",
+					"id": "83",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liaome_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liaome_iOS.zip",
+					"name": "video_liaome_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "97b7ba11fa1392a7d25cd2c9339b6584",
+					"id": "123",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hahaha_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hahaha_iOS.zip",
+					"name": "video_hahaha_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "2d17e9bdd7b4ce65d6442dff70ba6aba",
+					"id": "177",
+					"kind": "2",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_gdp.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_gdp_Android.zip",
+					"name": "video_gdp_Android"
+				},
+
+				{
+					"predownload": false,
+					"md5": "085a715a6d74a68b114f824a35089c42",
+					"id": "191",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_kpi_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_kpi_iOS.zip",
+					"name": "video_kpi_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "40754f173f41f35fc3e5a2f239c27ddd",
+					"id": "168",
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_baojing_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_baojing_iOS.zip",
+					"name": "video_baojing_iOS"
+				}
+			]
+		},		
+		{
+			"categoryId": 7,
+			"redDotVersion": 2,
+			"needRedDot": false,
+			"categoryName": "搞怪",
+			"content": [
+			{
+                    "predownload": false,
+                    "md5": "2aa4e5b1699c645aaf34cbe8811f6fad",
+                    "id": "166",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tumao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tumao_iOS.zip",
+                    "name": "video_tumao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "0718f261b2e2779e0130a8b899f8cf45",
+                    "id": "164",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhizhu_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zhizhu_iOS.zip",
+                    "name": "video_zhizhu_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "44e1e82f23c540bc2ffb272818750547",
+                    "id": "165",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tutou_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_tutou_Android.zip",
+                    "name": "video_tutou_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "4048aca2fec3b46baa61bb5b4f84943f",
+                    "id": "167",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zalian_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_zalian_iOS.zip",
+                    "name": "video_zalian_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "e2fc656f0c67040365de3957d35b1c50",
+                    "id": "162",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liuhai_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liuhai_Android.zip",
+                    "name": "video_liuhai_Android"
+                },
+                {
+                    "predownload": false,
+                    "md5": "2aacd0ac87e1110386bf1f8fbc812316",
+                    "id": "30",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jiguang_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/iPhone/video_jiguang_iOS.zip",
+                    "name": "video_jiguang_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "97b7ba11fa1392a7d25cd2c9339b6584",
+                    "id": "123",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hahaha_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_hahaha_iOS.zip",
+                    "name": "video_hahaha_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "2c954885531390d613da589d6a8b3560",
+                    "id": "29",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_penhuo_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/iPhone/video_penhuo_iOS.zip",
+                    "name": "video_penhuo_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "aa5e08f5a3e5a4891788e0e5c2ab94df",
+                    "id": "63",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_aaa_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_aaa_iOS.zip",
+                    "name": "video_aaa_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "8fba3eb3d63112fd374e864f5d121d8d",
+                    "id": "43",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_suantou_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_suantou_iOS.zip",
+                    "name": "video_suantou_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "06beb61b6a2bc30373429db0c9c0edd7",
+                    "id": "78",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiongmao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_xiongmao_iOS.zip",
+                    "name": "video_xiongmao_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "51e30774e19a11dbb18066660fefb5d9",
+                    "id": "83",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liaome_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_liaome_iOS.zip",
+                    "name": "video_liaome_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "8b5a7fe8a76d28e3cc3c2b9db0188fbc",
+                    "id": "274",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yazilian_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yazilian_iOS.zip",
+                    "name": "video_yazilian_iOS"
+                },
+                {
+                    "predownload": false,
+                    "md5": "8ed4024b8154fbad5ec895e87adc59d5",
+                    "id": "320",
+                    "iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yanzhao_iOS.png",
+                    "resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_yanzhao_iOS.zip",
+                    "name": "video_yanzhao_iOS"
+                }
+			]
+		},	
+		{
+			"categoryId": 10,
+			"redDotVersion": 5,
+			"needRedDot": false,
+			"categoryName": "高能舞室",
+			"commonRes": {
+				"dg_stage_name": "postureRecognizeStage",
+				"dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+				"dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6",
+				"dg_model_name": "pose_dn_1p6",
+				"dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+				"dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456"
+			},
+			"content": [{
+					"predownload": false,
+					"kind": 3,
+					"id": "410",
+					"md5": "e2d88a8b53106fd703b3517f9c2b7192",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/icon/banzhang0627.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/video_banzhang3_iOS.zip",
+					"name": "video_banzhang3_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "409",
+					"md5": "f695a3ca12f7230343e4259d1ba7eeb7",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/icon/laoma0627.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/18061201/video_laoma3_iOS.zip",
+					"name": "video_laoma3_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "408",
+					"md5": "130639eee419c1da6d33472d5248e001",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/icon/zhuzhunvhai0627.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/video_zhuzhu2_iOS.zip",
+					"name": "video_zhuzhu2_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "407",
+					"md5": "a4804daa1288463b66f50348fa892201",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/icon/shuxuelaoshi0627.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/video_shuxue2_iOS.zip",
+					"name": "video_shuxue2_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "406",
+					"md5": "2f102df69dcdb9413193e0c603cb52ae",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/icon/xueba0627.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/video_xueba_iOS.zip",
+					"name": "video_xueba_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "405",
+					"md5": "5cce50ca9d55be4e85dfd38995051929",
+					"multivideosupport": false,
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi_icon/Pacificicon.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/QQ/Android/video_Pacific_iOS.zip",
+					"name": "video_Pacific_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": 3,
+					"id": "404",
+					"md5": "03f680f3e0bc0e12e65de9c06eb83aff",
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi_icon/NewYorkicon.png",
+					"resurl": "http://sqdd.myapp.com/myapp/qqteam/QIM/Gaonengwushi/QQ/video_NEWYORK_iOS.zip",
+					"name": "video_NEWYORK_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": "3",
+					"id": "401",
+					"md5": "76736a7b555d72839bccd2491ea705d9",
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/iPhoneQQ/dancegame/danceicon1.png",
+					"resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/littleboy/2018_3_2_com/video_goodboy_iOS.zip",
+					"name": "video_goodboy_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": "3",
+					"id": "402",
+					"md5": "94f4fbfc3db580461cb460951ff80c61",
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/iPhoneQQ/dancegame/danceicon2.png",
+					"resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/littleboy/2018_3_2_com/video_niania_iOS.zip",
+					"name": "video_niania_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": "3",
+					"id": "400",
+					"md5": "8f5bfcb325fbed6526f0509ab0626263",
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/iPhoneQQ/dancegame/danceicon3.png",
+					"resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/littleboy/2018_3_2_com/video_wannabe_iOS.zip",
+					"name": "video_wannabe_iOS"
+				},
+				{
+					"predownload": false,
+					"kind": "3",
+					"id": "403",
+					"md5": "b6c1e5560b33977e99999eeb72519ecf",
+					"iconurl": "http://sqdd.myapp.com/myapp/qqteam/iPhoneQQ/dancegame/danceicon4.png",
+					"resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/littleboy/2018_3_2_com/video_thefox_iOS.zip",
+					"name": "video_thefox_iOS"
+				}
+			]
+		},					
+		{
+			"categoryId": 20,
+			"redDotVersion": 8,
+			"needRedDot": false,
+			"categoryName": "讨红包",
+			"GetRedBag": 1,
+			"outRedIconShow": 0,
+			"outRedIconVer": 9,
+			"content": [{
+					"predownload": false,
+					"md5": "02f475d5f7787459acf3d0f341181204",
+					"id": "28515",
+					"funcType": 1,
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/jinshanicon.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_jinshan3_iOS.zip",
+					"name": "video_jinshan3_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "c646c0a432438ecb512e75ad745d5e1d",
+					"id": "28513",
+					"funcType": 1,
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/baodatuiicon.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_baodatui3_iOS.zip",
+					"name": "video_baodatui3_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "a692d74663a800cf3258c8f4e9e031c2",
+					"id": "28516",
+					"funcType": 1,
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/pinqiongnvericon.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_pinqiongnver_iOS.zip",
+					"name": "video_pinqiongnver_iOS"
+				},
+				{
+					"predownload": false,
+					"md5": "dedefd03754ce5e124d584b67deaf8f0",
+					"id": "28514",
+					"funcType": 1,
+					"iconurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/video_qiuhongbaowu_iOS.png",
+					"resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/videofilter/online/preonline/video_qiuhongbaowu3_iOS.zip",
+					"name": "video_qiuhongbaowu3_iOS"
+				}
+			]
+		}
+	]
+}

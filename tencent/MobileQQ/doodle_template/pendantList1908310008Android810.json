@@ -1,0 +1,3845 @@
+{
+    "defaultUseVersion": 2,
+    "defaultCategoryId": 1,
+    "defaultCategoryVersion": 13,
+    "ufaurl_ios": "http://sqimg.qq.com/qq_product_operations/zaqizaba/sdknew.zip",
+    "category": [
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10000,
+            "categoryName": "热门",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baisemaoerduo1.png",
+                    "id": "41632",
+                    "name": "video_baisemaoerduo1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baisemaoerduo1Android1564132309.zip",
+                    "md5": "e22e4483fb0591ed97cd30e3c9f8267e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_maoerweiba.png",
+                    "id": "42395",
+                    "name": "video_maoerweiba",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_maoerweibaAndroid.zip",
+                    "md5": "5badf9435c7d2c3dfedae61d526e6d3f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wangyuan.png",
+                    "id": "43934",
+                    "name": "video_wangyuan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wangyuanAndroid1567157131.zip",
+                    "md5": "c4baae55e5246a67a95008e169160769"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuang.png",
+                    "id": "43935",
+                    "name": "video_fruitzhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuangAndroid.zip",
+                    "md5": "80d0c00f58687003f5221885ecfc6678"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuaxicao.png",
+                    "id": "43936",
+                    "name": "video_xihuaxicao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuaxicaoAndroid1567158344.zip",
+                    "md5": "9305b4d5b3870b8ca88da599242ccc26"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookk.png",
+                    "id": "43933",
+                    "name": "video_schoolbookk",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookkAndroid1567181268.zip",
+                    "md5": "1cdbc4d562466fd0f004f48d4b07ab36"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifa.png",
+                    "id": "43925",
+                    "name": "video_suijifa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifaAndroid.zip",
+                    "md5": "60cf379a0325355f4430f82644abadbd"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumao.png",
+                    "id": "43930",
+                    "name": "video_shenxianyumao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumaoAndroid1566977728.zip",
+                    "md5": "718c7609d7c07d6ed9115a201289514f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshou.png",
+                    "id": "43876",
+                    "name": "video_dujiaoshou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshouAndroid1565344609.zip",
+                    "md5": "5b375cc04a708faf4be1dad93d7612b4"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfa.png",
+                    "id": "43912",
+                    "name": "video_huanfa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfaAndroid1566287574.zip",
+                    "md5": "f340521c08900816a642f28ad66ade16"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_caomei.png",
+                    "id": "43923",
+                    "name": "video_caomei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_caomeiAndroid.zip",
+                    "md5": "1ef19114fc606dd3a2fb7d93664aa5c9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1.png",
+                    "id": "43878",
+                    "name": "video_meiguihua1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1Android.zip",
+                    "md5": "8cc887859ea20070c5eae05c4cefb9d7"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfashe.png",
+                    "id": "43927",
+                    "name": "video_aixinfashe",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfasheAndroid1566542937.zip",
+                    "md5": "a86f139afb6c4c03e680358a5219769f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyi.png",
+                    "id": "43931",
+                    "name": "video_xiaweiyi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyiAndroid1566977727.zip",
+                    "md5": "de0ca7059c270947f08d695c6ffb6426"
+                },
+                {
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_coolgirl.png",
+                    "kind": 12,
+                    "id": "43863",
+                    "name": "video_coolgirl",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_coolgirlAndroid.zip",
+                    "md5": "d41b9cb988dbe46e000373ad7bfa698f"
+                },
+                {
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_faxing.png",
+                    "kind": 12,
+                    "id": "43862",
+                    "name": "video_faxing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_faxingAndroid.zip",
+                    "md5": "04058adafa0471c05525ca8146e46cf4"
+                },
+                {
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wangzhe.png",
+                    "kind": 12,
+                    "id": "43861",
+                    "name": "video_wangzhe",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wangzheAndroid.zip",
+                    "md5": "0dba6c3f1d7768cb9bd0ff6f7004fdcd"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlian.png",
+                    "id": "43877",
+                    "name": "video_goutianlian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlianAndroid1565344614.zip",
+                    "md5": "1b274ad2664f83b7b1e5f2136255de7d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hands.png",
+                    "id": "43922",
+                    "name": "video_hands",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_handsAndroid.zip",
+                    "md5": "ab15b0db3421cb532b24f7cbc045a0be"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibang.png",
+                    "id": "43932",
+                    "name": "video_lovechibang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibangAndroid.zip",
+                    "md5": "6bd2a34398ab49297cc9897322aabc6f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehunsha.png",
+                    "id": "42356",
+                    "name": "video_lovehunsha",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehunshaAndroid.zip",
+                    "md5": "6d8b6dd6114673bc492b8d73509a2ae9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99.png",
+                    "id": "43872",
+                    "name": "video_qixi99",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99Android.zip",
+                    "md5": "9dac2cf3568c669819f52ab3645c7a24"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shinypearlclip.png",
+                    "id": "42940",
+                    "name": "video_shinypearlclip",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shinypearlclipAndroid.zip",
+                    "md5": "7d79dfb2dbe940bd5fd5b6fad36f1856"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhabiaoqing.png",
+                    "id": "43871",
+                    "name": "video_nezhabiaoqing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhabiaoqingAndroid.zip",
+                    "md5": "7daffb2c5594a4061bfd1121cd85704a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heartring.png",
+                    "id": "42131",
+                    "name": "video_heartring",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heartringAndroid.zip",
+                    "md5": "f93fd850f76e2622a79e2238b777c9ea"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lianai.png",
+                    "id": "43849",
+                    "name": "video_lianai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lianaiAndroid.zip",
+                    "md5": "30d79dec9bd0d246e7556e8a2615de0b"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxi.png",
+                    "id": "43867",
+                    "name": "video_nezhaxi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxiAndroid1565062609.zip",
+                    "md5": "75628d03b8bcca55bd719102cf902f31"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopao.png",
+                    "id": "43928",
+                    "name": "video_xiaripaopao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopaoAndroid1566812540.zip",
+                    "md5": "04a44ec87faf7456251ec3d4b325e46e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvmao.png",
+                    "id": "42425",
+                    "name": "video_meishaonvmao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvmaoAndroid.zip",
+                    "md5": "625a708c8034d94dc7e77ff82a5d2492"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao.png",
+                    "id": "41658",
+                    "name": "video_bianlao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlaoAndroid1563542422.zip",
+                    "md5": "1e1a2932f6bff8881aba2f3c57b656d9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao3.png",
+                    "id": "41659",
+                    "name": "video_bianlao3",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao3Android1563540591.zip",
+                    "md5": "fce8befef7651e9686ec6b146344a613"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmi.png",
+                    "id": "43832",
+                    "name": "video_fengmi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmiAndroid.zip",
+                    "md5": "8e0786c07695a5dcff320475876f0ac9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lixian.png",
+                    "id": "43852",
+                    "name": "video_lixian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lixianAndroid.zip",
+                    "md5": "26b5eef831b609085a7e02bb5bba4e38"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwx.png",
+                    "id": "43860",
+                    "name": "video_lxwx",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwxAndroid.zip",
+                    "md5": "2d1d55c3acbddf22fd7bd7314f9d7ade"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkca.png",
+                    "id": "43844",
+                    "name": "video_pinkca",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkcaAndroid1562835573.zip",
+                    "md5": "3465a73b574522229f213f05accc7880"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1.png",
+                    "id": "43845",
+                    "name": "video_bottle1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1Android1562846413.zip",
+                    "md5": "8b2df55c0eb5ec0d2487b3f1ebdd8bff"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojie.png",
+                    "id": "43840",
+                    "name": "video_liaojie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojieAndroid1562571181.zip",
+                    "md5": "da6aa1ed865d28df626228c7d266cb8a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cup.png",
+                    "id": "43833",
+                    "name": "video_3DFace_cup",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cupAndroid.zip",
+                    "md5": "eb0ac84c59e5c2e74c87f55162d76843"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mulan.png",
+                    "id": "43842",
+                    "name": "video_mulan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mulanAndroid.zip",
+                    "md5": "c525c9b90b11b07d9c9c825c79493b31"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zly1.png",
+                    "id": "43834",
+                    "name": "video_zly1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zly1Android1562299232.zip",
+                    "md5": "58d3aa0f7cba77581a6601911f6b6806"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun1.png",
+                    "id": "43705",
+                    "name": "video_qianxun1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun1Android.zip",
+                    "md5": "9243eb8c3ba36e3027e6888f55386ea7"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dushumao1.png",
+                    "id": "43830",
+                    "name": "video_dushumao1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dushumao1Android.zip",
+                    "md5": "6510a5c79337efba7fb1f2003a240c9a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuzhuyanjing.png",
+                    "id": "43428",
+                    "name": "video_zhuzhuyanjing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuzhuyanjingAndroid.zip",
+                    "md5": "0b2e7b1d592619582030688ff7042fca"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shinepig.png",
+                    "id": "42939",
+                    "name": "video_shinepig",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shinepigAndroid.zip",
+                    "md5": "15a72dc7820a1685fb0ee12d99a661f3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhua.png",
+                    "id": "42812",
+                    "name": "video_ruhua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhuaAndroid.zip",
+                    "md5": "c73ab6b2449f69b920e4f65632f1a7d1"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbs.png",
+                    "id": "43858",
+                    "name": "video_nzbs",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbsAndroid.zip",
+                    "md5": "5e837a70b9f8bedaaef2b951f3800d52"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_taobao.png",
+                    "id": "43873",
+                    "name": "video_taobao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_taobaoAndroid.zip",
+                    "md5": "66a59c21c4f1c3b8c21f240d5558787f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_zhengqipengke.png",
+                    "id": "43643",
+                    "name": "video_3DFace_zhengqipengke",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_zhengqipengkeAndroid.zip",
+                    "md5": "8f6f08b3767fbbf3c158a815221874fa"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springflower.png",
+                    "id": "41519",
+                    "name": "video_3DFace_springflower",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springflowerAndroid.zip",
+                    "md5": "5a785c2c257ac01d2ca3edec221b8e98"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_egaoshuangwanzi.png",
+                    "id": "41934",
+                    "name": "video_egaoshuangwanzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_egaoshuangwanziAndroid.zip",
+                    "md5": "3b7ae70f3287b9cc01c014f6a8075dfb"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mawei.png",
+                    "id": "42417",
+                    "name": "video_mawei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_maweiAndroid.zip",
+                    "md5": "d39522d384cd1626a97cfa2fad6924ca"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cuteword.png",
+                    "id": "41834",
+                    "name": "video_cuteword",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cutewordAndroid.zip",
+                    "md5": "1bbc4aac6f54bf7ae4ada10c2e6f1e5f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tuya.png",
+                    "id": "43068",
+                    "name": "video_tuya",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tuyaAndroid.zip",
+                    "md5": "57a9abcb84f7a81abe5e7ae6859e75f3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_divaglasses1.png",
+                    "id": "43831",
+                    "name": "video_3Dface_divaglasses1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_divaglasses1Android.zip",
+                    "md5": "7c07042e22625d03f29974258c057249"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhaifadai.png",
+                    "id": "42341",
+                    "name": "video_liuhaifadai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhaifadaiAndroid.zip",
+                    "md5": "7236e579a1bfce2b57a472722b9a5175"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_weimihuangguan.png",
+                    "id": "43124",
+                    "name": "video_weimihuangguan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_weimihuangguanAndroid.zip",
+                    "md5": "76060f1821512e12a356cd52d7bdf507"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yumao.png",
+                    "id": "43368",
+                    "name": "video_yumao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yumaoAndroid.zip",
+                    "md5": "21d403749dc77b45f995c8fd1a5618b9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hongbaosaihong.png",
+                    "id": "42161",
+                    "name": "video_hongbaosaihong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_hongbaosaihongAndroid.zip",
+                    "md5": "7bbd4db022acdd3acf4c0dadd7b7b54e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qbang.png",
+                    "id": "42649",
+                    "name": "video_Qbang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QbangAndroid.zip",
+                    "md5": "a230a981f25a32a1593452ccf4f52ded"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwhat.png",
+                    "id": "42151",
+                    "name": "video_heirenwhat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwhatAndroid.zip",
+                    "md5": "df31f1f3b642e0183302954cf09cbab2"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lianpu.png",
+                    "id": "42323",
+                    "name": "video_lianpu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lianpuAndroid.zip",
+                    "md5": "ffd9b005ef2471e7426a25cc890f4fde"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fengkuangdacall.png",
+                    "id": "42000",
+                    "name": "video_fengkuangdacall",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fengkuangdacallAndroid.zip",
+                    "md5": "ea46cd3fc470bb19a05ac3c25e5c9fb8"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_wing.png",
+                    "id": "42529",
+                    "name": "video_mv_wing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_wingAndroid.zip",
+                    "md5": "73d803a82d4ce104c291a75b5240211e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_satancat.png",
+                    "id": "42822",
+                    "name": "video_satancat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_satancatAndroid.zip",
+                    "md5": "4c4f95cb791793698c2b5dae0b80848d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bear.png",
+                    "id": "41651",
+                    "name": "video_bear",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bearAndroid.zip",
+                    "md5": "413055c943c3e019b354e99c2073aa12"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_houzi.png",
+                    "id": "42167",
+                    "name": "video_houzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_houziAndroid.zip",
+                    "md5": "65eee8d3036619410973c19a84fd5b5c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fenliangxiaocangshu.png",
+                    "id": "42005",
+                    "name": "video_fenliangxiaocangshu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fenliangxiaocangshuAndroid.zip",
+                    "md5": "67c57eba322cf55070ebf2b3c810cd96"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_hudiejie.png",
+                    "id": "41484",
+                    "name": "video_3Dface_hudiejie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_hudiejieAndroid.zip",
+                    "md5": "51b2aad5565c91a0bbe0c2dda6154e93"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_sirongduandai.png",
+                    "id": "42976",
+                    "name": "video_sirongduandai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_sirongduandaiAndroid.zip",
+                    "md5": "459fefd17dacb3d9aeb0c0c809b9b362"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_veil.png",
+                    "id": "43082",
+                    "name": "video_veil",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_veilAndroid.zip",
+                    "md5": "554b244b38928080b89f8bf5c18fc277"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fish.png",
+                    "id": "42029",
+                    "name": "video_fish",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fishAndroid.zip",
+                    "md5": "06e294cc71eadc055638cd0a0d374292"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmahua.png",
+                    "id": "42949",
+                    "name": "video_shuangmahua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmahuaAndroid.zip",
+                    "md5": "dda80df537481257177e7255474e29ea"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10001,
+            "categoryName": "最新",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookk.png",
+                    "id": "43933",
+                    "name": "video_schoolbookk",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookkAndroid1567181268.zip",
+                    "md5": "1cdbc4d562466fd0f004f48d4b07ab36"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuaxicao.png",
+                    "id": "43936",
+                    "name": "video_xihuaxicao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuaxicaoAndroid1567158344.zip",
+                    "md5": "9305b4d5b3870b8ca88da599242ccc26"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuang.png",
+                    "id": "43935",
+                    "name": "video_fruitzhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuangAndroid.zip",
+                    "md5": "80d0c00f58687003f5221885ecfc6678"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wangyuan.png",
+                    "id": "43934",
+                    "name": "video_wangyuan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wangyuanAndroid1567157131.zip",
+                    "md5": "c4baae55e5246a67a95008e169160769"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumao.png",
+                    "id": "43930",
+                    "name": "video_shenxianyumao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumaoAndroid1566977728.zip",
+                    "md5": "718c7609d7c07d6ed9115a201289514f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyi.png",
+                    "id": "43931",
+                    "name": "video_xiaweiyi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyiAndroid1566977727.zip",
+                    "md5": "de0ca7059c270947f08d695c6ffb6426"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopao.png",
+                    "id": "43928",
+                    "name": "video_xiaripaopao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopaoAndroid1566812540.zip",
+                    "md5": "04a44ec87faf7456251ec3d4b325e46e"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mengchun.png",
+                    "id": "43926",
+                    "name": "video_mengchun",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mengchunAndroid.zip",
+                    "md5": "6253c3918507d6246979ec1146490428"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfashe.png",
+                    "id": "43927",
+                    "name": "video_aixinfashe",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfasheAndroid1566542937.zip",
+                    "md5": "a86f139afb6c4c03e680358a5219769f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifa.png",
+                    "id": "43925",
+                    "name": "video_suijifa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifaAndroid.zip",
+                    "md5": "60cf379a0325355f4430f82644abadbd"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_caomei.png",
+                    "id": "43923",
+                    "name": "video_caomei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_caomeiAndroid.zip",
+                    "md5": "1ef19114fc606dd3a2fb7d93664aa5c9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_facaikuang.png",
+                    "id": "43921",
+                    "name": "video_facaikuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_facaikuangAndroid.zip",
+                    "md5": "274d2af49923690cd11238aa5a1b6fd7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hands.png",
+                    "id": "43922",
+                    "name": "video_hands",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_handsAndroid.zip",
+                    "md5": "ab15b0db3421cb532b24f7cbc045a0be"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianshou1.png",
+                    "id": "43924",
+                    "name": "video_bianshou1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianshou1Android.zip",
+                    "md5": "45d6cba3b45d214e75d72d529e4b9a70"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heibaimiao.png",
+                    "id": "43913",
+                    "name": "video_heibaimiao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heibaimiaoAndroid1566287294.zip",
+                    "md5": "c8fbbabde0d6b436b8c483e29a6e5f52"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfa.png",
+                    "id": "43912",
+                    "name": "video_huanfa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfaAndroid1566287574.zip",
+                    "md5": "f340521c08900816a642f28ad66ade16"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1.png",
+                    "id": "43878",
+                    "name": "video_meiguihua1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1Android.zip",
+                    "md5": "8cc887859ea20070c5eae05c4cefb9d7"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshou.png",
+                    "id": "43876",
+                    "name": "video_dujiaoshou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshouAndroid1565344609.zip",
+                    "md5": "5b375cc04a708faf4be1dad93d7612b4"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlian.png",
+                    "id": "43877",
+                    "name": "video_goutianlian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlianAndroid1565344614.zip",
+                    "md5": "1b274ad2664f83b7b1e5f2136255de7d"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibang.png",
+                    "id": "43932",
+                    "name": "video_lovechibang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibangAndroid.zip",
+                    "md5": "6bd2a34398ab49297cc9897322aabc6f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99.png",
+                    "id": "43872",
+                    "name": "video_qixi99",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99Android.zip",
+                    "md5": "9dac2cf3568c669819f52ab3645c7a24"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_taobao.png",
+                    "id": "43873",
+                    "name": "video_taobao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_taobaoAndroid.zip",
+                    "md5": "66a59c21c4f1c3b8c21f240d5558787f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhabiaoqing.png",
+                    "id": "43871",
+                    "name": "video_nezhabiaoqing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhabiaoqingAndroid.zip",
+                    "md5": "7daffb2c5594a4061bfd1121cd85704a"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxi.png",
+                    "id": "43867",
+                    "name": "video_nezhaxi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxiAndroid1565062609.zip",
+                    "md5": "75628d03b8bcca55bd719102cf902f31"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tanqi.png",
+                    "id": "43851",
+                    "name": "video_tanqi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tanqiAndroid.zip",
+                    "md5": "ecce4318ec1974f55991aef9aa106695"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkca.png",
+                    "id": "43844",
+                    "name": "video_pinkca",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkcaAndroid1562835573.zip",
+                    "md5": "3465a73b574522229f213f05accc7880"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmi.png",
+                    "id": "43832",
+                    "name": "video_fengmi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmiAndroid.zip",
+                    "md5": "8e0786c07695a5dcff320475876f0ac9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwx.png",
+                    "id": "43860",
+                    "name": "video_lxwx",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwxAndroid.zip",
+                    "md5": "2d1d55c3acbddf22fd7bd7314f9d7ade"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cup.png",
+                    "id": "43833",
+                    "name": "video_3DFace_cup",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cupAndroid.zip",
+                    "md5": "eb0ac84c59e5c2e74c87f55162d76843"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1.png",
+                    "id": "43845",
+                    "name": "video_bottle1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1Android1562846413.zip",
+                    "md5": "8b2df55c0eb5ec0d2487b3f1ebdd8bff"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojie.png",
+                    "id": "43840",
+                    "name": "video_liaojie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojieAndroid1562571181.zip",
+                    "md5": "da6aa1ed865d28df626228c7d266cb8a"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10100,
+            "categoryName": "装饰",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuang.png",
+                    "id": "43935",
+                    "name": "video_fruitzhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fruitzhuangAndroid.zip",
+                    "md5": "80d0c00f58687003f5221885ecfc6678"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumao.png",
+                    "id": "43930",
+                    "name": "video_shenxianyumao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shenxianyumaoAndroid1566977728.zip",
+                    "md5": "718c7609d7c07d6ed9115a201289514f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyi.png",
+                    "id": "43931",
+                    "name": "video_xiaweiyi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaweiyiAndroid1566977727.zip",
+                    "md5": "de0ca7059c270947f08d695c6ffb6426"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopao.png",
+                    "id": "43928",
+                    "name": "video_xiaripaopao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaripaopaoAndroid1566812540.zip",
+                    "md5": "04a44ec87faf7456251ec3d4b325e46e"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifa.png",
+                    "id": "43925",
+                    "name": "video_suijifa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_suijifaAndroid.zip",
+                    "md5": "60cf379a0325355f4430f82644abadbd"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mengchun.png",
+                    "id": "43926",
+                    "name": "video_mengchun",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mengchunAndroid.zip",
+                    "md5": "6253c3918507d6246979ec1146490428"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshou.png",
+                    "id": "43876",
+                    "name": "video_dujiaoshou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dujiaoshouAndroid1565344609.zip",
+                    "md5": "5b375cc04a708faf4be1dad93d7612b4"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_caomei.png",
+                    "id": "43923",
+                    "name": "video_caomei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_caomeiAndroid.zip",
+                    "md5": "1ef19114fc606dd3a2fb7d93664aa5c9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianshou1.png",
+                    "id": "43924",
+                    "name": "video_bianshou1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianshou1Android.zip",
+                    "md5": "45d6cba3b45d214e75d72d529e4b9a70"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_facaikuang.png",
+                    "id": "43921",
+                    "name": "video_facaikuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_facaikuangAndroid.zip",
+                    "md5": "274d2af49923690cd11238aa5a1b6fd7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hands.png",
+                    "id": "43922",
+                    "name": "video_hands",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_handsAndroid.zip",
+                    "md5": "ab15b0db3421cb532b24f7cbc045a0be"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tuya.png",
+                    "id": "43068",
+                    "name": "video_tuya",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tuyaAndroid.zip",
+                    "md5": "57a9abcb84f7a81abe5e7ae6859e75f3"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99.png",
+                    "id": "43872",
+                    "name": "video_qixi99",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qixi99Android.zip",
+                    "md5": "9dac2cf3568c669819f52ab3645c7a24"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_taobao.png",
+                    "id": "43873",
+                    "name": "video_taobao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_taobaoAndroid.zip",
+                    "md5": "66a59c21c4f1c3b8c21f240d5558787f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_humujing.png",
+                    "id": "41485",
+                    "name": "video_3Dface_humujing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_humujingAndroid.zip",
+                    "md5": "c05fda484a0bfab48999beefc2193504"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dushumao1.png",
+                    "id": "43830",
+                    "name": "video_dushumao1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dushumao1Android.zip",
+                    "md5": "6510a5c79337efba7fb1f2003a240c9a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_guohuan.png",
+                    "id": "43640",
+                    "name": "video_guohuan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_guohuanAndroid.zip",
+                    "md5": "f065507bd7a1a8fd8608356bd49a98ce"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mitaozhuang.png",
+                    "id": "43645",
+                    "name": "video_mitaozhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mitaozhuangAndroid.zip",
+                    "md5": "17936358c9844567008f3dad2c2b6ab4"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiannvzhuang1.png",
+                    "id": "43644",
+                    "name": "video_xiannvzhuang1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiannvzhuang1Android.zip",
+                    "md5": "5df1d3df97a52993fbfbbb0c227bef12"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xingxingbaozha.png",
+                    "id": "43836",
+                    "name": "video_xingxingbaozha",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xingxingbaozhaAndroid.zip",
+                    "md5": "2f815e833b1b6f5425f8ce56da3f1f3b"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bailong.png",
+                    "id": "43715",
+                    "name": "video_bailong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bailongAndroid.zip",
+                    "md5": "935c751f7b7f2e4c739de525291c5a54"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun1.png",
+                    "id": "43705",
+                    "name": "video_qianxun1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun1Android.zip",
+                    "md5": "9243eb8c3ba36e3027e6888f55386ea7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuzhuyanjing.png",
+                    "id": "43428",
+                    "name": "video_zhuzhuyanjing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuzhuyanjingAndroid.zip",
+                    "md5": "0b2e7b1d592619582030688ff7042fca"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fbaobao.png",
+                    "id": "43675",
+                    "name": "video_fbaobao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fbaobaoAndroid.zip",
+                    "md5": "4868ef043c7ab70f20ee7e7e6dae7f12"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_guoluyy.png",
+                    "id": "43687",
+                    "name": "video_guoluyy",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_guoluyyAndroid.zip",
+                    "md5": "0754ffced7c424b7624e72cf0b19cba8"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_maoerweiba.png",
+                    "id": "42395",
+                    "name": "video_maoerweiba",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_maoerweibaAndroid.zip",
+                    "md5": "5badf9435c7d2c3dfedae61d526e6d3f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tangpopo.png",
+                    "id": "43667",
+                    "name": "video_tangpopo",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tangpopoAndroid.zip",
+                    "md5": "de15cac821501e48b74d82ab56f7ddd2"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wln1.png",
+                    "id": "43695",
+                    "name": "video_wln1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wln1Android.zip",
+                    "md5": "93142a71a5b28d27655e049e0a3d4261"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvmao.png",
+                    "id": "42425",
+                    "name": "video_meishaonvmao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvmaoAndroid.zip",
+                    "md5": "625a708c8034d94dc7e77ff82a5d2492"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkcat.png",
+                    "id": "42630",
+                    "name": "video_pinkcat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkcatAndroid.zip",
+                    "md5": "335f0bce045293d78cec5fc5924bcafe"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_kuakuaglasses_man.png",
+                    "id": "41490",
+                    "name": "video_3DFace_kuakuaglasses_man",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_kuakuaglasses_manAndroid.zip",
+                    "md5": "7e16b50523bfb311e39bac2e8976fab2"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heiseemo.png",
+                    "id": "42153",
+                    "name": "video_heiseemo",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heiseemoAndroid.zip",
+                    "md5": "86122baccee7328453d5784e13bf6b89"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_triangleglasses.png",
+                    "id": "41526",
+                    "name": "video_3Dface_triangleglasses",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_triangleglassesAndroid.zip",
+                    "md5": "db51117aaff812e2e0eb49bf484c429f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_satancat.png",
+                    "id": "42822",
+                    "name": "video_satancat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_satancatAndroid.zip",
+                    "md5": "4c4f95cb791793698c2b5dae0b80848d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_jinsefeiqiming.png",
+                    "id": "41487",
+                    "name": "video_3Dface_jinsefeiqiming",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_jinsefeiqimingAndroid.zip",
+                    "md5": "6f0433675d0adeae3373e5c2a997e610"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_heisefeiqiming.png",
+                    "id": "41483",
+                    "name": "video_3Dface_heisefeiqiming",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_heisefeiqimingAndroid.zip",
+                    "md5": "b9fe1b7b90b28eb272c4f2c677a4f42e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_flatglassblack0.png",
+                    "id": "41462",
+                    "name": "video_3DFace_flatglassblack0",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_flatglassblack0Android.zip",
+                    "md5": "3f98c76e5f99f3b64756d0227c51816f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_wuyifan1.png",
+                    "id": "41531",
+                    "name": "video_3DFace_wuyifan1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_wuyifan1Android.zip",
+                    "md5": "92b0d27a439d87fe9bc7c2e10a84f953"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_wuyifan_2.png",
+                    "id": "41533",
+                    "name": "video_3DFace_wuyifan_2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_wuyifan_2Android.zip",
+                    "md5": "9eb306b175a337bd8bfe927250610943"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_hudiejie.png",
+                    "id": "41484",
+                    "name": "video_3Dface_hudiejie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_hudiejieAndroid.zip",
+                    "md5": "51b2aad5565c91a0bbe0c2dda6154e93"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_angel.png",
+                    "id": "41567",
+                    "name": "video_angel",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_angelAndroid.zip",
+                    "md5": "166ff639d916277f65a2fdc48428bcde"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springrabbithead2.png",
+                    "id": "41520",
+                    "name": "video_3DFace_springrabbithead2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springrabbithead2Android.zip",
+                    "md5": "afd8cfee7800ae1ade861603e4516db5"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yinghuatou.png",
+                    "id": "43330",
+                    "name": "video_yinghuatou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yinghuatouAndroid.zip",
+                    "md5": "2430263658b2d615ad2f05bfddaf9f6b"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_divaglasses1.png",
+                    "id": "43831",
+                    "name": "video_3Dface_divaglasses1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3Dface_divaglasses1Android.zip",
+                    "md5": "7c07042e22625d03f29974258c057249"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_veil.png",
+                    "id": "43082",
+                    "name": "video_veil",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_veilAndroid.zip",
+                    "md5": "554b244b38928080b89f8bf5c18fc277"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springflower.png",
+                    "id": "41519",
+                    "name": "video_3DFace_springflower",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_springflowerAndroid.zip",
+                    "md5": "5a785c2c257ac01d2ca3edec221b8e98"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehunsha.png",
+                    "id": "42356",
+                    "name": "video_lovehunsha",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehunshaAndroid.zip",
+                    "md5": "6d8b6dd6114673bc492b8d73509a2ae9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_newyeargarland.png",
+                    "id": "41507",
+                    "name": "video_3DFace_newyeargarland",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_newyeargarlandAndroid.zip",
+                    "md5": "7365e505a7ede72e9ccade5e2eab9a19"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shinypearlclip.png",
+                    "id": "42940",
+                    "name": "video_shinypearlclip",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shinypearlclipAndroid.zip",
+                    "md5": "7d79dfb2dbe940bd5fd5b6fad36f1856"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_shadiaoglasses.png",
+                    "id": "41517",
+                    "name": "video_3DFace_shadiaoglasses",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_shadiaoglassesAndroid.zip",
+                    "md5": "e83b90f009a22972b4e08a6e944d62ac"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shine.png",
+                    "id": "42933",
+                    "name": "video_shine",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shineAndroid.zip",
+                    "md5": "15de23f54c7e35ea040b36e45867be25"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_rain.png",
+                    "id": "42773",
+                    "name": "video_rain",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_rainAndroid.zip",
+                    "md5": "5d685930f48c50c2a6f7a6e975847edf"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_heartglasses.png",
+                    "id": "41482",
+                    "name": "video_3DFace_heartglasses",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_heartglassesAndroid.zip",
+                    "md5": "1857246044c75515ea8b0f91e66dde35"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_kukuglass2.png",
+                    "id": "41492",
+                    "name": "video_3DFace_kukuglass2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_kukuglass2Android.zip",
+                    "md5": "5e9dfee2f1729cee6ac477c438166043"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshimojing.png",
+                    "id": "43441",
+                    "name": "video_zuanshimojing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshimojingAndroid.zip",
+                    "md5": "e6b5b33df6300c8eff7f7752ac793bb9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiguasaihong.png",
+                    "id": "43231",
+                    "name": "video_xiguasaihong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiguasaihongAndroid.zip",
+                    "md5": "d5076027bc436af98e804992e4e984af"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heartring.png",
+                    "id": "42131",
+                    "name": "video_heartring",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heartringAndroid.zip",
+                    "md5": "f93fd850f76e2622a79e2238b777c9ea"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshilianjia.png",
+                    "id": "43438",
+                    "name": "video_zuanshilianjia",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshilianjiaAndroid.zip",
+                    "md5": "7514df754d554b3536cdaa2e5a7dd910"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinxinlianjia.png",
+                    "id": "41564",
+                    "name": "video_aixinxinlianjia",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinxinlianjiaAndroid.zip",
+                    "md5": "dc1567a35a1bab3b3e25072d936b51e5"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3dFace_liaotiaoglasses.png",
+                    "id": "41494",
+                    "name": "video_3dFace_liaotiaoglasses",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3dFace_liaotiaoglassesAndroid.zip",
+                    "md5": "aed65cb8e41d721fbd5f50838424ef21"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xingqiulianjia.png",
+                    "id": "43244",
+                    "name": "video_xingqiulianjia",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xingqiulianjiaAndroid.zip",
+                    "md5": "f92692ca6c1e657ddbbce24ef7626fd8"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinpaopao.png",
+                    "id": "41560",
+                    "name": "video_aixinpaopao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinpaopaoAndroid.zip",
+                    "md5": "25f16c2a04d6671dbfd5ea0106b91662"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovestar.png",
+                    "id": "42366",
+                    "name": "video_lovestar",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovestarAndroid.zip",
+                    "md5": "a9a32e0fa8a31760e675b1749494d73d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3dFace_bear_transglasses.png",
+                    "id": "41438",
+                    "name": "video_3dFace_bear_transglasses",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3dFace_bear_transglassesAndroid.zip",
+                    "md5": "32fd7caba5f8afecfee5dec84fc291ea"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_starlightcat.png",
+                    "id": "43000",
+                    "name": "video_starlightcat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_starlightcatAndroid.zip",
+                    "md5": "ebaa4b7457d73854f6024a979bf49411"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_gouerweiba.png",
+                    "id": "42078",
+                    "name": "video_gouerweiba",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_gouerweibaAndroid.zip",
+                    "md5": "adfd0692db282346994b799a6a8b4e71"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shengdannihongsuiji.png",
+                    "id": "42917",
+                    "name": "video_shengdannihongsuiji",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shengdannihongsuijiAndroid.zip",
+                    "md5": "58bb5adb503ad0cff4517b60d3daa38f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_weimihuangguan.png",
+                    "id": "43124",
+                    "name": "video_weimihuangguan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_weimihuangguanAndroid.zip",
+                    "md5": "76060f1821512e12a356cd52d7bdf507"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_diamonds_cheek.png",
+                    "id": "41882",
+                    "name": "video_diamonds_cheek",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_diamonds_cheekAndroid.zip",
+                    "md5": "70169537507b5055741745156aae5f35"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_sirongduandai.png",
+                    "id": "42976",
+                    "name": "video_sirongduandai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_sirongduandaiAndroid.zip",
+                    "md5": "459fefd17dacb3d9aeb0c0c809b9b362"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_fashionglass01.png",
+                    "id": "41457",
+                    "name": "video_3DFace_fashionglass01",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_fashionglass01Android.zip",
+                    "md5": "d9a60dbacbb240e37d2ecf9d5059da17"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_simplecat.png",
+                    "id": "42971",
+                    "name": "video_simplecat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_simplecatAndroid.zip",
+                    "md5": "c8205075f4dc57b4d4b5e760d0d23f15"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bluecat.png",
+                    "id": "41698",
+                    "name": "video_bluecat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bluecatAndroid.zip",
+                    "md5": "27a05be7a0a5f2bd824c5b362c5875ed"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_caidai.png",
+                    "id": "41721",
+                    "name": "video_caidai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_caidaiAndroid.zip",
+                    "md5": "c82e6c71726596fccfe83d5cb9b67c0d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_barrycheek.png",
+                    "id": "41648",
+                    "name": "video_barrycheek",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_barrycheekAndroid.zip",
+                    "md5": "a6ba5dd7c65b0adeeac19bfd1bec6121"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cathuzi_white.png",
+                    "id": "41763",
+                    "name": "video_cathuzi_white",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cathuzi_whiteAndroid.zip",
+                    "md5": "1607322b729509aeffaca2b26a4e7c66"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_white.png",
+                    "id": "42201",
+                    "name": "video_huzi_white",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_whiteAndroid.zip",
+                    "md5": "0da9386647693cbc07f2cf2de13d6141"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yumao.png",
+                    "id": "43368",
+                    "name": "video_yumao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yumaoAndroid.zip",
+                    "md5": "21d403749dc77b45f995c8fd1a5618b9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_wing.png",
+                    "id": "42529",
+                    "name": "video_mv_wing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_wingAndroid.zip",
+                    "md5": "73d803a82d4ce104c291a75b5240211e"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bubble.png",
+                    "id": "41717",
+                    "name": "video_bubble",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bubbleAndroid.zip",
+                    "md5": "8b2f029d5eb6995bc530c2abd4e9d984"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qfadai.png",
+                    "id": "42660",
+                    "name": "video_Qfadai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QfadaiAndroid.zip",
+                    "md5": "3ac830bb33228954c686273b0d709a71"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_jianbituzi.png",
+                    "id": "42230",
+                    "name": "video_jianbituzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_jianbituziAndroid.zip",
+                    "md5": "add97b8b2f7a995246c38bdbd27001cb"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dogglasses2.png",
+                    "id": "41898",
+                    "name": "video_dogglasses2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dogglasses2Android.zip",
+                    "md5": "74c9f4f1390aecb7c800bdcc2b1bc3a3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_maomisaihong.png",
+                    "id": "42399",
+                    "name": "video_maomisaihong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_maomisaihongAndroid.zip",
+                    "md5": "b0fb49743b34467469b5ec4bfa98c51f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_burgercheek.png",
+                    "id": "41718",
+                    "name": "video_burgercheek",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_burgercheekAndroid.zip",
+                    "md5": "d404d989d8de53eb97745cbf4f59de46"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zangbian.png",
+                    "id": "43386",
+                    "name": "video_zangbian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zangbianAndroid.zip",
+                    "md5": "8d54b5abb52667b4420d24f588579a42"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaolongbao.png",
+                    "id": "43194",
+                    "name": "video_xiaolongbao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaolongbaoAndroid.zip",
+                    "md5": "5f99f5a1fae670da0635bd2ae3ac26e1"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_keji_saihong.png",
+                    "id": "42285",
+                    "name": "video_keji_saihong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_keji_saihongAndroid.zip",
+                    "md5": "2f34affa55ff97adb4201cc56771fdad"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qmeng.png",
+                    "id": "42727",
+                    "name": "video_Qmeng",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QmengAndroid.zip",
+                    "md5": "39cab4d896159be2dbe26010c5d8d20b"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_rainbow.png",
+                    "id": "42774",
+                    "name": "video_rainbow",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_rainbowAndroid.zip",
+                    "md5": "2930fda67b8d3ffccf27670cc26f6b2c"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pikachu.png",
+                    "id": "42624",
+                    "name": "video_pikachu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pikachuAndroid.zip",
+                    "md5": "909cde3d604621275104a9f459015dc3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xinxin.png",
+                    "id": "43258",
+                    "name": "video_xinxin",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xinxinAndroid.zip",
+                    "md5": "e11f146bd15538399c9d93254113991f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mianhuatang.png",
+                    "id": "42431",
+                    "name": "video_mianhuatang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mianhuatangAndroid.zip",
+                    "md5": "358a340753d9939c183e84e7abf22744"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baisemaoerduo1.png",
+                    "id": "41632",
+                    "name": "video_baisemaoerduo1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baisemaoerduo1Android1564132309.zip",
+                    "md5": "e22e4483fb0591ed97cd30e3c9f8267e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhaifadai.png",
+                    "id": "42341",
+                    "name": "video_liuhaifadai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhaifadaiAndroid.zip",
+                    "md5": "7236e579a1bfce2b57a472722b9a5175"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmahua.png",
+                    "id": "42949",
+                    "name": "video_shuangmahua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmahuaAndroid.zip",
+                    "md5": "dda80df537481257177e7255474e29ea"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hippop.png",
+                    "id": "42154",
+                    "name": "video_hippop",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_hippopAndroid.zip",
+                    "md5": "980b6e56fee0946a4c6cf4ef4e79c61b"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qerji.png",
+                    "id": "42659",
+                    "name": "video_Qerji",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QerjiAndroid.zip",
+                    "md5": "d6035f96f7421464963684fa3f97cacf"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cheek_heart.png",
+                    "id": "41774",
+                    "name": "video_cheek_heart",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cheek_heartAndroid.zip",
+                    "md5": "fddba4a1c02e2967b944d8c226e87883"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shinepig.png",
+                    "id": "42939",
+                    "name": "video_shinepig",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shinepigAndroid.zip",
+                    "md5": "15a72dc7820a1685fb0ee12d99a661f3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nihongshu.png",
+                    "id": "42570",
+                    "name": "video_nihongshu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nihongshuAndroid.zip",
+                    "md5": "9c0a2216baf65e795bf2a9ff5508e873"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_shineblue.png",
+                    "id": "42200",
+                    "name": "video_huzi_shineblue",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_shineblueAndroid.zip",
+                    "md5": "6b83c3b026af6d35aa1847ff00ed7e47"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_black.png",
+                    "id": "42199",
+                    "name": "video_huzi_black",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huzi_blackAndroid.zip",
+                    "md5": "603d97e6a59e2d3e0598209705cf8419"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkflush.png",
+                    "id": "42632",
+                    "name": "video_pinkflush",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkflushAndroid.zip",
+                    "md5": "379b8a3a1b69040808ec24175f6fecb9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yellowstar.png",
+                    "id": "43315",
+                    "name": "video_yellowstar",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yellowstarAndroid.zip",
+                    "md5": "dfe377d51a5ca77b916a234f9d90bec9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_sd_goldendeer.png",
+                    "id": "42847",
+                    "name": "video_sd_goldendeer",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_sd_goldendeerAndroid.zip",
+                    "md5": "72407b666082825524030f93dc46b6a4"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wujiaoxing.png",
+                    "id": "43154",
+                    "name": "video_wujiaoxing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wujiaoxingAndroid.zip",
+                    "md5": "955f1cfbf72373c9d4da9e9c13ce3361"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bolang.png",
+                    "id": "41702",
+                    "name": "video_bolang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bolangAndroid.zip",
+                    "md5": "5ff97a0d5d0018ce5ed6464db8855532"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Q520ma.png",
+                    "id": "42648",
+                    "name": "video_Q520ma",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_Q520maAndroid.zip",
+                    "md5": "c4943e4088969df50efd79488c425d2c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshitxm.png",
+                    "id": "43444",
+                    "name": "video_zuanshitxm",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zuanshitxmAndroid.zip",
+                    "md5": "0a9003e353c2da32a9511ab90957ccc7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tinybraid.png",
+                    "id": "43056",
+                    "name": "video_tinybraid",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tinybraidAndroid.zip",
+                    "md5": "780d56119fe6906c52c8e3be3aac0884"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pangxie.png",
+                    "id": "42605",
+                    "name": "video_pangxie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pangxieAndroid.zip",
+                    "md5": "20c02d1c92a47c5b87e869a77b53bec7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_koreaband.png",
+                    "id": "42290",
+                    "name": "video_koreaband",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_koreabandAndroid.zip",
+                    "md5": "b74f1ffaa15842d63883f36175e686ce"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bear.png",
+                    "id": "41651",
+                    "name": "video_bear",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bearAndroid.zip",
+                    "md5": "413055c943c3e019b354e99c2073aa12"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pigg.png",
+                    "id": "42620",
+                    "name": "video_pigg",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_piggAndroid.zip",
+                    "md5": "7df0114948fbe5bd952ab016306d0444"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_GlowCat.png",
+                    "id": "42065",
+                    "name": "video_GlowCat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_GlowCatAndroid.zip",
+                    "md5": "5ea8d2f60dd7fff4c6d6e816eb8f4174"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tiger1.png",
+                    "id": "43053",
+                    "name": "video_tiger1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tiger1Android.zip",
+                    "md5": "dcb086220f0de8781615eb7b2c3044c9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_flowerrabbit.png",
+                    "id": "42032",
+                    "name": "video_flowerrabbit",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_flowerrabbitAndroid.zip",
+                    "md5": "e736c91a6f1a8cb5af739f24b8475cb6"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_caihongxiantu.png",
+                    "id": "41726",
+                    "name": "video_caihongxiantu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_caihongxiantuAndroid.zip",
+                    "md5": "5aa098cd146e8ee170db83dca909f995"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_springrabbit.png",
+                    "id": "42997",
+                    "name": "video_springrabbit",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_springrabbitAndroid.zip",
+                    "md5": "a99ddb80907d46be13ab0d40f41465fc"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cutepets.png",
+                    "id": "41832",
+                    "name": "video_cutepets",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cutepetsAndroid.zip",
+                    "md5": "de86594f9c318734ceb7fbc072f2c281"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_springdeer.png",
+                    "id": "42993",
+                    "name": "video_springdeer",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_springdeerAndroid.zip",
+                    "md5": "a7b757ccf6d55fb339c5b2e92aaf3fcf"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_islandfen.png",
+                    "id": "42227",
+                    "name": "video_islandfen",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_islandfenAndroid.zip",
+                    "md5": "fda056d4b79d3ae22b55cf1919e5e50b"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10200,
+            "categoryName": "表情包",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1.png",
+                    "id": "43845",
+                    "name": "video_bottle1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1Android1562846413.zip",
+                    "md5": "8b2df55c0eb5ec0d2487b3f1ebdd8bff"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojie.png",
+                    "id": "43840",
+                    "name": "video_liaojie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liaojieAndroid1562571181.zip",
+                    "md5": "da6aa1ed865d28df626228c7d266cb8a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bighead.png",
+                    "id": "41667",
+                    "name": "video_bighead",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bigheadAndroid1562843133.zip",
+                    "md5": "34b8ed01581989df25aee030c8f16a57"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lianai.png",
+                    "id": "43849",
+                    "name": "video_lianai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lianaiAndroid.zip",
+                    "md5": "30d79dec9bd0d246e7556e8a2615de0b"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shihougong.png",
+                    "id": "43850",
+                    "name": "video_shihougong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shihougongAndroid.zip",
+                    "md5": "fc2e8ddc31c089f60c15d639fc8697a2"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wenzidongman2.png",
+                    "id": "43641",
+                    "name": "video_wenzidongman2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wenzidongman2Android.zip",
+                    "md5": "c27557342d06798eed7614ea849885a6"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_wenziyinyue.png",
+                    "id": "43655",
+                    "name": "video_wenziyinyue",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_wenziyinyueAndroid.zip",
+                    "md5": "b3a88668466b649936a66c45305d68fc"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lipkiss.png",
+                    "id": "42335",
+                    "name": "video_lipkiss",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lipkissAndroid.zip",
+                    "md5": "f8bbe1d5f5ea1bd51f7318926814ee6a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tuxinxin.png",
+                    "id": "43067",
+                    "name": "video_tuxinxin",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tuxinxinAndroid.zip",
+                    "md5": "c40310113e9631174148bbd7fbd631b2"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fish.png",
+                    "id": "42029",
+                    "name": "video_fish",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fishAndroid.zip",
+                    "md5": "06e294cc71eadc055638cd0a0d374292"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_duck.png",
+                    "id": "41922",
+                    "name": "video_duck",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_duckAndroid.zip",
+                    "md5": "b7867720d70e3acdc31d70c7315ebf6d"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiangnixiangni.png",
+                    "id": "43172",
+                    "name": "video_xiangnixiangni",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiangnixiangniAndroid.zip",
+                    "md5": "3bc91cdc11d933c012ff7f467358873d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hongbaosaihong.png",
+                    "id": "42161",
+                    "name": "video_hongbaosaihong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_hongbaosaihongAndroid.zip",
+                    "md5": "7bbd4db022acdd3acf4c0dadd7b7b54e"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_voice_text_mouth.png",
+                    "id": "43087",
+                    "name": "video_voice_text_mouth",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_voice_text_mouthAndroid.zip",
+                    "md5": "654e3084a9fa2d34316db22fe67e618f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cuteword.png",
+                    "id": "41834",
+                    "name": "video_cuteword",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cutewordAndroid.zip",
+                    "md5": "1bbc4aac6f54bf7ae4ada10c2e6f1e5f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bad.png",
+                    "id": "41623",
+                    "name": "video_bad",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_badAndroid.zip",
+                    "md5": "585c9d986f74daa15c7a0bc28c918f8e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_peifusanlian1.png",
+                    "id": "42615",
+                    "name": "video_peifusanlian1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_peifusanlian1Android.zip",
+                    "md5": "b615031fc71e35c67e5e915317e7eb63"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fengkuangdacall.png",
+                    "id": "42000",
+                    "name": "video_fengkuangdacall",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fengkuangdacallAndroid.zip",
+                    "md5": "ea46cd3fc470bb19a05ac3c25e5c9fb8"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tornado.png",
+                    "id": "43059",
+                    "name": "video_tornado",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tornadoAndroid.zip",
+                    "md5": "683476bd74db14982969c8032328b9e0"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dianzan.png",
+                    "id": "41887",
+                    "name": "video_dianzan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dianzanAndroid.zip",
+                    "md5": "298f113cadc91bb0b90f1028bbd9da44"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yinjiuzui.png",
+                    "id": "43334",
+                    "name": "video_yinjiuzui",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yinjiuzuiAndroid.zip",
+                    "md5": "438ce139d06a79081e124cb0d9d37672"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_womengma.png",
+                    "id": "43147",
+                    "name": "video_womengma",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_womengmaAndroid.zip",
+                    "md5": "ba4c5fb6f41f7de8184e0a1831fc4711"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qbang.png",
+                    "id": "42649",
+                    "name": "video_Qbang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QbangAndroid.zip",
+                    "md5": "a230a981f25a32a1593452ccf4f52ded"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_goldeye.png",
+                    "id": "42071",
+                    "name": "video_goldeye",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_goldeyeAndroid.zip",
+                    "md5": "81556814975963813b73e2c62bb0c011"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwhat.png",
+                    "id": "42151",
+                    "name": "video_heirenwhat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwhatAndroid.zip",
+                    "md5": "df31f1f3b642e0183302954cf09cbab2"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tangseng.png",
+                    "id": "43025",
+                    "name": "video_tangseng",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tangsengAndroid.zip",
+                    "md5": "cf113e14c2257e6d4c71ae51df2a8e85"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_chigua.png",
+                    "id": "41780",
+                    "name": "video_chigua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_chiguaAndroid.zip",
+                    "md5": "8504bff3ef82a48078acda366f1c4bbe"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qbaojing.png",
+                    "id": "42651",
+                    "name": "video_Qbaojing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QbaojingAndroid.zip",
+                    "md5": "46f78c383b1e20af1d73b88dd512c2f3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_waiwaiwai.png",
+                    "id": "43088",
+                    "name": "video_waiwaiwai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_waiwaiwaiAndroid.zip",
+                    "md5": "7bfd68f76b764b0ed7770ce5e28b8c01"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_goodnight.png",
+                    "id": "42075",
+                    "name": "video_goodnight",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_goodnightAndroid.zip",
+                    "md5": "954c7890ba7439c080f5b9833cb658c7"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qpipixia.png",
+                    "id": "42730",
+                    "name": "video_Qpipixia",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QpipixiaAndroid.zip",
+                    "md5": "d6a2697ebfdfaac4c920939e6e0e4abf"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_haode.png",
+                    "id": "42122",
+                    "name": "video_haode",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_haodeAndroid.zip",
+                    "md5": "eba0c9cc93d483d963c001e364db4e73"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_superpower.png",
+                    "id": "43010",
+                    "name": "video_superpower",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_superpowerAndroid.zip",
+                    "md5": "9a26130b07fa3a80bb5ac7afdf49895e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_leipen.png",
+                    "id": "42310",
+                    "name": "video_leipen",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_leipenAndroid.zip",
+                    "md5": "161c9c5a2516a3e82a937f713586bfda"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nonono.png",
+                    "id": "42575",
+                    "name": "video_nonono",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nononoAndroid1562843126.zip",
+                    "md5": "30959356dffc6bb72db399a97c317662"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_quanquan.png",
+                    "id": "42749",
+                    "name": "video_quanquan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_quanquanAndroid.zip",
+                    "md5": "86f26944ec7c12a6c76042b3f00708db"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qdiss.png",
+                    "id": "42658",
+                    "name": "video_Qdiss",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QdissAndroid.zip",
+                    "md5": "d619634dfdf3b5e2f14c8c22e6f32f52"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuanni.png",
+                    "id": "43236",
+                    "name": "video_xihuanni",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xihuanniAndroid.zip",
+                    "md5": "f6afd15de1178dd29b82c4894c55c03d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_angryrabbit.png",
+                    "id": "41573",
+                    "name": "video_angryrabbit",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_angryrabbitAndroid.zip",
+                    "md5": "a3437a208a56e530d8f131d0ae2e9edb"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_stupid.png",
+                    "id": "43006",
+                    "name": "video_stupid",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_stupidAndroid.zip",
+                    "md5": "32c59f57f47b095bb1a3846c897776d2"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qlaotie.png",
+                    "id": "42717",
+                    "name": "video_Qlaotie",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QlaotieAndroid.zip",
+                    "md5": "cf2d97dc5b92234a88551e259c4ea41e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_danshengouchigouliang.png",
+                    "id": "41852",
+                    "name": "video_danshengouchigouliang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_danshengouchigouliangAndroid.zip",
+                    "md5": "ef196d05672f95f53ac8aced2f74c9bb"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehand.png",
+                    "id": "42355",
+                    "name": "video_lovehand",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovehandAndroid.zip",
+                    "md5": "542795065e6c2eaeb6be27de52e093d0"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_funny_tuzi.png",
+                    "id": "42049",
+                    "name": "video_funny_tuzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_funny_tuziAndroid.zip",
+                    "md5": "680230b54f2de83324d9e2ab1e165a10"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_laughday.png",
+                    "id": "42305",
+                    "name": "video_laughday",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_laughdayAndroid.zip",
+                    "md5": "d5c1b4a5b7ef394b6e30e64c52cde7a6"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tianzhenre.png",
+                    "id": "43050",
+                    "name": "video_tianzhenre",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tianzhenreAndroid.zip",
+                    "md5": "26f8a4e13e47f458986a16a47eb80adb"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_cake_1.png",
+                    "id": "41732",
+                    "name": "video_cake_1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_cake_1Android.zip",
+                    "md5": "842d67a80da3dc8e8e56e7efbb88c9e3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_whatmatter.png",
+                    "id": "43135",
+                    "name": "video_whatmatter",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_whatmatterAndroid.zip",
+                    "md5": "388cc40ea208bf59d4bfd8e306a7ac7d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_kanwoyanshen.png",
+                    "id": "42282",
+                    "name": "video_kanwoyanshen",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_kanwoyanshenAndroid.zip",
+                    "md5": "d133ae3bd1f7e9daed719bfc4f1b77e9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_excuseme.png",
+                    "id": "41955",
+                    "name": "video_excuseme",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_excusemeAndroid.zip",
+                    "md5": "8281d5b352e93d3fcb18c9263b7dd895"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baobao.png",
+                    "id": "41641",
+                    "name": "video_baobao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baobaoAndroid1562299354.zip",
+                    "md5": "d4e45069c7fca2d55657d301de821114"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lueluelue.png",
+                    "id": "42369",
+                    "name": "video_lueluelue",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lueluelueAndroid.zip",
+                    "md5": "0dda106d09753561a0deb948dce67b09"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_layanjing.png",
+                    "id": "42309",
+                    "name": "video_layanjing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_layanjingAndroid.zip",
+                    "md5": "45b0371082500438f9a699fee5e377a1"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_erkang.png",
+                    "id": "41949",
+                    "name": "video_erkang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_erkangAndroid.zip",
+                    "md5": "87851f2b11b21edb51204015270a5570"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhua.png",
+                    "id": "42812",
+                    "name": "video_ruhua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhuaAndroid.zip",
+                    "md5": "c73ab6b2449f69b920e4f65632f1a7d1"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dayoff.png",
+                    "id": "41859",
+                    "name": "video_dayoff",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dayoffAndroid.zip",
+                    "md5": "79bf526298b0e6eeb98c4bebf7b14b19"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_singledog.png",
+                    "id": "42974",
+                    "name": "video_singledog",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_singledogAndroid.zip",
+                    "md5": "7fa0f9c1ba7da5640db5dbde3460d4a6"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_buybuybuy.png",
+                    "id": "41719",
+                    "name": "video_buybuybuy",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_buybuybuyAndroid.zip",
+                    "md5": "4187ee71340fee25f2492f37a897da6a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zhayantuijingaixin.png",
+                    "id": "43839",
+                    "name": "video_zhayantuijingaixin",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zhayantuijingaixinAndroid.zip",
+                    "md5": "784987a7c21a8c3accb82c7308582134"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_sobeauty.png",
+                    "id": "42985",
+                    "name": "video_sobeauty",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_sobeautyAndroid.zip",
+                    "md5": "61d500063aa7e4a3baae3ee1ec597f01"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_angryface.png",
+                    "id": "41571",
+                    "name": "video_angryface",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_angryfaceAndroid.zip",
+                    "md5": "b74009333733c32cf4775ec01a49a324"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwenhao.png",
+                    "id": "42149",
+                    "name": "video_heirenwenhao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenwenhaoAndroid.zip",
+                    "md5": "1c877b49082d2b9db551256a2a082d08"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiayu.png",
+                    "id": "43225",
+                    "name": "video_xiayu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiayuAndroid.zip",
+                    "md5": "31b8c77f726795209e323b8bbceb5137"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xuexi.png",
+                    "id": "43279",
+                    "name": "video_xuexi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xuexiAndroid.zip",
+                    "md5": "5533846f2daecf67cebaa037a73afcdf"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bangwoshanshan.png",
+                    "id": "41640",
+                    "name": "video_bangwoshanshan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bangwoshanshanAndroid.zip",
+                    "md5": "10c4509b49186e00463e36e825bfe92a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_jinlailiangkuai.png",
+                    "id": "42256",
+                    "name": "video_jinlailiangkuai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_jinlailiangkuaiAndroid.zip",
+                    "md5": "de4d451aa9dfd05f40f02eec4b81f6ca"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qwho.png",
+                    "id": "42750",
+                    "name": "video_Qwho",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QwhoAndroid.zip",
+                    "md5": "9c4f04008606742c94de318cb904c7e5"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10500,
+            "categoryName": "QQ头像",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL5.png",
+                    "id": "42738",
+                    "name": "video_qqkatongSL5",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL5Android1562905139.zip",
+                    "md5": "5e0333a30c18971182c763623944a72c"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL4.png",
+                    "id": "42737",
+                    "name": "video_qqkatongSL4",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL4Android1562905123.zip",
+                    "md5": "e5424ffd7c2a85454675cee1d179baa2"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL1.png",
+                    "id": "42734",
+                    "name": "video_qqkatongSL1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL1Android1562905133.zip",
+                    "md5": "d4daf3c95cb3ae86180458f77bc71922"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL2.png",
+                    "id": "42735",
+                    "name": "video_qqkatongSL2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL2Android1562905128.zip",
+                    "md5": "4ce1eb0c5624033cbb912bb58f0ba09d"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL6.png",
+                    "id": "42739",
+                    "name": "video_qqkatongSL6",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL6Android.zip",
+                    "md5": "b2a41199ef41973fb9e5c7b2b0284b22"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL3.png",
+                    "id": "42736",
+                    "name": "video_qqkatongSL3",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL3Android.zip",
+                    "md5": "8046f6b4fb79ed006de40ae77d5ae317"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXS2.png",
+                    "id": "42742",
+                    "name": "video_qqkatongXS2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXS2Android.zip",
+                    "md5": "9ce9f12f4d2879389835e1c0a60c7a84"
+                },
+                {
+                    "displayType": 4,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXS1.png",
+                    "id": "42741",
+                    "name": "video_qqkatongXS1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXS1Android.zip",
+                    "md5": "528691e9fd6969c45a2106c92406426e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSL.png",
+                    "id": "42733",
+                    "name": "video_qqkatongSL",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongSLAndroid.zip",
+                    "md5": "9443c0cd28ece920465a86eafedc023c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXS.png",
+                    "id": "42740",
+                    "name": "video_qqkatongXS",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqkatongXSAndroid.zip",
+                    "md5": "77ae0065a77e9033b19fe5296ac1780d"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10600,
+            "categoryName": "迪士尼公主",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aisha.png",
+                    "id": "41554",
+                    "name": "video_aisha",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aishaAndroid.zip",
+                    "md5": "2cfe73c98d08b83e43865389e89dfe7d"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baixue57.png",
+                    "id": "41634",
+                    "name": "video_baixue57",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baixue57Android.zip",
+                    "md5": "3c37370a885343548d2f300e3ffd7cf9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_beier.png",
+                    "id": "41654",
+                    "name": "video_beier",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_beierAndroid.zip",
+                    "md5": "af391f8c0156df49530050b06dc7521b"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_ailier.png",
+                    "id": "41917",
+                    "name": "video_dsngz_ailier",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_ailierAndroid.zip",
+                    "md5": "ea23727b5852bd1352b638ceadbdbef8"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_moli.png",
+                    "id": "41919",
+                    "name": "video_dsngz_moli",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_moliAndroid.zip",
+                    "md5": "d2c8cd547d52b59d60f8560f5235ab3a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_elsa.png",
+                    "id": "41918",
+                    "name": "video_dsngz_elsa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_elsaAndroid.zip",
+                    "md5": "40cdce720aa433bdcf0b12339a7ce011"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_snowwhite.png",
+                    "id": "41920",
+                    "name": "video_dsngz_snowwhite",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsngz_snowwhiteAndroid.zip",
+                    "md5": "ecc20f56bef1079259a451d3f66e5a18"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn1.png",
+                    "id": "41914",
+                    "name": "video_dsn1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn1Android.zip",
+                    "md5": "ae8f0c631a56ad086754f1a70761991f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn3.png",
+                    "id": "41916",
+                    "name": "video_dsn3",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn3Android.zip",
+                    "md5": "36c79b843e9b4d708579fdd8e938e875"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn2.png",
+                    "id": "41915",
+                    "name": "video_dsn2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dsn2Android.zip",
+                    "md5": "14eb11581e15ebc07cb3434e0b7082e2"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10300,
+            "categoryName": "趣味",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookk.png",
+                    "id": "43933",
+                    "name": "video_schoolbookk",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_schoolbookkAndroid1567181268.zip",
+                    "md5": "1cdbc4d562466fd0f004f48d4b07ab36"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfashe.png",
+                    "id": "43927",
+                    "name": "video_aixinfashe",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_aixinfasheAndroid1566542937.zip",
+                    "md5": "a86f139afb6c4c03e680358a5219769f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heibaimiao.png",
+                    "id": "43913",
+                    "name": "video_heibaimiao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heibaimiaoAndroid1566287294.zip",
+                    "md5": "c8fbbabde0d6b436b8c483e29a6e5f52"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfa.png",
+                    "id": "43912",
+                    "name": "video_huanfa",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huanfaAndroid1566287574.zip",
+                    "md5": "f340521c08900816a642f28ad66ade16"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlian.png",
+                    "id": "43877",
+                    "name": "video_goutianlian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_goutianlianAndroid1565344614.zip",
+                    "md5": "1b274ad2664f83b7b1e5f2136255de7d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1.png",
+                    "id": "43878",
+                    "name": "video_meiguihua1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meiguihua1Android.zip",
+                    "md5": "8cc887859ea20070c5eae05c4cefb9d7"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwx.png",
+                    "id": "43860",
+                    "name": "video_lxwx",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lxwxAndroid.zip",
+                    "md5": "2d1d55c3acbddf22fd7bd7314f9d7ade"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxi.png",
+                    "id": "43867",
+                    "name": "video_nezhaxi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nezhaxiAndroid1565062609.zip",
+                    "md5": "75628d03b8bcca55bd719102cf902f31"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbs.png",
+                    "id": "43858",
+                    "name": "video_nzbs",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbsAndroid.zip",
+                    "md5": "5e837a70b9f8bedaaef2b951f3800d52"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lixian2.png",
+                    "id": "43857",
+                    "name": "video_lixian2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lixian2Android1564061130.zip",
+                    "md5": "20c8bd56e6b355bad94c2599a2019a32"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbk.png",
+                    "id": "43859",
+                    "name": "video_nzbk",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nzbkAndroid.zip",
+                    "md5": "96cdc86820c85c20092bf18b6ebe3267"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1.png",
+                    "id": "43845",
+                    "name": "video_bottle1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bottle1Android1562846413.zip",
+                    "md5": "8b2df55c0eb5ec0d2487b3f1ebdd8bff"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cup.png",
+                    "id": "43833",
+                    "name": "video_3DFace_cup",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_cupAndroid.zip",
+                    "md5": "eb0ac84c59e5c2e74c87f55162d76843"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_zhengqipengke.png",
+                    "id": "43643",
+                    "name": "video_3DFace_zhengqipengke",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_zhengqipengkeAndroid.zip",
+                    "md5": "8f6f08b3767fbbf3c158a815221874fa"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao.png",
+                    "id": "41658",
+                    "name": "video_bianlao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlaoAndroid1563542422.zip",
+                    "md5": "1e1a2932f6bff8881aba2f3c57b656d9"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao3.png",
+                    "id": "41659",
+                    "name": "video_bianlao3",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianlao3Android1563540591.zip",
+                    "md5": "fce8befef7651e9686ec6b146344a613"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lianai.png",
+                    "id": "43849",
+                    "name": "video_lianai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lianaiAndroid.zip",
+                    "md5": "30d79dec9bd0d246e7556e8a2615de0b"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun3.png",
+                    "id": "43810",
+                    "name": "video_qianxun3",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qianxun3Android.zip",
+                    "md5": "8dff2c2e6e4b965b3f6883c89d756c75"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shihougong.png",
+                    "id": "43850",
+                    "name": "video_shihougong",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shihougongAndroid.zip",
+                    "md5": "fc2e8ddc31c089f60c15d639fc8697a2"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mawei.png",
+                    "id": "42417",
+                    "name": "video_mawei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_maweiAndroid.zip",
+                    "md5": "d39522d384cd1626a97cfa2fad6924ca"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bighead.png",
+                    "id": "41667",
+                    "name": "video_bighead",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bigheadAndroid1562843133.zip",
+                    "md5": "34b8ed01581989df25aee030c8f16a57"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_egaoshuangwanzi.png",
+                    "id": "41934",
+                    "name": "video_egaoshuangwanzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_egaoshuangwanziAndroid.zip",
+                    "md5": "3b7ae70f3287b9cc01c014f6a8075dfb"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_noteeth.png",
+                    "id": "42576",
+                    "name": "video_noteeth",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_noteethAndroid.zip",
+                    "md5": "388df6c0b26835a2187e92aea5ce7580"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_bianpang.png",
+                    "id": "41660",
+                    "name": "video_bianpang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_bianpangAndroid.zip",
+                    "md5": "d4c99f6fa80ddc0dc3b06cf3d099e679"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_xiaojingling4.png",
+                    "id": "41536",
+                    "name": "video_3DFace_xiaojingling4",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_xiaojingling4Android.zip",
+                    "md5": "598292404195b3acee8990b681308d2f"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xinbainiangzi.png",
+                    "id": "43239",
+                    "name": "video_xinbainiangzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xinbainiangziAndroid.zip",
+                    "md5": "957bf592c8a39c6a0a61da95891e561f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_xiaojingling.png",
+                    "id": "41535",
+                    "name": "video_3DFace_xiaojingling",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_xiaojinglingAndroid.zip",
+                    "md5": "3bb19279d89baaa74afc7b9bd37f274a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_animalword.png",
+                    "id": "41574",
+                    "name": "video_animalword",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_animalwordAndroid.zip",
+                    "md5": "f6efd38b4f83e568b9d72477f512d142"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heimianmo.png",
+                    "id": "42147",
+                    "name": "video_heimianmo",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heimianmoAndroid.zip",
+                    "md5": "684abe9950cb5433db7f3e2ef482b0d4"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvbaozheng.png",
+                    "id": "42424",
+                    "name": "video_meishaonvbaozheng",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_meishaonvbaozhengAndroid.zip",
+                    "md5": "80bd5e8b1e314bc7f4ae4ca1690bc363"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_muqinhat.png",
+                    "id": "42482",
+                    "name": "video_muqinhat",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_muqinhatAndroid.zip",
+                    "md5": "8590ebcfdaf6a909d23bfef71087d56c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nanrenzhuang.png",
+                    "id": "42540",
+                    "name": "video_nanrenzhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nanrenzhuangAndroid.zip",
+                    "md5": "93dcd1433aa35bf67fafb8d96f21cfaa"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hairstyle.png",
+                    "id": "42108",
+                    "name": "video_hairstyle",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_hairstyleAndroid.zip",
+                    "md5": "1eb8fa4a02bbea59d18bd55f16d0aa11"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yinyanglian.png",
+                    "id": "43338",
+                    "name": "video_yinyanglian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yinyanglianAndroid.zip",
+                    "md5": "abf9291dd8cba785a6c014c47f69bab7"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_halloween_knife.png",
+                    "id": "41481",
+                    "name": "video_3DFace_halloween_knife",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_3DFace_halloween_knifeAndroid.zip",
+                    "md5": "23cb504dd9adfa023522d9f91a0a366a"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhai.png",
+                    "id": "42340",
+                    "name": "video_liuhai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_liuhaiAndroid.zip",
+                    "md5": "fe2e4494a704fd69102dbe55c5d5f017"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_houzi.png",
+                    "id": "42167",
+                    "name": "video_houzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_houziAndroid.zip",
+                    "md5": "65eee8d3036619410973c19a84fd5b5c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_sigebianxing.png",
+                    "id": "42967",
+                    "name": "video_sigebianxing",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_sigebianxingAndroid.zip",
+                    "md5": "d652aee2e1f03e339d74054a60b8a91d"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dahuanglianmofang.png",
+                    "id": "41837",
+                    "name": "video_dahuanglianmofang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dahuanglianmofangAndroid.zip",
+                    "md5": "ded3ba978ae1d5448aa39a89783a3c03"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baiyan.png",
+                    "id": "41635",
+                    "name": "video_baiyan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baiyanAndroid.zip",
+                    "md5": "ff88b058bfdaa43a96e8478d9d77dff2"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_doumeimao.png",
+                    "id": "41912",
+                    "name": "video_doumeimao",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_doumeimaoAndroid.zip",
+                    "md5": "d06e9c437108398be672137df2e10609"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_emojibianlian.png",
+                    "id": "41939",
+                    "name": "video_emojibianlian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_emojibianlianAndroid.zip",
+                    "md5": "85f4cfa9e43078801c927f6261cd4774"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dazuiba.png",
+                    "id": "41863",
+                    "name": "video_dazuiba",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dazuibaAndroid.zip",
+                    "md5": "b97e8c00b550cea79c0096fa898de178"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qnvwang.png",
+                    "id": "42729",
+                    "name": "video_Qnvwang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QnvwangAndroid.zip",
+                    "md5": "204c631e773f72773de358ae55500144"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_guoqingemotion.png",
+                    "id": "42102",
+                    "name": "video_guoqingemotion",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_guoqingemotionAndroid.zip",
+                    "md5": "684bc94096e24ceedcc21365a580d206"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lianpu.png",
+                    "id": "42323",
+                    "name": "video_lianpu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lianpuAndroid.zip",
+                    "md5": "ffd9b005ef2471e7426a25cc890f4fde"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_boniaosuanyazi.png",
+                    "id": "41708",
+                    "name": "video_boniaosuanyazi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_boniaosuanyaziAndroid.zip",
+                    "md5": "55011d2ff8454a548b85bc913074ce96"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_uglyman.png",
+                    "id": "43075",
+                    "name": "video_uglyman",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_uglymanAndroid.zip",
+                    "md5": "0d4b8ed49c98ffe9492d9b9d0cf24a36"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_piaoliangquan.png",
+                    "id": "42617",
+                    "name": "video_piaoliangquan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_piaoliangquanAndroid.zip",
+                    "md5": "0cde4da67c4d3607610fa0f32389e660"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_Qzhibo.png",
+                    "id": "42759",
+                    "name": "video_Qzhibo",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QzhiboAndroid.zip",
+                    "md5": "d9b05adf51bb8bc5386047ec67f1f31c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_naomentiefu.png",
+                    "id": "42541",
+                    "name": "video_naomentiefu",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_naomentiefuAndroid.zip",
+                    "md5": "61a9f29e89350f21e8b58bfdda72a073"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qqfacechange.png",
+                    "id": "42732",
+                    "name": "video_qqfacechange",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qqfacechangeAndroid.zip",
+                    "md5": "7c3469fbb9c05a264f35f7ef9a514e9a"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_rich.png",
+                    "id": "42526",
+                    "name": "video_mv_rich",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_richAndroid.zip",
+                    "md5": "20301f3f32104426484864b7142bb510"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_chongtianbian.png",
+                    "id": "41784",
+                    "name": "video_chongtianbian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_chongtianbianAndroid.zip",
+                    "md5": "48b0e48e398441ae3cd1f494a873dab3"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_hippopman2.png",
+                    "id": "42155",
+                    "name": "video_hippopman2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_hippopman2Android.zip",
+                    "md5": "a80ebd9921feb7843c8a96b40fc0d3be"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dayoff.png",
+                    "id": "41859",
+                    "name": "video_dayoff",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dayoffAndroid.zip",
+                    "md5": "79bf526298b0e6eeb98c4bebf7b14b19"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_huzikaihua.png",
+                    "id": "42198",
+                    "name": "video_huzikaihua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_huzikaihuaAndroid.zip",
+                    "md5": "dd0f2880b397d1832a00bba9ab96e5fd"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_QLOL_msi.png",
+                    "id": "42721",
+                    "name": "video_QLOL_msi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_QLOL_msiAndroid.zip",
+                    "md5": "cfd30d9d3b073cc7ac89d3e9822dc57d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tutou.png",
+                    "id": "43065",
+                    "name": "video_tutou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tutouAndroid.zip",
+                    "md5": "6d2f72d8d654f7b412ca43567412dbac"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tangshinv.png",
+                    "id": "43026",
+                    "name": "video_tangshinv",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tangshinvAndroid.zip",
+                    "md5": "5eb88c1748ea1e0e05aecc586eaae75e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lightningbeard.png",
+                    "id": "42329",
+                    "name": "video_lightningbeard",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lightningbeardAndroid.zip",
+                    "md5": "f31fdb944b1f86a88b4c6ef0dbc4cf6b"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiangchang.png",
+                    "id": "43171",
+                    "name": "video_xiangchang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiangchangAndroid.zip",
+                    "md5": "aa0ead6499011d8c25cf0e7b6ae19d8b"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhua.png",
+                    "id": "42812",
+                    "name": "video_ruhua",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_ruhuaAndroid.zip",
+                    "md5": "c73ab6b2449f69b920e4f65632f1a7d1"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmawei.png",
+                    "id": "42950",
+                    "name": "video_shuangmawei",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_shuangmaweiAndroid.zip",
+                    "md5": "fcf882e5363d268d19747e7b132b030d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yangmaojuanliuhai.png",
+                    "id": "43291",
+                    "name": "video_yangmaojuanliuhai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yangmaojuanliuhaiAndroid.zip",
+                    "md5": "8b442149c270d3e316456b214f226250"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baozilian.png",
+                    "id": "41646",
+                    "name": "video_baozilian",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baozilianAndroid.zip",
+                    "md5": "4bd0176441665fe33e2e70d623b321b3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaohuzi.png",
+                    "id": "43192",
+                    "name": "video_xiaohuzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaohuziAndroid.zip",
+                    "md5": "920150d8d6672a0a089149f43933f6de"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_dahuzi.png",
+                    "id": "41838",
+                    "name": "video_dahuzi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_dahuziAndroid.zip",
+                    "md5": "ecb04e2ed6386a773c77ae752bafd727"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_gun.png",
+                    "id": "42510",
+                    "name": "video_mv_gun",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mv_gunAndroid.zip",
+                    "md5": "292fb34c4242f72f9160922c70cd9301"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_heiren.png",
+                    "id": "42148",
+                    "name": "video_heiren",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_heirenAndroid.zip",
+                    "md5": "d3c570b90da8302a634b175e6581a6a3"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_handsomeGuy.png",
+                    "id": "42121",
+                    "name": "video_handsomeGuy",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_handsomeGuyAndroid.zip",
+                    "md5": "a2e8295ea8e9d6c10798acb76b9caa92"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mosaic.png",
+                    "id": "42471",
+                    "name": "video_mosaic",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mosaicAndroid.zip",
+                    "md5": "7f69a7ad8f75a0ac38da7b9a5741d46c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuiziface.png",
+                    "id": "43423",
+                    "name": "video_zhuiziface",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_zhuizifaceAndroid.zip",
+                    "md5": "848431830aeb771f611b8cc15d288079"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovelybabyface.png",
+                    "id": "42357",
+                    "name": "video_lovelybabyface",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovelybabyfaceAndroid.zip",
+                    "md5": "c639b7a3ef650d30cbe473437e139605"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fairyface.png",
+                    "id": "41982",
+                    "name": "video_fairyface",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fairyfaceAndroid.zip",
+                    "md5": "90fa2a18039af43b0aca8ad85b68b890"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baby_agetest.png",
+                    "id": "41619",
+                    "name": "video_baby_agetest",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baby_agetestAndroid1562234857.zip",
+                    "md5": "43a264a988b92d6b3981fa33798a2a6d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_guifeiface.png",
+                    "id": "42094",
+                    "name": "video_guifeiface",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_guifeifaceAndroid.zip",
+                    "md5": "fa3546a3225678ea6175ab6774382cdf"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_nethot.png",
+                    "id": "42543",
+                    "name": "video_nethot",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_nethotAndroid.zip",
+                    "md5": "b33bfb683984dbf703f23b93199085b8"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fangle2.png",
+                    "id": "41984",
+                    "name": "video_fangle2",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fangle2Android.zip",
+                    "md5": "e560a0a651818af12ccb458fafcfd64d"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaochou.png",
+                    "id": "43182",
+                    "name": "video_xiaochou",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xiaochouAndroid.zip",
+                    "md5": "0d9f09c969e4f4a09a280abb400dc045"
+                }
+            ],
+            "redDotVersion": 1
+        },
+        {
+            "commonRes": {
+                "dg_stage_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/stage/postureRecognizeStage.zip",
+                "dg_model_name": "pose_dn_1p6",
+                "dg_stage_name": "postureRecognizeStage",
+                "dg_model_resmd5": "8b28cb2d30808d66520a363cb9ec1456",
+                "dg_model_resurl": "http://d.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/pose/v2/model/pose_dn_1p6.zip",
+                "dg_stage_resmd5": "95b4e883419fd9ab3b6aec7f47b0f8f6"
+            },
+            "categoryId": 10401,
+            "categoryName": "潮妆",
+            "needRedDot": false,
+            "content": [
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibang.png",
+                    "id": "43932",
+                    "name": "video_lovechibang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_lovechibangAndroid.zip",
+                    "md5": "6bd2a34398ab49297cc9897322aabc6f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_tanqi.png",
+                    "id": "43851",
+                    "name": "video_tanqi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_tanqiAndroid.zip",
+                    "md5": "ecce4318ec1974f55991aef9aa106695"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkca.png",
+                    "id": "43844",
+                    "name": "video_pinkca",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_pinkcaAndroid1562835573.zip",
+                    "md5": "3465a73b574522229f213f05accc7880"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_blinghunsha.png",
+                    "id": "41697",
+                    "name": "video_blinghunsha",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_blinghunshaAndroid.zip",
+                    "md5": "5ded0a2495d773cbb8842c72a6cfbf3e"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_baowen.png",
+                    "id": "41644",
+                    "name": "video_baowen",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_baowenAndroid.zip",
+                    "md5": "171ebad8798a3365b48d953388854e25"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_mulan.png",
+                    "id": "43842",
+                    "name": "video_mulan",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_mulanAndroid.zip",
+                    "md5": "c525c9b90b11b07d9c9c825c79493b31"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmi.png",
+                    "id": "43832",
+                    "name": "video_fengmi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_fengmiAndroid.zip",
+                    "md5": "8e0786c07695a5dcff320475876f0ac9"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_ermai.png",
+                    "id": "41950",
+                    "name": "video_ermai",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_ermaiAndroid.zip",
+                    "md5": "5bd686142f1bf7987a4f90ce76cf1738"
+                },
+                {
+                    "displayType": 1,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_yinghuazhuang1.png",
+                    "id": "43800",
+                    "name": "video_yinghuazhuang1",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_yinghuazhuang1Android.zip",
+                    "md5": "f20f69e572bbc249ea2a51856279a34f"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_ailisiz.png",
+                    "id": "43760",
+                    "name": "video_ailisiz",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_ailisizAndroid.zip",
+                    "md5": "0ba875f7e59f9bfe3ba969867247815c"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_qingxin.png",
+                    "id": "43735",
+                    "name": "video_qingxin",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_qingxinAndroid.zip",
+                    "md5": "344f8c84d0a7cb4220ee713ca1485336"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_molandi.png",
+                    "id": "43750",
+                    "name": "video_molandi",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_molandiAndroid.zip",
+                    "md5": "5ab8e53ca9f076e7029884ebacfd5fdc"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_quebanzhuang.png",
+                    "id": "43746",
+                    "name": "video_quebanzhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_quebanzhuangAndroid.zip",
+                    "md5": "ce0deba127c8bbfaab8060f0c89979d1"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_xuanyasuzui.png",
+                    "id": "43780",
+                    "name": "video_xuanyasuzui",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_xuanyasuzuiAndroid.zip",
+                    "md5": "e1839260751f8b7ed35d29cfc331f2be"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_feiluomeng.png",
+                    "id": "43725",
+                    "name": "video_feiluomeng",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_feiluomengAndroid.zip",
+                    "md5": "058279793ce517c0f762e331267e9720"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_musezhuang.png",
+                    "id": "43770",
+                    "name": "video_musezhuang",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_musezhuangAndroid.zip",
+                    "md5": "8fb42967fce039c2cc3034cb507ec7ba"
+                },
+                {
+                    "displayType": 0,
+                    "predownload": false,
+                    "iconurl": "http://res.tu.qq.com/qqpitu/materials/video_YSLDsxss.png",
+                    "id": "43349",
+                    "name": "video_YSLDsxss",
+                    "resurl": "http://res.tu.qq.com/qqpitu/materials/video_YSLDsxssAndroid.zip",
+                    "md5": "2190415959afe79034af46fb26ac8db8"
+                }
+            ],
+            "redDotVersion": 1
+        }
+    ],
+    "gesture_ios": "http://d.url.cn/myapp/qq_desk/qqrm/gesture/gestureSDK.zip",
+    "bigheadCommonRes": {
+        "bighead_model_resurl": "http://dl.url.cn/myapp/qq_desk/qqrm/qmcf/Android/res/bighead/bighead_net_0604.zip",
+        "bighead_model_name": "bighead_net_0604",
+        "bighead_model_resmd5": "a3759eb2ba08b71332f69a864f5a1b1b"
+    },
+    "needRedDot": true,
+    "defaultUseId": "169",
+    "gesture_ios_md5": "2e7c92a63568d061d9ecc736a3e8bf72",
+    "ufaurl_ios_md5": "29af015548e76ed6dfd7401db8c0b819",
+    "iconRedDotVersion": 9,
+    "gestureShouldUpload": false,
+    "gesture_ios_720_md5": "c2be351aa57e79800516c5432dd33177",
+    "gesture_ios_720": "http://d.url.cn/myapp/qq_desk/qqrm/gesture/201708281106GestureSDK720.zip",
+    "itemRedDotVersion": "9",
+    "gestureGapFrame": 5,
+    "redDotShowTime": 600000,
+    "gestureGapTime": 500,
+    "itemNeedRedDot": []
+}

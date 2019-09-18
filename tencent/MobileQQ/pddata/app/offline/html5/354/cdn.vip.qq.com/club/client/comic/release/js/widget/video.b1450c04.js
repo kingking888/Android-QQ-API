@@ -1,0 +1,15 @@
+define("widget/video",["business/common","zepto","business/router","piggy/util/cookie","business/jsbridge","piggy/util/cacheData","piggy/util/tpl","piggy/util/uri","piggy/util/report","piggy/util/net"],function(a,b,c){
+var d=(a("business/common"),a("piggy/util/net")),e={TencentVideo:2,TencentCloud:1};c.exports=function(a){function b(a){return a.type!==e.TencentCloud&&a.type!==e.TencentVideo?new Error('Parameter "type" error'):a.containerId?void 0:new Error('Parameter "containerId" required');
+}function c(a){function b(a){return function(b){var c="";if("playStateChange"===a?0==b?c="ended":1==b?c="play":2==b&&(c="pause"):c="windowFullscreenChange"===a||"browserFullscreenChange"===a?"fullscreen":"ready"===a?"loadedmetadata":a,
+c)for(var d=t[c]||[],e=null,f=0;f<d.length;f++)e=d[f],"function"==typeof e&&e(b)}}d.getScript(location.protocol+"//vm.gtimg.cn/tencentvideo/txp/js/txplayer.js?v=20181213&max_age=31536000",function(c){console.log("腾讯视频初始化参数",a),
+u=new Txplayer({containerId:a.containerId,cid:a.cid,vid:a.vid,width:a.width||"100%",height:a.height||"100%",poster:a.coverImg,autoplay:!!a.autoplay,muted:!!a.muted,enForcePlayerType:!0,disableTimeupdateHack:!0,
+enableMoblieDefn:!0,isHtml5UseFakeFullScreen:!1,loadPluginCrossOrigin:!!c,videoType:"vod",playerType:"h5",useComboService:!0,show1080p:!0,isShowDurationLimit:!1});for(var d=0,e=s.length;e>d;d++){var f=s[d];
+u.on(f,b(f))}},!0)}function f(a){d.getScript(location.protocol+"//imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer-2.2.1.js?max_age=31536000",function(b){console.log(b),u=new TcPlayer(a.containerId,{
+m3u8:a.cloudUrl,coverpic:a.coverImg,autoplay:!!a.autoplay,width:a.width||"100%",height:a.height||"100%",controls:"default",systemFullscreen:!0,"x5-video-player-type":"h5",x5_player:!0,x5_orientation:2,
+x5_fullscreen:"true",wording:{2032:"请求视频失败，请检查网络",2048:"请求视频文件失败"},listener:function(a){var b=a&&a.type;if(["loadedmetadata","play","pause","ended","timeupdate","fullscreen","error"].indexOf(b)>-1){var c=t[b]||[];
+c.forEach(function(a){a({type:b})})}}})})}function g(a){r==e.TencentVideo&&u&&u.play?u.play({vid:a}):console.error("非腾讯视频组件，无法通过vid切换播放视频"),u&&u.play&&u.play()}function h(){return u&&u.getCurrentTime&&u.getCurrentTime();
+}function i(){u&&u.play&&u.play()}function j(){return u&&u.getDuration&&u.getDuration()}function k(){return u&&u.getVid&&u.getVid()}function l(){return u&&u.getCid&&u.getCid()}function m(){return u&&u.getColumnId&&u.getColumnId();
+}function n(){u&&u.pause&&u.pause()}function o(){if(t={},u&&u.destroy){if(r==e.TencentVideo)for(var a=0,b=s.length;b>a;a++){var c=s[a];u.off(c)}u.destroy()}}function p(a){u&&u.seekTo&&u.seekTo(a)}function q(a,b){
+var c=t[a];c&&calbacks>=0?c.push(b):t[a]=[b]}var r=e.TencentVideo,s=["ready","playStateChange","windowFullscreenChange","browserFullscreenChange","timeupdate","error","definitionLayerShow","definitionChange"],t={},u=null,v=b(a);
+if(v)throw v;return r=a.type,r==e.TencentCloud?f(a):r==e.TencentVideo&&c(a),{type:a.type,play:g,getCurrentTime:h,pause:n,destroy:o,on:q,seekTo:p,getDuration:j,playCurrent:i,getVid:k,getCid:l,getColumnId:m,
+$player:u}}});

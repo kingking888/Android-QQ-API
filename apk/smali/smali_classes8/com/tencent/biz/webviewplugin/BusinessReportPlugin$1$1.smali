@@ -1,0 +1,59 @@
+.class Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field final synthetic a:Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1;
+
+.field final synthetic a:Ljava/lang/String;
+
+.field final synthetic b:Ljava/lang/String;
+
+
+# direct methods
+.method constructor <init>(Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1;Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 39
+    iput-object p1, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->a:Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1;
+
+    iput-object p2, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->a:Ljava/lang/String;
+
+    iput-object p3, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->b:Ljava/lang/String;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 3
+
+    .prologue
+    .line 42
+    iget-object v0, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->a:Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1;
+
+    iget-object v0, v0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1;->this$0:Lxrl;
+
+    iget-object v0, v0, Lxrl;->mRuntime:Lbaaf;
+
+    invoke-virtual {v0}, Lbaaf;->a()Lcom/tencent/common/app/AppInterface;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->a:Ljava/lang/String;
+
+    iget-object v2, p0, Lcom/tencent/biz/webviewplugin/BusinessReportPlugin$1$1;->b:Ljava/lang/String;
+
+    invoke-static {v0, v1, v2}, Lope;->a(Lcom/tencent/common/app/AppInterface;Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 43
+    return-void
+.end method

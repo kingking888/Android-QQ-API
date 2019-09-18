@@ -1,0 +1,34 @@
+.class public Lcom/tencent/commoninterface/Constants$DownloadEngine;
+.super Ljava/lang/Object;
+.source "Constants.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/tencent/commoninterface/Constants;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "DownloadEngine"
+.end annotation
+
+
+# static fields
+.field public static final DOWNLOAD_ENGINE_DEFAULT:I = 0x0
+
+.field public static final DOWNLOAD_ENGINE_HOST_DEFAULT:I = 0x1
+
+.field public static final DOWNLOAD_ENGINE_HOST_HELLY:I = 0x2
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 43
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

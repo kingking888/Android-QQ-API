@@ -1,0 +1,79 @@
+{
+    "view_type": "UIButton",
+    "view_id": "id_comment_expose_subcomment_two",
+    "event_type": "cmd_expose_subcommment_two",
+    "visible_depend_on_children":"YES",
+    "layout_type":"layout_linear",
+    "direction":"vertical",
+    "height": {
+        "type": "wrap_content"
+    },
+    "width": {
+        "type": "relative",
+        "value": "307"
+    },
+    "attributes": {
+      "setBackgroundColor:forStates:":[["#00000000", "#e5e5e5"],["0","1"]]
+    },
+    "subviews":
+    [
+        {
+            "view_type": "UILabel",
+            "view_id": "id_comment_expose_subcomment_nick_two",
+            "margin_left":"12",
+            "margin_right":"8",
+            "height": {
+                "type": "relative",
+                "value": "24"
+            },
+            "width": {
+                "type": "relative",
+                "value": "307"
+            },
+            "attributes": {
+                "setText:": "$id_subcomment_nick_str_two",
+                "setTextColorString:": "#737373",
+                "setFontSizeString:": "12",
+                "setNumberOfLinesString:": "1"
+            }
+        },
+        {
+            "view_type": "QQRIJCommentEmotioinLabel",
+            "view_id": "id_comment_expose_subcomment_content_two",
+            "margin_left": "12",
+            "margin_top": "3",
+            "attributes": {
+                "setCommentModel:":"$subcomment_two",
+                "setUserInteractionEnabledString:": "0",
+                "setFontSizeString:": "14"
+            },
+            "height": {
+                "type": "wrap_content"
+            },
+            "width": {
+                "type": "relative",
+                "value": "283"
+            }
+        },
+        {
+            "view_type": "UIView",
+            "view_id": "id_subcomment_seperateline_two",
+            "margin_left":"12",
+            "margin_top":"8",
+            "height": {
+                "type": "relative",
+                "value": "0.5"
+            },
+            "width": {
+                "type": "relative",
+                "value": "283"
+            },
+            "attributes": {
+                "setBackgroundColorString:": "#19000000"
+            }
+        }
+    ]
+    
+}
+
+

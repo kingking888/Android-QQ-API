@@ -1,0 +1,177 @@
+{
+    "view_type": "container",
+    "layout_type":"layout_relative",
+    "default_visible":"YES",
+    "view_id":"id_comment_cell_header",
+    "height": {
+        "type": "wrap_content"
+    },
+    "width": {
+        "type": "relative",
+        "value": "375"
+    },
+    "subviews":[
+        {
+            "view_type": "UIView",
+            "layout_type":"layout_relative",
+            "default_visible":"YES",
+            "view_id":"id_comment_header_component",
+            "margin_top": "5",
+            "margin_left": "9",
+            "height": {
+                "type": "absolutely",
+                "value": "36"
+            },
+            "width": {
+                "type": "absolutely",
+                "value": "36"
+            },
+            "subviews":[
+                {
+                    "view_type": "UIImageView",
+                    "view_id": "id_comment_head_borders",
+                    "height": {
+                        "type": "absolutely",
+                        "value": "36"
+                    },
+                    "width": {
+                        "type": "absolutely",
+                        "value": "36"
+                    },
+                    "attributes": {
+                        "loadImageWithPath:": "$rij_comment_avatar_borders"
+                    }
+                },
+                {
+                    "view_type": "PTSAvatarView",
+                    "view_id": "id_comment_avator",
+                    "default_visible":"YES",
+                    "align_parent_left": "YES",
+                    "event_type": "cmd_avatar_click",
+                    "margin_left":"3",
+                    "margin_top":"3",
+                    "height": {
+                        "type": "absolutely",
+                        "value": "30"
+                    },
+                    "width": {
+                        "type": "absolutely",
+                        "value": "30"
+                    },
+                    "attributes": {
+                        "defaultImage:": "$default_comment_avatar",
+                        "loadImageWithPath:": "$avator_url"
+                    }
+                },
+                {
+                    "view_type": "UIImageView",
+                    "view_id": "id_comment_head_v_icon",
+                    "margin_left":"20.5",
+                    "margin_top":"20.5",
+                    "height": {
+                        "type": "absolutely",
+                        "value": "14"
+                    },
+                    "width": {
+                        "type": "absolutely",
+                        "value": "14"
+                    },
+                    "attributes": {
+                        "loadImageWithPath:": "$rij_comment_v"
+                    }
+                }
+            ]
+        },
+        
+        {
+            "view_type": "UIButton",
+            "view_id": "id_comment_nickname",
+            "default_visible":"YES",
+            "event_type": "cmd_avatar_click",
+            "align_parent_top": "YES",
+            "margin_left":"50",
+            "margin_top":"8",
+            "height": {
+                "type": "wrap_content"
+            },
+            "width": {
+                "type": "wrap_content"
+            },
+            "attributes": {
+                "setBackgroundColor:forStates:":[["#E5E5E5"],["1"]],
+                "setTitle:": "$nickname",
+                "setTitleColors:forStates:": [
+                    [
+                        "#737373",
+                        "#737373"
+                    ],
+                    [
+                        "0",
+                        "1"
+                    ]
+                ],
+                "setFontSizeString:": "14"
+            }
+        },
+        {
+            "view_type": "ReadInjoyAsynImageView",
+            "view_id":"id_header_medal",
+            "event_type": "cmd_header_medal_click",
+            "right_of_view":"id_comment_nickname",
+            "margin_left":"4.5",
+            "margin_top": "8",
+            "height":{
+                "type":"absolutely",
+                "value":"18"
+            },
+            "width":{
+                "type":"absolutely",
+                "value":"36"
+            },
+            "attributes":{
+                "setImageWithURLString:lineup:":["$header_medal_image_url","1"],
+                "setWHRate:widthBenchmark:":["$header_medal_wh_rate", "NO"],
+                "setAttatchInfo:": "$header_medal_jump_url"
+            }
+        },
+        
+        {
+            "view_type": "QQRIJCommentLikeButton",
+            "view_id": "id_like_button",
+            "default_visible":"YES",
+            "event_type": "cmd_like_click",
+            "align_parent_right": "YES",
+            "margin_right":"18",
+            "margin_top":"8",
+            "height": {
+                "type": "absolutely",
+                "value": "21"
+            },
+            "width": {
+                "type": "wrap_content"
+            },
+            "attributes": {
+                "setCommentModel:": "$commentModel"
+            }
+        },
+        {
+            "view_type": "QQRIJCommentEmotioinLabel",
+            "view_id": "id_first_comment_view",
+            "event_type":"cmd_comment_content_click",
+            "default_visible":"YES",
+            "margin_left": "50",
+            "margin_top": "31",
+            "attributes": {
+                "setCommentModel:":"$commentModel",
+                "setFontSizeString:": "16"
+            },
+            "height": {
+                "type": "wrap_content"
+            },
+            "width": {
+                "type": "relative",
+                "value": "307"
+            }
+        }
+    ]
+}

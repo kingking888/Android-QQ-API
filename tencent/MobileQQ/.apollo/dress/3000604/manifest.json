@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-08-08 01:03:09", "timestamp": 1565197389, "vertices": [{"count": 1753, "name": "hair"}], "type": "hair", "bundleName": "dress_t_1565197389", "triangles": [{"count": 2714, "name": "hair"}], "assets": ["dress.bin", "hair_albedo.etc", "hair_normal.etc"]}

@@ -1,0 +1,40 @@
+{
+  "tag": [
+    "情侣红包，七夕红包，表白红包"
+  ],
+  "id": 2126,
+  "name": "哇哦爱你哦",
+  "type": 5,
+  "aioChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "aioWordSize": 1,
+  "packetChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "fontTypeId": 1,
+  "customWord": 1,
+  "desc": "无",
+  "status": 1,
+  "version": 1,
+  "sendChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "flameCount": 0,
+  "interval": 100,
+  "aioImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2126/815e60495d1f775c61cfa5ea3f0c2442.png",
+  "mallImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2126/815e60495d1f775c61cfa5ea3f0c2442.png",
+  "mallCustomImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2126/815e60495d1f775c61cfa5ea3f0c2442.png",
+  "redEnvelopeImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2126/80707935ad7c664892e4988783ce5c9c.png",
+  "sendImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2126/7bb20a787553d58c527802afd851edad.png",
+  "aioPngZip": "0"
+}

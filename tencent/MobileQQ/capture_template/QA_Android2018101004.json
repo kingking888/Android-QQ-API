@@ -1,0 +1,126 @@
+{
+    "showQAEntrance": 1,
+    "categorys": [
+        {
+            "categoryId": 1000,
+            "name": "请好友选择",
+            "introduction": "选择困难星人，如果你还在纠结，不妨问问好友。",
+            "default_combo_id": "1",
+            "content": [
+                {
+                    "iconUrl": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/wanfapeizhi/tab_toupiao3x.png",
+                    "cover_url": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/testfile/toupiao2018101002.png",
+                    "video_url": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/testfile/toupiao2018101002.mp4",
+                    "video_md5": "34446abf49f670f211fd6e99eba54c9a",
+                    "id": "1",
+                    "name": "投票",
+                    "musics": [
+                        {
+                            "tagId": "4",
+                            "itemId": "714"
+                        }
+                    ],
+                    "pasters": [
+                        {
+						"packet_id": "78",
+						"packet_type": "1",
+						"item_id": "qapaster_TP2.apng",
+						"position_x": "0.34",
+						"position_y": "0.15",
+						"decode_flag": "1",
+						"scale": "0.64"
+					}
+                    ],
+                    "interactions": [
+                        {
+                            "question": "你觉得哪个好？",
+                            "options": [
+                                "左边",
+                                "右边"
+                            ]
+                        },
+                        {
+                            "question": "这个东西好吃吗？",
+                            "options": [
+                                "好",
+                                "不好"
+                            ]
+                        },
+                        {
+                            "question": "有人一起去运动吗？",
+                            "options": [
+                                "走起",
+                                "不约"
+                            ]
+                        },
+						{
+                            "question": "我是不是很美？",
+                            "options": [
+                                "是",
+                                "美"
+                            ]
+                        },
+                        {
+                            "question": "明天会下雨吗？",
+                            "options": [
+                                "会",
+                                "不会"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": 1001,
+            "name": "请好友打分",
+            "introduction": "路过的朋友，万水千山总是情，给个五星行不行。",
+            "default_combo_id": "2",
+            "content": [
+                {
+                    "iconUrl": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/wanfapeizhi/tab_pingfen3x.png",
+                    "cover_url": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/testfile/pingfen_cover2018101002.png",
+                    "video_url": "http://sqdd.myapp.com/myapp/qqteam/QIM/sticker/testfile/pingfen2018101002.mp4",
+                    "video_md5": "9fd1dd3192b1efcddf3d40bbccda21e6",
+                    "id": "2",
+                    "name": "评分",
+                    "filters":[],
+                    "musics": [
+                        {
+                           "tagId": "4",
+                            "itemId": "714"
+                        }
+                    ],
+					"pasters": [{
+						"packet_id": "78",
+						"packet_type": "1",
+						"item_id": "qapaster_PF2.apng",
+						"position_x": "0.34",
+						"position_y": "0.15",
+						"decode_flag": "1",
+						"scale": "0.64"
+					}],
+                    "texts":[],
+                    "ufaces":[],
+                    "interactions": [
+                        {
+                            "question": "给本宝宝打个分呗？"
+                        },
+                        {
+                            "question": "我的人品怎样？"
+                        },
+                        {
+                            "question": "我的颜值有几分？"
+                        },
+                        {
+                            "question": "你对我的第一印象？"
+                        },
+                        {
+                            "question": "你有多喜欢我？"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

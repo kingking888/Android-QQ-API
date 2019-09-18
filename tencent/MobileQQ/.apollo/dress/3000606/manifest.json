@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-09-06 10:37:37", "timestamp": 1567737457, "vertices": [{"count": 977, "name": "bottom"}], "type": "bottom", "bundleName": "dress_t_1567737457", "triangles": [{"count": 1620, "name": "bottom"}], "assets": ["dress.bin", "bottom_normal.etc", "bottom_albedo.etc", "bottom_mask.etc"]}

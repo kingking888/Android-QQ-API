@@ -1,0 +1,15 @@
+{
+  "preload_bids": ["3740","3531","3704","3811"],
+
+  "emoji_replace_map": {
+    "/强":"/赞",
+    "/弱":"/踩",
+    "/大兵":"/装逼"
+  },
+
+  "preload_engine":"1",
+  "page_placeholder": "iVBORw0KGgoAAAANSUhEUgAAArIAAAK2AQMAAACIJu3VAAAABlBMVEUAAADz8/MJwGWeAAAAAXRSTlMAQObYZgAAAPRJREFUeNrs27EJwDAMRcHsP1Umi2PsDQIBf+le4+5ag5Cu8Us3l8vlcrlcLpd7pCtJUsXGLuY/Xg+Xy+VyuVwul2u+I0nS1/nOw+VyuVwul8vlJruSJEmSJEmyD87lcrlcLpfL7etKklSxsYv5j9fD5XK5XC6Xy+Wa70iSFHufxeVyuVwul8vluveXJEmSJEmyD86dcblcLpfL5XLtg0uSZL7D5XK5XC6Xy23mSpJUsbT7LC6Xy+VyuVwu172/JEmSJEmSfXDujMvlcrlcLpdrH1ySJPMdLpfL5XK5XG4zV5KkiqXdZ3G5XC6Xy+Vyue8oMBcA9xlX84EO5qQAAAAASUVORK5CYII="
+
+
+
+}

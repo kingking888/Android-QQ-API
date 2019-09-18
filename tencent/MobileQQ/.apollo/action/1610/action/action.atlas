@@ -1,0 +1,61 @@
+action.png
+size: 128, 434
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Eye_heng_01
+  rotate: false
+  xy: 59, 256
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: 4
+Eye_heng_02
+  rotate: false
+  xy: 0, 286
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: 5
+Mouth_heng_01
+  rotate: false
+  xy: 26, 256
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: 3
+Mouth_heng_02
+  rotate: false
+  xy: 0, 256
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: 2
+qi1
+  rotate: false
+  xy: 67, 286
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: 6
+qi2
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+qi3
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+qi4
+  rotate: false
+  xy: 0, 353
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: 7

@@ -1,0 +1,449 @@
+.class public Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Lcom/tencent/biz/qqstory/takevideo/EditVideoParams$EditSource;
+
+
+# static fields
+.field public static final CREATOR:Landroid/os/Parcelable$Creator;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Landroid/os/Parcelable$Creator",
+            "<",
+            "Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+
+# instance fields
+.field public final a:F
+
+.field public final a:I
+
+.field public final a:J
+
+.field public final a:Ljava/lang/String;
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+.end field
+
+.field public final a:Z
+
+.field public final b:I
+
+.field public final b:Ljava/lang/String;
+
+.field public final c:I
+
+.field public final d:I
+
+.field public final e:I
+
+.field public final f:I
+
+.field public final g:I
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .prologue
+    .line 142
+    new-instance v0, Lvrs;
+
+    invoke-direct {v0}, Lvrs;-><init>()V
+
+    sput-object v0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->CREATOR:Landroid/os/Parcelable$Creator;
+
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/os/Parcel;)V
+    .locals 2
+
+    .prologue
+    .line 121
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 122
+    invoke-virtual {p1}, Landroid/os/Parcel;->readString()Ljava/lang/String;
+
+    move-result-object v0
+
+    iput-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    .line 123
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:I
+
+    .line 124
+    invoke-virtual {p1}, Landroid/os/Parcel;->readLong()J
+
+    move-result-wide v0
+
+    iput-wide v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:J
+
+    .line 125
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:I
+
+    .line 126
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->c:I
+
+    .line 127
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->d:I
+
+    .line 128
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->e:I
+
+    .line 129
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->f:I
+
+    .line 130
+    invoke-virtual {p1}, Landroid/os/Parcel;->readInt()I
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->g:I
+
+    .line 131
+    invoke-virtual {p1}, Landroid/os/Parcel;->readFloat()F
+
+    move-result v0
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:F
+
+    .line 132
+    invoke-virtual {p1}, Landroid/os/Parcel;->readString()Ljava/lang/String;
+
+    move-result-object v0
+
+    iput-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:Ljava/lang/String;
+
+    .line 133
+    invoke-virtual {p1}, Landroid/os/Parcel;->readByte()B
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    iput-boolean v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Z
+
+    .line 140
+    return-void
+
+    .line 133
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
+.method public constructor <init>(Ljava/lang/String;IJIIIIIIFLjava/lang/String;Z)V
+    .locals 5
+
+    .prologue
+    .line 49
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 50
+    iput-object p1, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    .line 51
+    iput p2, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:I
+
+    .line 52
+    iput-wide p3, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:J
+
+    .line 53
+    iput p5, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:I
+
+    .line 54
+    iput p6, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->c:I
+
+    .line 55
+    iput p7, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->d:I
+
+    .line 56
+    iput p8, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->e:I
+
+    .line 57
+    iput p9, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->f:I
+
+    .line 58
+    iput p10, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->g:I
+
+    .line 59
+    move/from16 v0, p11
+
+    iput v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:F
+
+    .line 60
+    move-object/from16 v0, p12
+
+    iput-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:Ljava/lang/String;
+
+    .line 61
+    move/from16 v0, p13
+
+    iput-boolean v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Z
+
+    .line 63
+    invoke-virtual {p0}, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b()Ljava/lang/String;
+
+    move-result-object v1
+
+    .line 64
+    if-eqz v1, :cond_0
+
+    .line 65
+    new-instance v2, Ljava/lang/IllegalArgumentException;
+
+    invoke-direct {v2, v1}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw v2
+
+    .line 67
+    :cond_0
+    return-void
+.end method
+
+
+# virtual methods
+.method public a()I
+    .locals 1
+
+    .prologue
+    .line 77
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->c:I
+
+    return v0
+.end method
+
+.method public a()Ljava/lang/String;
+    .locals 1
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+
+    .prologue
+    .line 72
+    iget-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    return-object v0
+.end method
+
+.method public b()I
+    .locals 1
+
+    .prologue
+    .line 82
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->d:I
+
+    return v0
+.end method
+
+.method public b()Ljava/lang/String;
+    .locals 4
+
+    .prologue
+    .line 87
+    iget-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    invoke-static {v0}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    .line 88
+    const-string v0, "sourcePath is empty"
+
+    .line 97
+    :goto_0
+    return-object v0
+
+    .line 90
+    :cond_0
+    new-instance v0, Ljava/io/File;
+
+    iget-object v1, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    invoke-direct {v0, v1}, Ljava/io/File;-><init>(Ljava/lang/String;)V
+
+    .line 91
+    invoke-virtual {v0}, Ljava/io/File;->exists()Z
+
+    move-result v0
+
+    if-nez v0, :cond_1
+
+    .line 92
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "Can not find file by sourcePath = "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    goto :goto_0
+
+    .line 94
+    :cond_1
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:I
+
+    if-lez v0, :cond_2
+
+    iget-wide v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:J
+
+    const-wide/16 v2, 0x0
+
+    cmp-long v0, v0, v2
+
+    if-gtz v0, :cond_3
+
+    .line 95
+    :cond_2
+    const-string v0, "both totalFrame and recordTime can not less than 0"
+
+    goto :goto_0
+
+    .line 97
+    :cond_3
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
+.method public describeContents()I
+    .locals 1
+
+    .prologue
+    .line 102
+    invoke-virtual {p0}, Ljava/lang/Object;->hashCode()I
+
+    move-result v0
+
+    return v0
+.end method
+
+.method public writeToParcel(Landroid/os/Parcel;I)V
+    .locals 2
+
+    .prologue
+    .line 107
+    iget-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Ljava/lang/String;
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeString(Ljava/lang/String;)V
+
+    .line 108
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 109
+    iget-wide v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:J
+
+    invoke-virtual {p1, v0, v1}, Landroid/os/Parcel;->writeLong(J)V
+
+    .line 110
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 111
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->c:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 112
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->d:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 113
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->e:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 114
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->f:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 115
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->g:I
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeInt(I)V
+
+    .line 116
+    iget v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:F
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeFloat(F)V
+
+    .line 117
+    iget-object v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->b:Ljava/lang/String;
+
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeString(Ljava/lang/String;)V
+
+    .line 118
+    iget-boolean v0, p0, Lcom/tencent/biz/qqstory/takevideo/EditRecordVideoSource;->a:Z
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeByte(B)V
+
+    .line 119
+    return-void
+
+    .line 118
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method

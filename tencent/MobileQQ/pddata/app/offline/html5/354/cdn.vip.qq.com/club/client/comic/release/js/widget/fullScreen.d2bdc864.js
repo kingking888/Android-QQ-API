@@ -1,0 +1,9 @@
+define("widget/fullScreen",["lib/zepto","business/common","zepto","business/router","piggy/util/cookie","business/jsbridge","piggy/util/cacheData","piggy/util/tpl","piggy/util/uri","piggy/util/report"],function(a,b,c){
+var d=a("lib/zepto"),e=a("business/common"),f=a("business/jsbridge"),g={};b.setSticky=function(a){var b=arguments.callee;b.isAuto=a&&"undefined"!=typeof a.isAuto?parseInt(a.isAuto):b.isAuto||1,b.dividePosition=a&&"undefined"!=typeof a.dividePosition?a.dividePosition:b.dividePosition||55,
+b.isShade=a&&"undefined"!=typeof a.isShade?a.isShade:b.isShade||1,a&&"undefined"!=typeof a.afterTitle&&(b.afterTitle=a.afterTitle);var c=function(){var a=function(){if(e.compareQQVersion("6.2.0")>=0)if(b.isBind)b.isAuto&&g.stickHandle(b.dividePosition,!0);else{
+b.isBind=!0;var a=function(){b.isAuto&&g.stickHandle(b.dividePosition)};d(window).on("scroll",a).on("touchmove",a),e.bindPageVisibleEvent(function(a){a.hidden||e.iOS&&e.compareVersion(e.QQVersion,"6.2")>=0&&g.stickHandle(b.dividePosition,!0);
+}),g.stickHandle(b.dividePosition,!0)}},c=function(){var a={isAuto:b.isAuto,dividePosition:b.dividePosition,beforeDivideAlpha:0,afterDivideAlpha:255,isShade:b.isShade};b.afterTitle&&(a.afterTitle=b.afterTitle,
+a.beforeTitle=""),f.invoke("mqq.ui.setTitleBarScrollChange",a,function(){})};e.compareQQVersion("6.7.0")>=0?e.getWebViewTypeIsComic(function(b){b&&(e.iOS||e.android&&e.isPureComicWebView)?c():a()}):a();
+};if(a&&(a.element&&d(a.element)&&d(a.element).offset()||a.elementTop)){var h=a.elementTop||d(a.element).offset().top;h?e.getBarHeight(function(a){b.dividePosition=h-a,b.dividePosition=b.dividePosition>0?b.dividePosition:55,
+c()}):c()}else c()},g.stickHandle=function(a,b){var c=arguments.callee,f=d(window).scrollTop();f>=a?((255!=c.lastAlpha||b)&&e.setTitleBarBgColor({alpha:255},function(a){}),c.lastAlpha=255):((0!=c.lastAlpha||b)&&e.setTitleBarBgColor({
+alpha:0},function(a){}),c.lastAlpha=0)}});

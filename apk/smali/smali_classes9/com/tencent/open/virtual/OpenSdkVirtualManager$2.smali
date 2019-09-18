@@ -1,0 +1,63 @@
+.class public Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field final synthetic a:Lbbie;
+
+.field public final synthetic a:Lbbiy;
+
+.field final synthetic a:Lorg/json/JSONObject;
+
+.field final synthetic this$0:Lbbis;
+
+
+# direct methods
+.method public constructor <init>(Lbbis;Lbbie;Lorg/json/JSONObject;Lbbiy;)V
+    .locals 0
+
+    .prologue
+    .line 318
+    iput-object p1, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->this$0:Lbbis;
+
+    iput-object p2, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->a:Lbbie;
+
+    iput-object p3, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->a:Lorg/json/JSONObject;
+
+    iput-object p4, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->a:Lbbiy;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 4
+
+    .prologue
+    .line 321
+    const-string v0, "oidb_0xd18_1"
+
+    iget-object v1, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->a:Lbbie;
+
+    iget-object v2, p0, Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;->a:Lorg/json/JSONObject;
+
+    invoke-virtual {v2}, Lorg/json/JSONObject;->toString()Ljava/lang/String;
+
+    move-result-object v2
+
+    new-instance v3, Lbbiu;
+
+    invoke-direct {v3, p0}, Lbbiu;-><init>(Lcom/tencent/open/virtual/OpenSdkVirtualManager$2;)V
+
+    invoke-static {v0, v1, v2, v3}, Lbbiz;->a(Ljava/lang/String;Lbbie;Ljava/lang/String;Lbbjb;)V
+
+    .line 346
+    return-void
+.end method

@@ -1,0 +1,72 @@
+.class Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field final synthetic this$0:Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;
+
+.field final synthetic val$callbackId:I
+
+.field final synthetic val$eventName:Ljava/lang/String;
+
+.field final synthetic val$videoPlayerId:I
+
+.field final synthetic val$webview:Lcom/tencent/mobileqq/mini/webview/JsRuntime;
+
+
+# direct methods
+.method constructor <init>(Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;ILcom/tencent/mobileqq/mini/webview/JsRuntime;Ljava/lang/String;I)V
+    .locals 0
+
+    .prologue
+    .line 131
+    iput-object p1, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->this$0:Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;
+
+    iput p2, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$videoPlayerId:I
+
+    iput-object p3, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$webview:Lcom/tencent/mobileqq/mini/webview/JsRuntime;
+
+    iput-object p4, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$eventName:Ljava/lang/String;
+
+    iput p5, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$callbackId:I
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 5
+
+    .prologue
+    .line 134
+    iget-object v0, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->this$0:Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;
+
+    iget v1, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$videoPlayerId:I
+
+    invoke-static {v0, v1}, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;->access$200(Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;I)V
+
+    .line 135
+    iget-object v0, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->this$0:Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;
+
+    iget-object v0, v0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin;->jsPluginEngine:Lcom/tencent/mobileqq/mini/appbrand/jsapi/plugins/BaseJsPluginEngine;
+
+    iget-object v1, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$webview:Lcom/tencent/mobileqq/mini/webview/JsRuntime;
+
+    iget-object v2, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$eventName:Ljava/lang/String;
+
+    const/4 v3, 0x0
+
+    iget v4, p0, Lcom/tencent/mobileqq/minigame/jsapi/plugins/VideoPlugin$4;->val$callbackId:I
+
+    invoke-virtual {v0, v1, v2, v3, v4}, Lcom/tencent/mobileqq/mini/appbrand/jsapi/plugins/BaseJsPluginEngine;->callbackJsEventOK(Lcom/tencent/mobileqq/mini/webview/JsRuntime;Ljava/lang/String;Lorg/json/JSONObject;I)V
+
+    .line 136
+    return-void
+.end method

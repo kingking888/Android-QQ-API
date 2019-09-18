@@ -1,0 +1,40 @@
+{
+  "tag": [
+    "浪漫，七夕"
+  ],
+  "id": 2128,
+  "name": "七夕快乐",
+  "type": 5,
+  "aioChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "aioWordSize": 1,
+  "packetChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "fontTypeId": 1,
+  "customWord": 1,
+  "desc": "无",
+  "status": 1,
+  "version": 1,
+  "sendChar": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "flameCount": 16,
+  "interval": 100,
+  "aioImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/7028c87a0f6f687fa6739443f2acf0e4.PNG",
+  "mallImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/7028c87a0f6f687fa6739443f2acf0e4.PNG",
+  "mallCustomImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/7028c87a0f6f687fa6739443f2acf0e4.PNG",
+  "redEnvelopeImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/bb29355b3eaaefd6349c318d93c268a1.PNG",
+  "sendImgUrl": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/363d54ac78ff4bbed52a0759c9e104d5.PNG",
+  "aioPngZip": "http://gxh.vip.qq.com/xydata/luckyMoney/item/2128/814d47e5e443f639fdb9b4a724a8b016.zip"
+}

@@ -1,0 +1,40 @@
+19-09-17 21:05:24|com.tencent.mobileqq:peak|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:05:24|1568725524318[31554]31554|E|AutoMonitor|nextState -1, 0
+19-09-17 21:05:24|1568725524325[31554]31554|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 21:05:24|1568725524325[31554]31554|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 21:05:24|1568725524325[31554]31554|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 21:05:24|1568725524333[31554]31554|E|EIPCConst|connectProvider success
+19-09-17 21:05:25|1568725524356[31554]31554|E|MSF.D.MonitorSocket|phoneDisplays: KOT49H|KTU84P, phoneModels: COOLPAD7295, appid: , version: , currVersion: 8.1.3.4185, process: , com.tencent.mobileqq:peak
+19-09-17 21:05:25|1568725524357[31554]31554|E|MSF.D.MonitorSocket|Socket imple class: java.net.SocksSocketImpl
+19-09-17 21:05:25|1568725524357[31554]31554|E|MSF.D.MonitorSocket| Monitor Socket started.
+19-09-17 21:05:25|1568725524361[31554]31554|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:peak 433687 433687
+19-09-17 21:05:25|1568725524371[31554]31593|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=0
+19-09-17 21:05:25|1568725524458[31554]31593|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:peak, pid=31554
+19-09-17 21:05:25|1568725524581[31554]31593|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:peak, pid=31554
+19-09-17 21:05:25|1568725524729[31554]31595|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1824000
+19-09-17 21:05:25|1568725524764[31554]31593|E|StatisticCollector|CrashReport init finished.
+19-09-17 21:05:25|1568725524817[31554]31593|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 21:05:25|1568725524817[31554]31593|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 21:05:25|1568725524836[31554]31593|E|AutoMonitor|MTA, cost=18 results: true
+19-09-17 21:05:25|1568725524837[31554]31593|E|mqq|doInit begin withcom.tencent.mobileqq:peak
+19-09-17 21:05:25|1568725524850[31554]31593|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 21:05:25|1568725524859[31554]31593|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 21:05:25|1568725524859[31554]31593|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 21:05:25|1568725524860[31554]31593|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:peak
+19-09-17 21:05:25|1568725524864[31554]31593|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 21:05:25|1568725524868[31554]31554|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 21:05:25|1568725524871[31554]31593|E|MSF.D.Proxy|threadID:782, threadName: thread_sp_normal_1 bind service finished true
+19-09-17 21:05:25|1568725524871[31554]31593|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 21:05:25|1568725524965[31554]31593|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 21:05:25|1568725524988[31554]31593|E|mqq|newServlet = mqq.app.BuiltInServlet@a12aeee
+19-09-17 21:05:25|1568725524996[31554]31593|E|mqq|[AppRuntime]ToolRuntimePeak (*9100) onCreate,savedInstanceState=null
+19-09-17 21:05:25|1568725525005[31554]31593|E|mqq|doInit finished
+19-09-17 21:05:25|1568725525253[31554]31593|E|MainService|start MSF-Receiver 807
+19-09-17 21:05:26|1568725525753[31554]31629|E|TicketManager|set alter tickets for *9100
+19-09-17 21:05:27|1568725527343[31554]31589|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=1
+19-09-17 21:05:28|1568725527444[31554]31589|E|InitHook|NOT AVA
+19-09-17 21:05:30|1568725530043[31554]31589|E|NativeMonitorConfig|process id:9  not in black list
+19-09-17 21:05:30|1568725530066[31554]31589|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 21:05:30|1568725530083[31554]31589|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 21:05:30|1568725530086[31554]31589|E|NativeMemoryMonitor|load so res: true
+19-09-17 21:05:30|1568725530087[31554]31589|E|NativeMemoryMonitor|init

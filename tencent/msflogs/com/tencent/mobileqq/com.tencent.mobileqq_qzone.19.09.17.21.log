@@ -1,0 +1,7 @@
+19-09-17 21:00:01|com.tencent.mobileqq:qzone|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:05:18|1568725518353[30289]30289|E|QZoneCommBroadReceiver|FeedUpdate: Qzone Push action:com.qzone.push_feed_unread
+19-09-17 21:05:34|1568725534964[30289]30289|E|QZoneCommBroadReceiver|FeedUpdate: Qzone Push action:com.qzone.push_feed_unread
+19-09-17 21:06:45|1568725605134[30289]30328|E|QzoneOnlineTimeCollectRptService|closeTrace isForeground:false
+19-09-17 21:07:21|1568725641237[30289]30289|E|MD5|loadso arm msfbootV2 resultCode=3387394
+19-09-17 21:07:21|1568725641237[30289]30289|E|MD5|loadso msfbootV2 true resultCode=3387394 cost=18
+19-09-17 21:08:57|1568725737910[30289]30328|E|QzoneOnlineTimeCollectRptService|closeTrace isForeground:false

@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-08-08 00:56:23", "timestamp": 1565196983, "vertices": [{"count": 4324, "name": "top"}], "type": "top", "bundleName": "dress_t_1565196983", "triangles": [{"count": 6329, "name": "top"}], "assets": ["dress.bin", "top_mask.etc", "top_albedo.etc", "top_normal.etc"]}

@@ -1,0 +1,387 @@
+19-09-17 20:36:56|com.tencent.mobileqq:qzone|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:36:56|1568723816524[28442]28442|E|AutoMonitor|nextState -1, 0
+19-09-17 20:36:56|1568723816542[28442]28442|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:56|1568723816542[28442]28442|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:56|1568723816542[28442]28442|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:36:57|1568723816563[28442]28442|E|EIPCConst|connectProvider success
+19-09-17 20:36:57|1568723816603[28442]28442|E|MSF.D.MonitorSocket|monitor_config not found, disable monitor socket
+19-09-17 20:36:57|1568723816608[28442]28442|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:qzone null 433687
+19-09-17 20:36:57|1568723816612[28442]28442|E|UpdatePluginVersion|433687, 433687
+19-09-17 20:36:57|1568723816623[28442]28442|E|QZoneStartupMonitor|beforeLoadPlugin
+19-09-17 20:36:57|1568723816624[28442]28442|E|RdmInit|doStep process=com.tencent.mobileqq:qzone, sRdmState=0
+19-09-17 20:36:57|1568723816647[28442]28485|E|mqq|doInit begin withcom.tencent.mobileqq:qzone
+19-09-17 20:36:57|1568723816688[28442]28485|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:36:57|1568723816694[28442]28442|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:qzone, pid=28442
+19-09-17 20:36:57|1568723816716[28442]28485|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:36:57|1568723816717[28442]28485|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:36:57|1568723816718[28442]28485|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:qzone
+19-09-17 20:36:57|1568723816724[28442]28485|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:57|1568723816740[28442]28485|E|MSF.D.Proxy|threadID:743, threadName: thread_light_1 bind service finished true
+19-09-17 20:36:57|1568723816743[28442]28485|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:36:57|1568723816776[28442]28442|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:qzone, pid=28442
+19-09-17 20:36:57|1568723816793[28442]28485|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:36:57|1568723816796[28442]28485|E|MSF.D.Proxy|threadID:743, threadName: thread_light_1 bind service finished true
+19-09-17 20:36:57|1568723816815[28442]28485|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:36:57|1568723816816[28442]28485|E|QzoneMainRuntime|QzoneMainRuntime onCreate
+19-09-17 20:36:57|1568723816825[28442]28485|E|mqq|newServlet = mqq.app.BuiltInServlet@fc1ddb5
+19-09-17 20:36:57|1568723816832[28442]28485|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:36:57|1568723816833[28442]28485|E|MSF.D.Proxy|threadID:743, threadName: thread_light_1 bind service finished true
+19-09-17 20:36:57|1568723816833[28442]28485|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:36:57|1568723816833[28442]28485|E|mqq|[AppRuntime]QzoneMainRuntime (*9100) onCreate,savedInstanceState=null
+19-09-17 20:36:57|1568723816837[28442]28485|E|QZLog|*createQZoneAppInterface  begin
+19-09-17 20:36:57|1568723816841[28442]28442|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:36:57|1568723816846[28442]28485|E|plugin_tag|getOrCreateClassLoader:qzone_plugin.apk
+19-09-17 20:36:57|1568723816849[28442]28485|E|plugin_tag|dexsPath/data/data/com.tencent.mobileqq/app_installed_plugin/qzone_plugin.apk
+19-09-17 20:36:57|1568723816868[28442]28485|E|plugin_tag|getOrCreateClassLoaderCost:qzone_plugin.apk c:22
+19-09-17 20:36:57|1568723816862[28442]28442|E|AutoMonitor|MTA, cost=8 results: true
+19-09-17 20:36:57|1568723816877[28442]28504|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:36:57|1568723816877[28442]28504|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:36:57|1568723816909[28442]28485|E|QZLog|*createQZoneAppInterface  suscees
+19-09-17 20:36:57|1568723816910[28442]28485|E|QZLog|QZoneAppInterface onCreate isFirst:true,theadid=743
+19-09-17 20:36:57|1568723816927[28442]28442|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:36:57|1568723816941[28442]28485|E|QZoneAppInterface|***********启动空间进程**********,当前版本首次启动isCurrentVersionFirstLaunch：true
+19-09-17 20:36:58|1568723818693[28442]28485|E|VIDEO_LOG/FeedVideoEnv|michal9 FeedVideoEnv init! pid=28442
+19-09-17 20:36:58|1568723818697[28442]28485|E|VIDEO_LOG/FeedVideoEnv|CLOSE_HARDWARE_ACCELERATED=false
+19-09-17 20:36:58|1568723818699[28442]28485|E|VIDEO_LOG/FeedVideoEnv|h265debug cfg h265ReportKeyVersion=2
+19-09-17 20:36:59|1568723819149[28442]28485|E|CANVASUI|Layout File from sd card:version md5:null
+19-09-17 20:36:59|1568723819213[28442]28568|E|QZLog|runTask cmd=QzoneNewService.Feeds.getLayoutKits
+19-09-17 20:36:59|1568723819238[28442]28568|E|mqq|newServlet = hcb@80258b9
+19-09-17 20:36:59|1568723819371[28442]28480|E|UploadEnv|getSoDownloadState false
+19-09-17 20:36:59|1568723819371[28442]28480|E|UploadEnv|downloadUploadSo needUpdate:true saveState:false isSoDownloading:false process:28442
+19-09-17 20:36:59|1568723819372[28442]28480|E|UploadEnv|upload so need update
+19-09-17 20:36:59|1568723819372[28442]28480|E|UploadEnv|saveSoDownloadState false
+19-09-17 20:36:59|1568723819390[28442]28480|E|UploadEnv|getRetryCnt ver  cnt:0
+19-09-17 20:36:59|1568723819390[28442]28480|E|UploadEnv|recordRetryCnt http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip
+19-09-17 20:36:59|1568723819390[28442]28480|E|UploadEnv|last ver  curUrl:http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip
+19-09-17 20:37:00|1568723819720[28442]28568|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 1ebe057
+19-09-17 20:37:00|1568723820230[28442]28480|E|VIDEO_LOG/QZoneVideoLoader|configVideoSDK
+19-09-17 20:37:01|1568723820860[28442]28480|E|VIDEO_LOG/VideoReporter|timezone=Timezone:GMT+08:00,id:Asia/Shanghai
+19-09-17 20:37:01|1568723820877[28442]28480|E|HttpDnsService|smartHttpDNSServer=182.254.116.117|182.254.118.11
+19-09-17 20:37:01|1568723820908[28442]28480|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:37:01|1568723820908[28442]28480|E|UploadEnv|getSoDownloadState false
+19-09-17 20:37:01|1568723820908[28442]28480|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:37:01|1568723820908[28442]28480|E|UploadEnv|useDownloadedSo false
+19-09-17 20:37:01|1568723820913[28442]28480|E|UploadEnv|loadLibrary c++_shared
+19-09-17 20:37:01|1568723820916[28442]28480|E|LibraryLoader|try to load library: c++_shared from system lib
+19-09-17 20:37:01|1568723820983[28442]28480|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:37:01|1568723820984[28442]28480|E|UploadEnv|getSoDownloadState false
+19-09-17 20:37:01|1568723820984[28442]28480|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:37:01|1568723820984[28442]28480|E|UploadEnv|useDownloadedSo false
+19-09-17 20:37:01|1568723820984[28442]28480|E|UploadEnv|loadLibrary networkbase_v1.3
+19-09-17 20:37:01|1568723821002[28442]28480|E|LibraryLoader|try to load library: networkbase_v1.3 from system lib
+19-09-17 20:37:01|1568723821010[28442]28480|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:37:01|1568723821046[28442]28480|E|UploadEnv|getSoDownloadState false
+19-09-17 20:37:01|1568723821046[28442]28480|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:37:01|1568723821046[28442]28480|E|UploadEnv|useDownloadedSo false
+19-09-17 20:37:01|1568723821046[28442]28480|E|UploadEnv|loadLibrary uploadnetwork_v1.3
+19-09-17 20:37:01|1568723821046[28442]28480|E|LibraryLoader|try to load library: uploadnetwork_v1.3 from system lib
+19-09-17 20:37:01|1568723821048[28442]28480|E|[upload2] ConnectionImpl|sIsLibraryPrepared = true isSharedLoaded = true isLib1Loaded = true isLib2Loaded = true
+19-09-17 20:37:01|1568723821067[28442]28480|E|UploadEnv|enableV6Switch:1 type:2
+19-09-17 20:37:01|1568723821070[28442]28480|E|VIDEO_LOG/PlayerConfig|setIPStackType 1
+19-09-17 20:37:01|1568723821071[28442]28480|E|VIDEO_LOG/QZoneVideoLoader|qzvideoipv6 config null
+19-09-17 20:37:01|1568723821157[28442]28480|E|VIDEO_LOG/PlayerConfig|fileDir:/storage/emulated/0/Android/data/com.tencent.mobileqq/qzone/video_cache/local is not exist, make dir result:true
+19-09-17 20:37:01|1568723821400[28442]28579|E|UniKingCardHelper/DeviceInfoUtil|get MTK imsi error:getSubscriberIdGemini [int]
+19-09-17 20:37:01|1568723821448[28442]28579|E|UniKingCardHelper/DeviceInfoUtil|get Zhanxun imsi error:getServiceName [class java.lang.String, int]
+19-09-17 20:37:01|1568723821517[28442]28579|E|UniKingCardHelper|timeoutcfg:2000,delay:2000,querystatus:0,usingMigSdk:true,mLocalMockKingCard=false
+19-09-17 20:37:01|1568723821527[28442]28627|E|DbCacheDatabase.DbCacheService|dbOptiSync=1
+19-09-17 20:37:02|1568723821692[28442]28627|E|QZLog|PRAGMA synchronous=OFF executed
+19-09-17 20:37:02|1568723821786[28442]28627|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:257720514mAttachCount:1
+19-09-17 20:37:02|1568723821794[28442]28480|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:37:02|1568723821857[28442]28480|E|SharpPDec|sRetryWaitTime(ms):3000
+19-09-17 20:37:02|1568723821857[28442]28480|E|QzoneModuleDownloadManager|start download--upload.so,priority: false ,startImmediately: false
+19-09-17 20:37:02|1568723821933[28442]28627|E|[upload2_QzoneTaskManager]|restore total size:0
+19-09-17 20:37:02|1568723821933[28442]28627|E|[upload2_outbox_QZonePublishQueue]|onRestore taskList size:0
+19-09-17 20:37:02|1568723821934[28442]28627|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:235705675mAttachCount:2
+19-09-17 20:37:02|1568723822061[28442]28627|E|[PhotoAlbum]downloadPhotoAndVideo [DownloadTaskManager]|restore total size:0
+19-09-17 20:37:02|1568723822062[28442]28627|E|[DownloadQueue]|onRestore taskList size:0
+19-09-17 20:37:02|1568723822428[28442]28442|E|MobileQQ|dispatchAE S onAccountChanged
+19-09-17 20:37:02|1568723822453[28442]28480|E|InitHook|NOT AVA
+19-09-17 20:37:02|1568723822456[28442]28568|E|superresolution|isSuperResolutionEnvReadyForQzoneRequest ready=false
+19-09-17 20:37:02|1568723822461[28442]28485|E|mqq|doInit finished
+19-09-17 20:37:02|1568723822462[28442]28485|E|MainService|start MSF-Receiver 798
+19-09-17 20:37:02|1568723822467[28442]28567|E|QZLog|定位有版本或权限限制
+19-09-17 20:37:02|1568723822538[28442]28510|E|qzone_launch|preloadFriendFeedResource hasPreloaded:false
+19-09-17 20:37:03|1568723822685[28442]28568|E|QZLog|onSend request cmd=getLayoutKits is correct
+19-09-17 20:37:03|1568723822698[28442]28568|E|QZLog|cmd=getLayoutKits, pkgId=1568723819169 submit to MSF, isLogin: true
+19-09-17 20:37:03|1568723823519[28442]28568|E|UniKingCardHelper|emptyinfo!
+19-09-17 20:37:04|1568723824656[28442]28510|E|ImageEnvImpl|--qzone--getDrawableCacheRatio:1.0
+19-09-17 20:37:04|1568723824659[28442]28510|E|PausablePriorityBlockingQueue|PausablePriorityBlockingQueue pausable:true
+19-09-17 20:37:05|1568723825816[28442]28651|E|TicketManager|set alter tickets for *9100
+19-09-17 20:37:06|1568723826074[28442]28651|E|QZLog|cmd=getLayoutKits, appSeq:2, pkgId:1568723819169
+19-09-17 20:37:06|1568723826099[28442]28568|E|QZLog|completeTask resultCode:0, cmd=QzoneNewService.Feeds.getLayoutKits
+19-09-17 20:37:06|1568723826100[28442]28568|E|FeedUpdate|CanvasUI热更新 succ. 更新个数:0
+19-09-17 20:37:07|1568723827647[28442]28480|E|NativeMonitorConfig|process id:2  not in black list
+19-09-17 20:37:07|1568723827691[28442]28480|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:37:08|1568723827843[28442]28480|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:37:08|1568723827931[28442]28480|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:37:08|1568723827931[28442]28480|E|NativeMemoryMonitor|init
+19-09-17 20:37:11|1568723831223[28442]28480|E|UploadEnv|upload so download success : /data/user/0/com.tencent.mobileqq/app_qzoneupload
+19-09-17 20:37:11|1568723831338[28442]28480|E|UploadEnv|saveSoDownloadState false
+19-09-17 20:37:14|1568723834232[28442]28480|E|QZLog|clear crash count with no crash
+19-09-17 20:37:17|1568723837612[28442]28442|E|MD5|loadso arm msfbootV2 resultCode=3387394
+19-09-17 20:37:17|1568723837612[28442]28442|E|MD5|loadso msfbootV2 true resultCode=3387394 cost=11
+19-09-17 20:37:20|1568723840712[28442]28568|E|UniKingCardHelper|emptyinfo!
+19-09-17 20:37:21|1568723841835[28442]28567|E|QZLog|PRAGMA synchronous=OFF executed
+19-09-17 20:37:22|1568723842452[28442]28567|E|DbCacheDatabase|[DB]6bb61e3b7bce0931da574d19d1d82c88  attach sessionId:236872060mAttachCount:1
+19-09-17 20:37:24|1568723844256[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|db:6bb61e3b7bce0931da574d19d1d82c88 table:UserInfoTB selection:uin=? args:[1150289100]
+19-09-17 20:37:24|1568723844256[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|timecost: 142
+19-09-17 20:37:24|1568723844463[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test_Stack|java.lang.Throwable
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:125)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:176)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:156)
+	at hsz.a(ProGuard:356)
+	at hsz.a(ProGuard:337)
+	at hsz.a(ProGuard:333)
+	at htf.a(ProGuard:67)
+	at htf.a(ProGuard:39)
+	at com.qzone.app.QZoneAppInterface$4.run(ProGuard:267)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at cooperation.qzone.thread.BaseHandler.dispatchMessage(ProGuard:126)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.os.HandlerThread.run(HandlerThread.java:65)
+
+19-09-17 20:37:25|1568723845334[28442]28567|E|DbCacheDatabase|[DB]6bb61e3b7bce0931da574d19d1d82c88  attach sessionId:237261014mAttachCount:2
+19-09-17 20:37:26|1568723846602[28442]28510|E|FeedInit|handleQueryInitData.start:true:1568723846592
+19-09-17 20:37:26|1568723846696[28442]28510|E|TTTBigDataReport|init
+19-09-17 20:37:26|1568723846711[28442]28510|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:48976463mAttachCount:3
+19-09-17 20:37:26|1568723846793[28442]28510|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:157306332mAttachCount:4
+19-09-17 20:37:27|1568723846996[28442]28567|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:141188538mAttachCount:5
+19-09-17 20:37:27|1568723847226[28442]28510|E|FeedInit|handleQueryInitData.end:true,1568723847226
+19-09-17 20:37:27|1568723847241[28442]28568|E|QZLog|GetSkey.
+19-09-17 20:37:27|1568723847686[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|db:8dc4554958d889df109761a5e5cad0fa table:TABLE_CUSTOM_PRAISE selection:uin=? args:[1150289100]
+19-09-17 20:37:27|1568723847686[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|timecost: 219
+19-09-17 20:37:27|1568723847786[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test_Stack|java.lang.Throwable
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:125)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:176)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:156)
+	at hsz.a(ProGuard:356)
+	at hsz.a(ProGuard:337)
+	at hsz.a(ProGuard:333)
+	at keu.a(ProGuard:118)
+	at com.qzone.proxy.feedcomponent.service.QzoneCustomPraiseService$3.run(ProGuard:333)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at cooperation.qzone.thread.BaseHandler.dispatchMessage(ProGuard:126)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.os.HandlerThread.run(HandlerThread.java:65)
+
+19-09-17 20:37:27|1568723847827[28442]28567|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:61445470mAttachCount:6
+19-09-17 20:37:28|1568723847931[28442]28568|E|TicketManager|get ticket succ, sk!
+19-09-17 20:37:28|1568723848292[28442]28568|E|QZoneFeedService|isForceRefrsh = true ,feedType:0
+19-09-17 20:37:28|1568723848538[28442]28568|E|QZLog|runTask cmd=QzoneNewService.getPreActiveFeeds
+19-09-17 20:37:29|1568723848869[28442]28568|E|superresolution|isSuperResolutionEnvReadyForQzoneRequest ready=false
+19-09-17 20:37:29|1568723848943[28442]28568|E|QZLog|onSend request cmd=getPreActiveFeeds is correct
+19-09-17 20:37:29|1568723848997[28442]28568|E|QZLog|cmd=getPreActiveFeeds, pkgId=1568723848463 submit to MSF, isLogin: true
+19-09-17 20:37:29|1568723849022[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|db:8dc4554958d889df109761a5e5cad0fa table:TABLE_POLY_PRAISE selection:uin=? args:[1150289100]
+19-09-17 20:37:29|1568723849022[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test|timecost: 203
+19-09-17 20:37:29|1568723849129[28442]28567|E|DbCacheDatabase.CacheManager.Database_Test_Stack|java.lang.Throwable
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:125)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:176)
+	at com.qzone.component.cache.database.AbstractDbCacheManager.a(ProGuard:156)
+	at hsz.a(ProGuard:356)
+	at hsz.a(ProGuard:337)
+	at hsz.a(ProGuard:333)
+	at keu.a(ProGuard:118)
+	at com.qzone.proxy.feedcomponent.service.QzonePolymorphicPraiseService$2.run(ProGuard:215)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at cooperation.qzone.thread.BaseHandler.dispatchMessage(ProGuard:126)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.os.HandlerThread.run(HandlerThread.java:65)
+
+19-09-17 20:37:29|1568723849255[28442]28567|E|QzoneDIYService|batchRequestDIYData QzoneDIYRequest size = 0
+19-09-17 20:37:29|1568723849358[28442]28480|E|QzoneOnlineTimeCollectRptService|closeTrace isForeground:false
+19-09-17 20:37:29|1568723849367[28442]28567|E|QZLog|定位有版本或权限限制
+19-09-17 20:37:29|1568723849399[28442]28713|E|QzoneDownloadConfig|http2 gray:0,70,100
+19-09-17 20:37:29|1568723849399[28442]28713|E|QzoneDownloadConfig|http2 domain:m.qpic.cn,b\d+\.photo\.store\.qq\.com,s\d+\.photo\.store\.qq\.com,r.photo.store.qq.com,a[0-9].qpic.cn,a\d+\.photo\.store\.qq\.com
+19-09-17 20:37:29|1568723849541[28442]28713|E|IPConfigStrategy|IP Config -- PhotoSvrList||qzpb.qq.com:{"qzpb.qq.com": [{"ip": "183.232.125.179", "port": "80", "apn": "1"},{"ip": "163.177.71.188", "port": "80", "apn": "2"},{"ip": "59.37.97.21", "port": "80", "apn": "3"},{"ip": "182.254.34.23", "port": "80", "apn": "4"}]}
+19-09-17 20:37:29|1568723849542[28442]28713|E|IPConfigStrategy|IP Config -- VideoSvrList||DownloadDirectIPVideo:{"video.mtv.qq.com":[{"ip": "112.13.208.158", "port": "80", "apn": "1"},{"ip": "111.202.98.155", "port": "80", "apn": "2"},{"ip": "222.73.132.158", "port": "80", "apn": "3"}],"vqzone.tc.qq.com":[{"ip": "223.111.104.160", "port": "80", "apn": "1"},{"ip": "119.188.44.142", "port": "80", "apn": "2"},{"ip": "150.138.137.16", "port": "80", "apn": "3"}],"vwecam.tc.qq.com":[{"ip": "112.13.208.158", "port": "80", "apn": "1"},{"ip": "111.202.98.153", "port": "80", "apn": "2"},{"ip": "222.73.132.158", "port": "80", "apn": "3"}],"video.qzone.qq.com":[{"ip": "111.161.14.54", "port": "80", "apn": "1"},{"ip": "111.161.14.54", "port": "80", "apn": "2"},{"ip": "111.161.14.54", "port": "80", "apn": "3"}],"sv.qzone.qq.com":[{"ip": "119.28.164.29", "port": "80", "apn": "1"},{"ip": "119.28.164.29", "port": "80", "apn": "2"},{"ip": "119.28.164.29", "port": "80", "apn": "3"}]}
+19-09-17 20:37:29|1568723849573[28442]28567|E|mqq|newServlet = gxu@b4f6e28
+19-09-17 20:37:29|1568723849604[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_masterIplist:null
+19-09-17 20:37:29|1568723849604[28442]28713|E|IPConfigStrategy|IP Config -- PhotoABSvrList||DownloadDirectIP_b:null
+19-09-17 20:37:29|1568723849604[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||video_masterIplist:null
+19-09-17 20:37:29|1568723849605[28442]28713|E|IPConfigStrategy|IP Config -- PhotoABSvrList||DownloadDirectIP_a:{"a(1|2|3|4|5|6|7|8|9|10|30|83|84|85|86|87|88|89|90|97|98|99|100|101|102|103|104|106|113|114|115|131|132|145|146|147|148|149|198|199|200|208|259|260|261|262|263|264|301|302|303|318|319|341|342|343|344|345|346|347|348|349|350|351|352|353|354|355|356|357|358|359|360|361|362|363)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "121.51.162.20", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "220.249.244.38", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"},{"ip": "59.37.96.45", "port": "80", "apn": "3"}],"a(108|109|112|116|118|119|120|121|122|123|124|125|126|127|129|130|133|134|135|136|137|138|139|140|141|142|144|183|184|185|186|187|188|189|190|191|192|193|194|195|196)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "36.152.1.111", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "223.166.152.223", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"},{"ip": "61.151.168.145", "port": "80", "apn": "3"}],"a(11|14|15|20|21|22|32|34|37|40|43|44|77|105|107|110|111|128|143|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238|239|240|241|265|266|267|268|269|316|317|364|365|366|367|368|369|370|371|372|373|374|375|376|377|378|379|380|381|382|383|384|385|386|387|388|389|390|391|392|393|394|395|396|397|398|399|400)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "36.152.1.111", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "223.166.152.223", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"},{"ip": "61.151.168.145", "port": "80", "apn": "3"}],"a(12|13|16|17|18|19|23|24|25|26|27|28|29|31|33|35|36|38|39|41|42|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|78|79|80|81|82|91|92|93|94|95|96|117|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|201|202|203|204|205|206|207|209|210|211|212|213|214|215|216|217|246|247|248|249|250|251|252|253|254|255|256|257|258|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|286|287|288)\\.photo\\.store\\.qq\\.com":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.30.135.194", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "111.161.111.101", "port": "80", "apn": "2"},{"ip": "123.151.176.110", "port": "80", "apn": "3"},{"ip": "123.151.176.111", "port": "80", "apn": "3"}],"a(304|305|306|307|308|309|310|311|312|313|314|315|320|321|322|323|324|325|326|327|328|329|330|331|332|333|334|335|336|337|338|339|340)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "121.51.162.20", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "220.249.244.38", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"},{"ip": "59.37.96.45", "port": "80", "apn": "3"}],"b(1|2|3|4|5|6|7|8|9|10|30|83|84|85|86|87|88|89|90|97|98|99|100|101|102|103|104|106|113|114|115|131|132|145|146|147|148|149|198|199|200|208|259|260|261|262|263|264|301|302|303|318|319|341|342|343|344|345|346|347|348|349|350|351|352|353|354|355|356|357|358|359|360|361|362|363)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "121.51.162.20", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "220.249.244.38", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"},{"ip": "59.37.96.45", "port": "80", "apn": "3"}],"b(108|109|112|116|118|119|120|121|122|123|124|125|126|127|129|130|133|134|135|136|137|138|139|140|141|142|144|183|184|185|186|187|188|189|190|191|192|193|194|195|196)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "36.152.1.111", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "223.166.152.223", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"},{"ip": "61.151.168.145", "port": "80", "apn": "3"}],"b(11|14|15|20|21|22|32|34|37|40|43|44|77|105|107|110|111|128|143|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238|239|240|241|265|266|267|268|269|316|317|364|365|366|367|368|369|370|371|372|373|374|375|376|377|378|379|380|381|382|383|384|385|386|387|388|389|390|391|392|393|394|395|396|397|398|399|400)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "36.152.1.111", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "223.166.152.223", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"},{"ip": "61.151.168.145", "port": "80", "apn": "3"}],"b(12|13|16|17|18|19|23|24|25|26|27|28|29|31|33|35|36|38|39|41|42|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|78|79|80|81|82|91|92|93|94|95|96|117|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|201|202|203|204|205|206|207|209|210|211|212|213|214|215|216|217|246|247|248|249|250|251|252|253|254|255|256|257|258|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|286|287|288)\\.photo\\.store\\.qq\\.com":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.30.135.194", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "111.161.111.101", "port": "80", "apn": "2"},{"ip": "123.151.176.110", "port": "80", "apn": "3"},{"ip": "123.151.176.111", "port": "80", "apn": "3"}],"b(304|305|306|307|308|309|310|311|312|313|314|315|320|321|322|323|324|325|326|327|328|329|330|331|332|333|334|335|336|337|338|339|340)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "121.51.162.20", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "220.249.244.38", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"},{"ip": "59.37.96.45", "port": "80", "apn": "3"}]}
+19-09-17 20:37:29|1568723849790[28442]28713|E|IPConfigStrategy|IP Config -- PhotoSvrList||DownloadDirectIP:{"a[0-9].qpic.cn":[{"ip": "223.99.231.164", "port": "80", "apn": "1"},{"ip": "223.99.231.165", "port": "80", "apn": "1"},{"ip": "125.39.171.34", "port": "80", "apn": "2"},{"ip": "125.39.171.32", "port": "80", "apn": "2"},{"ip": "61.183.164.43", "port": "80", "apn": "3"},{"ip": "61.183.164.17", "port": "80", "apn": "3"}],"cp.qpic.cn":[{"ip": "223.111.154.98", "port": "80", "apn": "1"},{"ip": "120.221.143.122", "port": "80", "apn": "1"},{"ip": "221.204.183.94", "port": "80", "apn": "2"},{"ip": "119.167.217.52", "port": "80", "apn": "2"},{"ip": "150.138.232.181", "port": "80", "apn": "3"},{"ip": "140.249.243.204", "port": "80", "apn": "3"}],"gchat\\.qpic\\.cn":[{"ip": "117.156.18.52", "port": "80", "apn": "1"},{"ip": "117.156.18.55", "port": "80", "apn": "1"},{"ip": "139.215.137.48", "port": "80", "apn": "2"},{"ip": "139.215.137.49", "port": "80", "apn": "2"},{"ip": "123.151.72.85", "port": "80", "apn": "3"},{"ip": "123.151.190.177", "port": "80", "apn": "3"}],"group\\.store\\.qq\\.com":[{"ip": "183.232.125.177", "port": "80", "apn": "1"},{"ip": "183.232.95.147", "port": "80", "apn": "1"},{"ip": "220.194.95.173", "port": "80", "apn": "2"},{"ip": "59.37.96.171", "port": "80", "apn": "3"}],"m.qpic.cn":[{"ip": "223.99.231.164", "port": "80", "apn": "1"},{"ip": "223.99.231.165", "port": "80", "apn": "1"},{"ip": "125.39.171.34", "port": "80", "apn": "2"},{"ip": "125.39.171.32", "port": "80", "apn": "2"},{"ip": "61.183.164.43", "port": "80", "apn": "3"},{"ip": "61.183.164.17", "port": "80", "apn": "3"}],"mmsns.qpic.cn":[{"ip": "120.221.142.94", "port": "80", "apn": "1"},{"ip": "120.221.142.144", "port": "80", "apn": "1"},{"ip": "123.6.3.203", "port": "80", "apn": "2"},{"ip": "123.6.3.205", "port": "80", "apn": "2"},{"ip": "150.138.233.158", "port": "80", "apn": "3"},{"ip": "150.138.233.166", "port": "80", "apn": "3"}],"qlogo[0-9].store.qq.com":[{"ip": "121.51.162.32", "port": "80", "apn": "1"},{"ip": "121.51.162.43", "port": "80", "apn": "1"},{"ip": "157.255.192.36", "port": "80", "apn": "2"},{"ip": "157.255.173.13", "port": "80", "apn": "2"},{"ip": "14.215.140.21", "port": "80", "apn": "3"},{"ip": "14.215.140.24", "port": "80", "apn": "3"}],"t[0-9].qpic.cn":[{"ip": "121.51.162.32", "port": "80", "apn": "1"},{"ip": "121.51.162.43", "port": "80", "apn": "1"},{"ip": "157.255.192.36", "port": "80", "apn": "2"},{"ip": "157.255.173.13", "port": "80", "apn": "2"},{"ip": "14.215.140.21", "port": "80", "apn": "3"},{"ip": "14.215.140.24", "port": "80", "apn": "3"}],"ugc.qpic.cn":[{"ip": "120.221.143.104", "port": "80", "apn": "1"},{"ip": "120.221.97.123", "port": "80", "apn": "1"},{"ip": "139.215.137.102", "port": "80", "apn": "2"},{"ip": "42.56.83.40", "port": "80", "apn": "2"},{"ip": "150.138.234.164", "port": "80", "apn": "3"},{"ip": "140.249.247.217", "port": "80", "apn": "3"}],"miniapp.gtimg.cn":[{"ip": "119.167.164.20", "port": "80", "apn": "1"},{"ip": "119.167.164.20", "port": "80", "apn": "2"},{"ip": "119.167.164.20", "port": "80", "apn": "3"}]}
+19-09-17 20:37:30|1568723849855[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_masterIplist_a:null
+19-09-17 20:37:30|1568723849855[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_masterIplist_b:null
+19-09-17 20:37:30|1568723849855[28442]28713|E|IPConfigStrategy|IP Config -- PhotoSvrList||optimumip_qzvv:{"qzvv.video.qq.com": [{"ip": "183.232.119.209", "port": "80", "apn": "1"},{"ip": "58.251.139.189", "port": "80", "apn": "2"},{"ip": "14.17.32.240", "port": "80", "apn": "3"},{"ip": "182.254.106.20", "port": "80", "apn": "4"}]}
+19-09-17 20:37:30|1568723849888[28442]28510|E|QZLog|PRAGMA synchronous=OFF executed
+19-09-17 20:37:30|1568723849900[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_backupIplist:null
+19-09-17 20:37:30|1568723849901[28442]28713|E|IPConfigStrategy|IP Config -- PhotoABSvrList||DownloadBackupIP_a:{"a(1|2|3|4|5|6|7|8|9|10|30|83|84|85|86|87|88|89|90|97|98|99|100|101|102|103|104|106|113|114|115|131|132|145|146|147|148|149|198|199|200|208|259|260|261|262|263|264|301|302|303|318|319|341|342|343|344|345|346|347|348|349|350|351|352|353|354|355|356|357|358|359|360|361|362|363)\\.photo\\.store\\.qq\\.com":[{"ip": "163.177.68.180", "port": "80", "apn": "1"},{"ip": "59.37.97.89", "port": "80", "apn": "2"},{"ip": "163.177.68.180", "port": "80", "apn": "3"}],"a(108|109|112|116|118|119|120|121|122|123|124|125|126|127|129|130|133|134|135|136|137|138|139|140|141|142|144|183|184|185|186|187|188|189|190|191|192|193|194|195|196)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"}],"a(11|14|15|20|21|22|32|34|37|40|43|44|77|105|107|110|111|128|143|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238|239|240|241|265|266|267|268|269|316|317|364|365|366|367|368|369|370|371|372|373|374|375|376|377|378|379|380|381|382|383|384|385|386|387|388|389|390|391|392|393|394|395|396|397|398|399|400)\\.photo\\.store\\.qq\\.com":[{"ip": "153.3.233.11", "port": "80", "apn": "1"},{"ip": "180.97.7.121", "port": "80", "apn": "2"},{"ip": "153.3.233.11", "port": "80", "apn": "3"}],"a(12|13|16|17|18|19|23|24|25|26|27|28|29|31|33|35|36|38|39|41|42|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|78|79|80|81|82|91|92|93|94|95|96|117|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|201|202|203|204|205|206|207|209|210|211|212|213|214|215|216|217|246|247|248|249|250|251|252|253|254|255|256|257|258|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|286|287|288)\\.photo\\.store\\.qq\\.com":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "123.151.176.110", "port": "80", "apn": "3"}],"a(304|305|306|307|308|309|310|311|312|313|314|315|320|321|322|323|324|325|326|327|328|329|330|331|332|333|334|335|336|337|338|339|340)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"}],"b(1|2|3|4|5|6|7|8|9|10|30|83|84|85|86|87|88|89|90|97|98|99|100|101|102|103|104|106|113|114|115|131|132|145|146|147|148|149|198|199|200|208|259|260|261|262|263|264|301|302|303|318|319|341|342|343|344|345|346|347|348|349|350|351|352|353|354|355|356|357|358|359|360|361|362|363)\\.photo\\.store\\.qq\\.com":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"}],"b(108|109|112|116|118|119|120|121|122|123|124|125|126|127|129|130|133|134|135|136|137|138|139|140|141|142|144|183|184|185|186|187|188|189|190|191|192|193|194|195|196)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"}],"b(11|14|15|20|21|22|32|34|37|40|43|44|77|105|107|110|111|128|143|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238|239|240|241|265|266|267|268|269|316|317|364|365|366|367|368|369|370|371|372|373|374|375|376|377|378|379|380|381|382|383|384|385|386|387|388|389|390|391|392|393|394|395|396|397|398|399|400)\\.photo\\.store\\.qq\\.com":[{"ip": "36.152.0.113", "port": "80", "apn": "1"},{"ip": "153.3.233.11", "port": "80", "apn": "2"},{"ip": "61.151.168.147", "port": "80", "apn": "3"}],"b(12|13|16|17|18|19|23|24|25|26|27|28|29|31|33|35|36|38|39|41|42|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|78|79|80|81|82|91|92|93|94|95|96|117|150|151|152|153|154|155|156|157|158|159|160|161|162|163|164|165|166|167|168|169|170|171|172|173|174|175|176|177|178|179|201|202|203|204|205|206|207|209|210|211|212|213|214|215|216|217|246|247|248|249|250|251|252|253|254|255|256|257|258|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|286|287|288)\\.photo\\.store\\.qq\\.com":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "123.151.176.110", "port": "80", "apn": "3"}],"b(304|305|306|307|308|309|310|311|312|313|314|315|320|321|322|323|324|325|326|327|328|329|330|331|332|333|334|335|336|337|338|339|340)\\.photo\\.store\\.qq\\.com":[{"ip": "121.51.162.21", "port": "80", "apn": "1"},{"ip": "220.249.244.36", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"}]}
+19-09-17 20:37:30|1568723849935[28442]28510|E|DbCacheDatabase|[DB]cfcd208495d565ef66e7dff9f98764da  attach sessionId:53533042mAttachCount:1
+19-09-17 20:37:30|1568723850034[28442]28713|E|IPConfigStrategy|IP Config -- PhotoSvrList||DownloadBackupIP:{"a[0-9].qpic.cn":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"}],"cp.qpic.cn":[{"ip": "223.111.154.98", "port": "80", "apn": "1"},{"ip": "221.204.183.94", "port": "80", "apn": "2"},{"ip": "150.138.232.181", "port": "80", "apn": "3"}],"gchat\\.qpic\\.cn":[{"ip": "36.152.2.101", "port": "80", "apn": "1"},{"ip": "153.3.220.110", "port": "80", "apn": "2"},{"ip": "219.133.60.217", "port": "80", "apn": "3"}],"group\\.store\\.qq\\.com":[{"ip": "183.232.125.177", "port": "80", "apn": "1"},{"ip": "220.194.95.173", "port": "80", "apn": "2"},{"ip": "59.37.96.171", "port": "80", "apn": "3"}],"m.qpic.cn":[{"ip": "111.30.159.198", "port": "80", "apn": "1"},{"ip": "111.161.111.100", "port": "80", "apn": "2"},{"ip": "59.37.97.88", "port": "80", "apn": "3"}],"mmsns.qpic.cn":[{"ip": "120.221.142.94", "port": "80", "apn": "1"},{"ip": "123.6.3.203", "port": "80", "apn": "2"},{"ip": "150.138.233.158", "port": "80", "apn": "3"}],"qlogo[0-9].store.qq.com":[{"ip": "121.51.162.32", "port": "80", "apn": "1"},{"ip": "157.255.192.36", "port": "80", "apn": "2"},{"ip": "14.215.140.21", "port": "80", "apn": "3"}],"t[0-9].qpic.cn":[{"ip": "0.0.0.1", "port": "80", "apn": "1"},{"ip": "0.0.0.1", "port": "80", "apn": "2"},{"ip": "0.0.0.1", "port": "80", "apn": "3"}],"ugc.qpic.cn":[{"ip": "183.232.88.188", "port": "80", "apn": "1"},{"ip": "223.167.86.93", "port": "80", "apn": "2"},{"ip": "180.163.25.60", "port": "80", "apn": "3"}],"miniapp.gtimg.cn":[{"ip": "119.167.164.20", "port": "80", "apn": "1"},{"ip": "119.167.164.20", "port": "80", "apn": "2"},{"ip": "119.167.164.20", "port": "80", "apn": "3"}]}
+19-09-17 20:37:30|1568723850113[28442]28510|E|SecurityUtile|loadso arm DBEncryptV2 resultCode=3387394
+19-09-17 20:37:30|1568723850113[28442]28510|E|SecurityUtile|loadso true, resultCode:3387394 cost:13
+19-09-17 20:37:30|1568723850125[28442]28713|E|IPConfigStrategy|IP Config -- VideoSvrList||DownloadBackupIPVideo:{"video.mtv.qq.com":[{"ip": "112.13.208.159", "port": "80", "apn": "1"},{"ip": "111.202.98.152", "port": "80", "apn": "2"},{"ip": "222.73.132.155", "port": "80", "apn": "3"}],"vqzone.tc.qq.com":[{"ip": "223.111.104.157", "port": "80", "apn": "1"},{"ip": "119.188.44.143", "port": "80", "apn": "2"},{"ip": "150.138.137.17", "port": "80", "apn": "3"}],"vwecam.tc.qq.com":[{"ip": "112.13.208.159", "port": "80", "apn": "1"},{"ip": "111.202.98.154", "port": "80", "apn": "2"},{"ip": "222.73.132.155", "port": "80", "apn": "3"}],"video.qzone.qq.com":[{"ip": "111.161.14.54", "port": "80", "apn": "1"},{"ip": "111.161.14.54", "port": "80", "apn": "2"},{"ip": "111.161.14.54", "port": "80", "apn": "3"}],"sv.qzone.qq.com":[{"ip": "119.28.164.29", "port": "80", "apn": "1"},{"ip": "119.28.164.29", "port": "80", "apn": "2"},{"ip": "119.28.164.29", "port": "80", "apn": "3"}]}
+19-09-17 20:37:30|1568723850147[28442]28713|E|IPConfigStrategy|IP Config -- PhotoABSvrList||DownloadBackupIP_b:null
+19-09-17 20:37:30|1568723850147[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||video_backupIplist:null
+19-09-17 20:37:30|1568723850147[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_backupIplist_a:null
+19-09-17 20:37:30|1568723850147[28442]28713|E|IPConfigStrategy|IP Config -- ExtraConfig||photo_backupIplist_b:null
+19-09-17 20:37:30|1568723850451[28442]28651|E|QZLog|cmd=getPreActiveFeeds, appSeq:4, pkgId:1568723848463
+19-09-17 20:37:30|1568723850453[28442]28568|E|QZLog|completeTask resultCode:0, cmd=QzoneNewService.getPreActiveFeeds
+19-09-17 20:37:30|1568723850696[28442]28960|E|StepOnZoneWizard|loadAnimFiles: 0 false
+19-09-17 20:37:30|1568723850702[28442]28961|E|QZoneImageManager|[ImageTracer] decode cost=159 url=https://qzonestyle.gtimg.cn/aoi/sola/20190721131840_u49Ejozac6.png
+19-09-17 20:37:31|1568723851089[28442]28960|E|[upload2_outbox_QZonePublishQueue]|getTaskList timeCost:0
+19-09-17 20:37:31|1568723851140[28442]28960|E|QZLog|readCustomQzmall: KEY_HOST_QZMALL is null
+19-09-17 20:37:31|1568723851141[28442]28960|E|QZLog|GETBANNER: banner data is not distributed.
+19-09-17 20:37:31|1568723851177[28442]28960|E|QZoneFeedService|tiantai qboss 空间天台的广告位无数据,清空缓存
+19-09-17 20:37:31|1568723851196[28442]28960|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:71216517mAttachCount:7
+19-09-17 20:37:31|1568723851238[28442]28967|E|QZoneImageManager|[ImageTracer] decode cost=141 url=avatar://1150289100
+19-09-17 20:37:31|1568723851479[28442]28960|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:145982184mAttachCount:8
+19-09-17 20:37:31|1568723851534[28442]28960|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:230792449mAttachCount:9
+19-09-17 20:37:31|1568723851635[28442]28510|E|FeedAdvContainer|setContentType data null
+19-09-17 20:37:32|1568723852051[28442]28510|E|FeedAdvContainer|setContentType data null
+19-09-17 20:37:33|1568723853044[28442]28962|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:554 threadId:824
+19-09-17 20:37:33|1568723853476[28442]28970|E|QZoneImageManager|[ImageTracer] decode cost=29 url=https://qzonestyle.gtimg.cn/aoi/sola/20181217145442_NQ58KHLrlQ.png
+19-09-17 20:37:33|1568723853493[28442]28976|E|QZoneImageManager|[ImageTracer] decode cost=3 url=https://qzonestyle.gtimg.cn/aoi/sola/20181217145442_LZYnAJ3LWg.png
+19-09-17 20:37:33|1568723853585[28442]28977|E|QZoneImageManager|[ImageTracer] decode cost=15 url=https://qzonestyle.gtimg.cn/aoi/sola/20181217145442_bhbIqR578L.png
+19-09-17 20:37:33|1568723853617[28442]28977|E|QZoneImageManager|[ImageTracer] decode cost=30 url=https://qzonestyle.gtimg.cn/aoi/sola/20181217145442_CZkDXonl2B.png
+19-09-17 20:37:33|1568723853716[28442]28967|E|QZoneImageManager|[ImageTracer] decode cost=3 url=https://qzonestyle.gtimg.cn/aoi/sola/20181217145442_MMYidgXNs4.png
+19-09-17 20:37:34|1568723854007[28442]28962|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzone_themeAlbum.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=824, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=1744, totalDuration=3418, contentLength=19582, size=19582, realsize=-1, retry=(2,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:02 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:02 GMT;Last-Modified: Thu, 13 Apr 2017 11:46:20 GMT;Content-Type: application/zip;Content-Length: 19582;X-NWS-LOG-UUID: 15192755784105765999 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: X-Client-Ip;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.18;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=1096, connect:(0,0), exeReqest:(0,0), sendReq=330, recvData=318, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:34|1568723854024[28442]28962|E|DownloadGlobalStrategy|speed1:11.228211 speed2:0.0
+19-09-17 20:37:34|1568723854743[28442]28642|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:0 threadId:793
+19-09-17 20:37:35|1568723855663[28442]28642|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzonePopWindow_20190304.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=793, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=989, totalDuration=1105, contentLength=20647, size=20647, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:03 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:03 GMT;Last-Modified: Mon, 04 Mar 2019 15:29:42 GMT;Content-Type: application/zip;Content-Length: 20647;X-NWS-LOG-UUID: 12690125157952240677 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: X-Client-Ip;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.18;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=265, connect:(0,0), exeReqest:(0,0), sendReq=105, recvData=605, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:35|1568723855880[28442]28962|E|DnsService|DNSService domain:d3g.qq.com ip:27.221.81.12 time:0 threadId:824
+19-09-17 20:37:37|1568723857796[28442]28962|E|downloader_result|Downloader, succeed to download:https://d3g.qq.com/sngapp/app/update/20181210212921_4631/qzone_recent_photo_calendar.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.12, localAddress=null, thread=824, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=1887, totalDuration=1952, contentLength=18875, size=18875, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWSs;Date: Tue, 17 Sep 2019 12:38:05 GMT;Content-Type: application/zip;Content-Length: 18875;Connection: close;Cache-Control: max-age=600;Expires: Tue, 17 Sep 2019 12:48:04 GMT;Last-Modified: Mon, 10 Dec 2018 13:29:21 GMT;X-NWS-UUID-VERIFY: e93c5d34c42ccc9a6e82925075e133c8;X-NWS-LOG-UUID: a80e8146-d838-4d77-9f75-2ae63a85cd12;X-Cache-Lookup: Hit From Disktank3;/*********/, contentType=application/zip, redirectURI=null, ipUrl:https://d3g.qq.com/sngapp/app/, strategyId=5, clientip=null, getIP=37, connect:(0,0), exeReqest:(0,0), sendReq=1613, recvData=235, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:38|1568723858201[28442]28642|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:1 threadId:793
+19-09-17 20:37:39|1568723859024[28442]28642|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzone_album_first_page_loading_bg.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=793, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=911, totalDuration=1030, contentLength=16147, size=16147, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:07 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:07 GMT;Last-Modified: Thu, 13 Apr 2017 11:46:21 GMT;Content-Type: application/zip;Content-Length: 16147;X-NWS-LOG-UUID: 901680966247475311 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: X-Client-Ip;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.18;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=165, connect:(0,0), exeReqest:(0,0), sendReq=215, recvData=531, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:40|1568723859453[28442]28962|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:1 threadId:824
+19-09-17 20:37:40|1568723860929[28442]28962|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzone_yellow_icon_v6.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=824, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=1530, totalDuration=1698, contentLength=81749, size=81749, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:09 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:09 GMT;Last-Modified: Tue, 03 Apr 2018 11:07:51 GMT;Content-Type: application/zip;Content-Length: 81749;X-NWS-LOG-UUID: 4047647940000507640 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: X-Client-Ip;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.38;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=273, connect:(0,0), exeReqest:(0,0), sendReq=195, recvData=1054, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:41|1568723861360[28442]28642|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:0 threadId:793
+19-09-17 20:37:41|1568723861951[28442]28642|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzone_cover_widget_weather.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=793, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=619, totalDuration=730, contentLength=24993, size=24993, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:10 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:10 GMT;Last-Modified: Thu, 13 Apr 2017 11:46:14 GMT;Content-Type: application/zip;Content-Length: 24993;X-NWS-LOG-UUID: 14290792026852867620 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: x-client-proto-ver;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;alt-svc: quic=":443"; ma=86400; v="39,38,37,36,35";Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.40;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=264, connect:(0,0), exeReqest:(0,0), sendReq=114, recvData=239, Concurrent:(1), mobileProxy=null
+19-09-17 20:37:42|1568723862740[28442]28642|E|DnsService|DNSService domain:qzonestyle.gtimg.cn ip:27.221.81.104 time:1 threadId:793
+19-09-17 20:37:43|1568723863341[28442]28642|E|downloader_result|Downloader, succeed to download:http://qzonestyle.gtimg.cn/qzone/phone/n/QQ-Qzone-Android/qzone_cover_widget_lunar.zip , requestHttp2=false, protocol=http1.1, dns=10.6.65.1,8.8.8.8, remoteAddress=27.221.81.104, localAddress=null, thread=793, apn=wifi, allowProxy=false, apnProxy=false, useProxy=null, IpStack=1, duration=639, totalDuration=1183, contentLength=8475, size=8475, realsize=-1, retry=(0,8), httpStatus=200, <-----Response Headers----->HTTP/1.1 200 OK;Server: NWS_CDN_P1;Connection: close;Date: Tue, 17 Sep 2019 12:38:12 GMT;Cache-Control: max-age=259200;Expires: Fri, 20 Sep 2019 12:38:12 GMT;Last-Modified: Sat, 01 Apr 2017 13:54:05 GMT;Content-Type: application/zip;Content-Length: 8475;X-NWS-LOG-UUID: 12800371896791355877 6a93446aaa8e62f1f6990b7fa5533a1d;Access-Control-Expose-Headers: X-Client-Ip;Access-Control-Expose-Headers: X-Server-Ip;Access-Control-Expose-Headers: X-Upstream-IP;Vary: Origin, Accept;X-Client-Ip: 202.110.209.168;X-Server-IP: 27.221.81.38;X-Cache-Lookup: Hit From Disktank3;X-DataSrc: 2;X-ReqGue: 0;/*********/, contentType=application/zip, redirectURI=null, ipUrl:http://27.221.81.104:80/qzone/, strategyId=5, clientip=null, getIP=247, connect:(0,0), exeReqest:(0,0), sendReq=132, recvData=260, Concurrent:(1), mobileProxy=null
+19-09-17 20:38:35|1568723915840[28442]28442|E|QZoneCommBroadReceiver|FeedUpdate: Qzone Push action:com.qzone.push_feed_unread
+19-09-17 20:39:20|1568723960748[28442]28442|E|QZoneCommBroadReceiver|FeedUpdate: Qzone Push action:com.qzone.push_feed_unread
+19-09-17 20:40:05|1568724005789[28442]28442|E|QZoneCommBroadReceiver|FeedUpdate: Qzone Push action:com.qzone.push_feed_unread
+19-09-17 20:40:37|1568724037132[28442]28480|E|QzoneOnlineTimeCollectRptService|closeTrace isForeground:false
+19-09-17 20:50:41|com.tencent.mobileqq:qzone|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:50:41|1568724641616[30289]30289|E|AutoMonitor|nextState -1, 0
+19-09-17 20:50:41|1568724641626[30289]30289|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:50:41|1568724641626[30289]30289|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:50:41|1568724641626[30289]30289|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:50:42|1568724641637[30289]30289|E|EIPCConst|connectProvider success
+19-09-17 20:50:42|1568724641654[30289]30289|E|MSF.D.MonitorSocket|phoneDisplays: KOT49H|KTU84P, phoneModels: COOLPAD7295, appid: , version: , currVersion: 8.1.3.4185, process: , com.tencent.mobileqq:qzone
+19-09-17 20:50:42|1568724641655[30289]30289|E|MSF.D.MonitorSocket|Socket imple class: java.net.SocksSocketImpl
+19-09-17 20:50:42|1568724641655[30289]30289|E|MSF.D.MonitorSocket| Monitor Socket started.
+19-09-17 20:50:42|1568724641659[30289]30289|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:qzone 433687 433687
+19-09-17 20:50:42|1568724641660[30289]30289|E|QZoneStartupMonitor|beforeLoadPlugin
+19-09-17 20:50:42|1568724641661[30289]30289|E|RdmInit|doStep process=com.tencent.mobileqq:qzone, sRdmState=0
+19-09-17 20:50:42|1568724641666[30289]30331|E|mqq|doInit begin withcom.tencent.mobileqq:qzone
+19-09-17 20:50:42|1568724641682[30289]30331|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:50:42|1568724641694[30289]30331|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:50:42|1568724641694[30289]30331|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:50:42|1568724641695[30289]30331|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:qzone
+19-09-17 20:50:42|1568724641700[30289]30331|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:50:42|1568724641706[30289]30331|E|MSF.D.Proxy|threadID:769, threadName: thread_light_1 bind service finished true
+19-09-17 20:50:42|1568724641706[30289]30331|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:50:42|1568724641726[30289]30331|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:50:42|1568724641727[30289]30331|E|MSF.D.Proxy|threadID:769, threadName: thread_light_1 bind service finished true
+19-09-17 20:50:42|1568724641729[30289]30289|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:qzone, pid=30289
+19-09-17 20:50:42|1568724641733[30289]30331|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:50:42|1568724641733[30289]30331|E|QzoneMainRuntime|QzoneMainRuntime onCreate
+19-09-17 20:50:42|1568724641743[30289]30331|E|mqq|newServlet = mqq.app.BuiltInServlet@e825343
+19-09-17 20:50:42|1568724641747[30289]30331|E|MSF.D.Proxy|start MsfService through Broadcast, 1
+19-09-17 20:50:42|1568724641748[30289]30331|E|MSF.D.Proxy|threadID:769, threadName: thread_light_1 bind service finished true
+19-09-17 20:50:42|1568724641748[30289]30331|E|MSF.D.Proxy|delay binding MSF Service
+19-09-17 20:50:42|1568724641748[30289]30331|E|mqq|[AppRuntime]QzoneMainRuntime (*9100) onCreate,savedInstanceState=null
+19-09-17 20:50:42|1568724641758[30289]30331|E|QZLog|*createQZoneAppInterface  begin
+19-09-17 20:50:42|1568724641765[30289]30331|E|plugin_tag|getOrCreateClassLoader:qzone_plugin.apk
+19-09-17 20:50:42|1568724641765[30289]30331|E|plugin_tag|dexsPath/data/data/com.tencent.mobileqq/app_installed_plugin/qzone_plugin.apk
+19-09-17 20:50:42|1568724641766[30289]30328|E|Magnifier_ReporterMachine|setReportType t=2
+19-09-17 20:50:42|1568724641778[30289]30289|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:qzone, pid=30289
+19-09-17 20:50:42|1568724641791[30289]30331|E|plugin_tag|getOrCreateClassLoaderCost:qzone_plugin.apk c:25
+19-09-17 20:50:42|1568724641805[30289]30289|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:50:42|1568724641827[30289]30289|E|AutoMonitor|MTA, cost=10 results: true
+19-09-17 20:50:42|1568724641831[30289]30331|E|QZLog|*createQZoneAppInterface  suscees
+19-09-17 20:50:42|1568724641832[30289]30356|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:50:42|1568724641832[30289]30356|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:50:42|1568724641833[30289]30331|E|QZLog|QZoneAppInterface onCreate isFirst:true,theadid=769
+19-09-17 20:50:42|1568724641841[30289]30331|E|QZoneAppInterface|***********启动空间进程**********,当前版本首次启动isCurrentVersionFirstLaunch：false
+19-09-17 20:50:42|1568724641887[30289]30289|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:50:43|1568724643225[30289]30331|E|VIDEO_LOG/FeedVideoEnv|michal9 FeedVideoEnv init! pid=30289
+19-09-17 20:50:43|1568724643225[30289]30331|E|VIDEO_LOG/FeedVideoEnv|CLOSE_HARDWARE_ACCELERATED=false
+19-09-17 20:50:43|1568724643225[30289]30331|E|VIDEO_LOG/FeedVideoEnv|h265debug cfg h265ReportKeyVersion=2
+19-09-17 20:50:44|1568724644659[30289]30331|E|CANVASUI|Layout File from sd card:version md5:null
+19-09-17 20:50:44|1568724644729[30289]30466|E|QZLog|runTask cmd=QzoneNewService.Feeds.getLayoutKits
+19-09-17 20:50:44|1568724644732[30289]30466|E|mqq|newServlet = hcb@f54efb2
+19-09-17 20:50:45|1568724645106[30289]30466|E|MSF.D.AppNetInfoNewImpl|registerNetEventHandler 80258b9
+19-09-17 20:50:46|1568724646121[30289]30289|E|MobileQQ|dispatchAE S onAccountChanged
+19-09-17 20:50:46|1568724646122[30289]30331|E|mqq|doInit finished
+19-09-17 20:50:46|1568724646123[30289]30331|E|MainService|start MSF-Receiver 808
+19-09-17 20:50:46|1568724646146[30289]30466|E|superresolution|isSuperResolutionEnvReadyForQzoneRequest ready=false
+19-09-17 20:50:46|1568724646151[30289]30465|E|QZLog|定位有版本或权限限制
+19-09-17 20:50:46|1568724646165[30289]30328|E|InitHook|NOT AVA
+19-09-17 20:50:46|1568724646374[30289]30466|E|QZLog|onSend request cmd=getLayoutKits is correct
+19-09-17 20:50:46|1568724646377[30289]30466|E|QZLog|cmd=getLayoutKits, pkgId=1568724644672 submit to MSF, isLogin: true
+19-09-17 20:50:46|1568724646500[30289]30328|E|UploadEnv|getSoDownloadState false
+19-09-17 20:50:46|1568724646500[30289]30328|E|UploadEnv|downloadUploadSo needUpdate:false saveState:false isSoDownloading:false process:30289
+19-09-17 20:50:46|1568724646501[30289]30328|E|UploadEnv|upload so need update
+19-09-17 20:50:46|1568724646501[30289]30328|E|UploadEnv|saveSoDownloadState false
+19-09-17 20:50:46|1568724646502[30289]30328|E|UploadEnv|getRetryCnt ver http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip cnt:1
+19-09-17 20:50:46|1568724646502[30289]30328|E|UploadEnv|recordRetryCnt http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip
+19-09-17 20:50:46|1568724646502[30289]30328|E|UploadEnv|last ver http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip curUrl:http://d3g.qq.com/sngapp/app/update/20180122195952_6159/qzoneuploadso.zip
+19-09-17 20:50:47|1568724646848[30289]30328|E|VIDEO_LOG/QZoneVideoLoader|configVideoSDK
+19-09-17 20:50:47|1568724647206[30289]30328|E|VIDEO_LOG/VideoReporter|timezone=Timezone:GMT+08:00,id:Asia/Shanghai
+19-09-17 20:50:47|1568724647210[30289]30328|E|HttpDnsService|smartHttpDNSServer=182.254.116.117|182.254.118.11
+19-09-17 20:50:47|1568724647215[30289]30328|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:50:47|1568724647216[30289]30328|E|UploadEnv|getSoDownloadState false
+19-09-17 20:50:47|1568724647216[30289]30328|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:50:47|1568724647216[30289]30328|E|UploadEnv|useDownloadedSo false
+19-09-17 20:50:47|1568724647216[30289]30328|E|UploadEnv|loadLibrary c++_shared
+19-09-17 20:50:47|1568724647217[30289]30328|E|LibraryLoader|try to load library: c++_shared from system lib
+19-09-17 20:50:47|1568724647250[30289]30328|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:50:47|1568724647250[30289]30328|E|UploadEnv|getSoDownloadState false
+19-09-17 20:50:47|1568724647250[30289]30328|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:50:47|1568724647251[30289]30328|E|UploadEnv|useDownloadedSo false
+19-09-17 20:50:47|1568724647251[30289]30328|E|UploadEnv|loadLibrary networkbase_v1.3
+19-09-17 20:50:47|1568724647251[30289]30328|E|LibraryLoader|try to load library: networkbase_v1.3 from system lib
+19-09-17 20:50:47|1568724647263[30289]30328|E|UploadEnv|upload so enableLoadSo 0 useDownloadedSo false
+19-09-17 20:50:47|1568724647264[30289]30328|E|UploadEnv|getSoDownloadState false
+19-09-17 20:50:47|1568724647264[30289]30328|E|UploadEnv|upload so getSoDownloadState false
+19-09-17 20:50:47|1568724647264[30289]30328|E|UploadEnv|useDownloadedSo false
+19-09-17 20:50:47|1568724647264[30289]30328|E|UploadEnv|loadLibrary uploadnetwork_v1.3
+19-09-17 20:50:47|1568724647264[30289]30328|E|LibraryLoader|try to load library: uploadnetwork_v1.3 from system lib
+19-09-17 20:50:47|1568724647277[30289]30328|E|[upload2] ConnectionImpl|sIsLibraryPrepared = true isSharedLoaded = true isLib1Loaded = true isLib2Loaded = true
+19-09-17 20:50:47|1568724647277[30289]30328|E|UploadEnv|enableV6Switch:1 type:2
+19-09-17 20:50:47|1568724647367[30289]30328|E|VIDEO_LOG/PlayerConfig|setIPStackType 1
+19-09-17 20:50:47|1568724647378[30289]30328|E|VIDEO_LOG/QZoneVideoLoader|qzvideoipv6 config null
+19-09-17 20:50:47|1568724647641[30289]30331|E|UniKingCardHelper/DeviceInfoUtil|get MTK imsi error:getSubscriberIdGemini [int]
+19-09-17 20:50:48|1568724647761[30289]30331|E|UniKingCardHelper/DeviceInfoUtil|get Zhanxun imsi error:getServiceName [class java.lang.String, int]
+19-09-17 20:50:48|1568724647787[30289]30572|E|DbCacheDatabase.DbCacheService|dbOptiSync=1
+19-09-17 20:50:48|1568724647791[30289]30331|E|UniKingCardHelper|timeoutcfg:2000,delay:2000,querystatus:0,usingMigSdk:true,mLocalMockKingCard=false
+19-09-17 20:50:48|1568724648018[30289]30572|E|QZLog|PRAGMA synchronous=OFF executed
+19-09-17 20:50:48|1568724648028[30289]30572|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:64658216mAttachCount:1
+19-09-17 20:50:48|1568724648058[30289]30328|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:50:48|1568724648114[30289]30572|E|[upload2_QzoneTaskManager]|restore total size:0
+19-09-17 20:50:48|1568724648114[30289]30572|E|[upload2_outbox_QZonePublishQueue]|onRestore taskList size:0
+19-09-17 20:50:48|1568724648115[30289]30572|E|DbCacheDatabase|[DB]8dc4554958d889df109761a5e5cad0fa  attach sessionId:50046784mAttachCount:2
+19-09-17 20:50:48|1568724648137[30289]30572|E|[PhotoAlbum]downloadPhotoAndVideo [DownloadTaskManager]|restore total size:0
+19-09-17 20:50:48|1568724648138[30289]30572|E|[DownloadQueue]|onRestore taskList size:0
+19-09-17 20:50:48|1568724648250[30289]30328|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1824000
+19-09-17 20:50:48|1568724648307[30289]30493|E|TicketManager|set alter tickets for *9100
+19-09-17 20:50:48|1568724648526[30289]30493|E|QZLog|cmd=getLayoutKits, appSeq:2, pkgId:1568724644672
+19-09-17 20:50:48|1568724648527[30289]30466|E|QZLog|completeTask resultCode:0, cmd=QzoneNewService.Feeds.getLayoutKits
+19-09-17 20:50:48|1568724648528[30289]30466|E|FeedUpdate|CanvasUI热更新 succ. 更新个数:0
+19-09-17 20:50:49|1568724648715[30289]30328|E|AVModuleExtract|start LoadExtractedSo: TcHevcDec
+19-09-17 20:50:49|1568724648718[30289]30328|E|AVModuleExtract|LoadExtractedSo = TcHevcDec,result = true
+19-09-17 20:50:49|1568724648737[30289]30328|E|SharpPDec|cooperation.SharpPDec------version:13
+19-09-17 20:50:49|1568724648738[30289]30328|E|QzoneModuleDownloadManager|check download cache failed: md5 verify is not passed.
+19-09-17 20:50:49|1568724648738[30289]30328|E|QzoneModuleDownloadManager|start download--upload.so,priority: false ,startImmediately: false
+19-09-17 20:50:49|1568724649793[30289]30466|E|UniKingCardHelper|emptyinfo!
+19-09-17 20:50:51|1568724651123[30289]30328|E|UploadEnv|upload so download success : /data/user/0/com.tencent.mobileqq/app_qzoneupload
+19-09-17 20:50:51|1568724651241[30289]30328|E|UploadEnv|saveSoDownloadState false
+19-09-17 20:50:51|1568724651390[30289]30328|E|NativeMonitorConfig|process id:2  not in black list
+19-09-17 20:50:51|1568724651413[30289]30328|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:50:51|1568724651432[30289]30328|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:50:51|1568724651436[30289]30328|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:50:51|1568724651437[30289]30328|E|NativeMemoryMonitor|init
+19-09-17 20:51:01|1568724661178[30289]30328|E|QZLog|clear crash count with no crash
+19-09-17 20:51:06|1568724666056[30289]30465|E|QZLog|PRAGMA synchronous=OFF executed
+19-09-17 20:51:06|1568724666071[30289]30465|E|DbCacheDatabase|[DB]6bb61e3b7bce0931da574d19d1d82c88  attach sessionId:118660521mAttachCount:1
+19-09-17 20:51:06|1568724666084[30289]30465|E|DbCacheDatabase.CacheManager|encrypt success mTableName:UserInfoTB
+19-09-17 20:51:06|1568724666090[30289]30465|E|DbCacheDatabase|[DB]6bb61e3b7bce0931da574d19d1d82c88  attach sessionId:242924636mAttachCount:2
+19-09-17 20:51:06|1568724666094[30289]30465|E|DbCacheDatabase.CacheManager|encrypt success mTableName:MachineInfoTB
+19-09-17 21:00:01|com.tencent.mobileqq:qzone|D||QQ_Version: V 8.1.3.4185
+19-09-17 21:00:01|com.tencent.mobileqq:qzone|D|MSF.D.QLog|Nexus 5X 8.1.0 create newLogFile com.tencent.mobileqq_qzone.19.09.17.21.log true

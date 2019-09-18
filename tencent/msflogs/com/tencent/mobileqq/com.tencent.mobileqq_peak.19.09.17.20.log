@@ -1,0 +1,84 @@
+19-09-17 20:38:59|com.tencent.mobileqq:peak|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:38:59|1568723939767[29369]29369|E|AutoMonitor|nextState -1, 0
+19-09-17 20:39:00|1568723939781[29369]29369|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:39:00|1568723939781[29369]29369|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:39:00|1568723939781[29369]29369|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:39:00|1568723939794[29369]29369|E|EIPCConst|connectProvider success
+19-09-17 20:39:00|1568723939823[29369]29369|E|MSF.D.MonitorSocket|phoneDisplays: KOT49H|KTU84P, phoneModels: COOLPAD7295, appid: , version: , currVersion: 8.1.3.4185, process: , com.tencent.mobileqq:peak
+19-09-17 20:39:00|1568723939825[29369]29369|E|MSF.D.MonitorSocket|Socket imple class: java.net.SocksSocketImpl
+19-09-17 20:39:00|1568723939826[29369]29369|E|MSF.D.MonitorSocket| Monitor Socket started.
+19-09-17 20:39:00|1568723939831[29369]29369|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:peak null 433687
+19-09-17 20:39:00|1568723939835[29369]29369|E|UpdatePluginVersion|433687, 433687
+19-09-17 20:39:00|1568723939848[29369]29412|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=0
+19-09-17 20:39:00|1568723939913[29369]29412|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:peak, pid=29369
+19-09-17 20:39:00|1568723940098[29369]29412|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:peak, pid=29369
+19-09-17 20:39:00|1568723940216[29369]29414|E|VcSystemInfo|getMaxCpuFreq of cup4 failed.
+java.io.FileNotFoundException: /sys/devices/system/cpu/cpu4/cpufreq/cpuinfo_max_freq (No such file or directory)
+19-09-17 20:39:00|1568723940216[29369]29414|E|VcSystemInfo|getMaxCpuFreq of cup5 failed.
+java.io.FileNotFoundException: /sys/devices/system/cpu/cpu5/cpufreq/cpuinfo_max_freq (No such file or directory)
+19-09-17 20:39:00|1568723940219[29369]29414|E|VcSystemInfo|[CpuInfo] readMaxCpuFreqFromState. maxFreq=0
+19-09-17 20:39:00|1568723940219[29369]29414|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1440000
+19-09-17 20:39:00|1568723940255[29369]29412|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:39:00|1568723940306[29369]29412|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:39:00|1568723940306[29369]29412|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:39:00|1568723940321[29369]29412|E|AutoMonitor|MTA, cost=15 results: true
+19-09-17 20:39:00|1568723940322[29369]29412|E|mqq|doInit begin withcom.tencent.mobileqq:peak
+19-09-17 20:39:00|1568723940335[29369]29412|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:39:00|1568723940343[29369]29412|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:39:00|1568723940343[29369]29412|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:39:00|1568723940344[29369]29412|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:peak
+19-09-17 20:39:00|1568723940348[29369]29412|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:39:00|1568723940352[29369]29369|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:39:00|1568723940356[29369]29412|E|MSF.D.Proxy|threadID:751, threadName: thread_sp_normal_1 bind service finished true
+19-09-17 20:39:00|1568723940356[29369]29412|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:39:00|1568723940477[29369]29412|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:39:00|1568723940478[29369]29412|E|mqq|newServlet = mqq.app.BuiltInServlet@5552f8f
+19-09-17 20:39:00|1568723940486[29369]29412|E|mqq|[AppRuntime]ToolRuntimePeak (*9100) onCreate,savedInstanceState=null
+19-09-17 20:39:00|1568723940494[29369]29412|E|mqq|doInit finished
+19-09-17 20:39:00|1568723940744[29369]29412|E|MainService|start MSF-Receiver 777
+19-09-17 20:39:01|1568723941159[29369]29437|E|TicketManager|set alter tickets for *9100
+19-09-17 20:39:02|1568723942806[29369]29406|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=1
+19-09-17 20:39:02|1568723942886[29369]29406|E|InitHook|NOT AVA
+19-09-17 20:39:05|1568723945549[29369]29406|E|NativeMonitorConfig|process id:9  not in black list
+19-09-17 20:39:05|1568723945593[29369]29406|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:39:05|1568723945618[29369]29406|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:39:05|1568723945624[29369]29406|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:39:05|1568723945625[29369]29406|E|NativeMemoryMonitor|init
+19-09-17 20:39:57|com.tencent.mobileqq:peak|D||QQ_Version: V 8.1.3.4185
+19-09-17 20:39:57|1568723997346[29584]29584|E|AutoMonitor|nextState -1, 0
+19-09-17 20:39:57|1568723997364[29584]29584|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:39:57|1568723997364[29584]29584|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:39:57|1568723997364[29584]29584|E|PatchLogTag|DexPatchInstaller installDexPatch Not inject patch, status=0
+19-09-17 20:39:58|1568723997381[29584]29584|E|EIPCConst|connectProvider success
+19-09-17 20:39:58|1568723997410[29584]29584|E|MSF.D.MonitorSocket|phoneDisplays: KOT49H|KTU84P, phoneModels: COOLPAD7295, appid: , version: , currVersion: 8.1.3.4185, process: , com.tencent.mobileqq:peak
+19-09-17 20:39:58|1568723997425[29584]29584|E|AutoMonitor|updateVersion ProcFirstLaunchcom.tencent.mobileqq:peak 433687 433687
+19-09-17 20:39:58|1568723997429[29584]29628|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=0
+19-09-17 20:39:58|1568723997488[29584]29628|E|StatisticCollector|initCrashReport process=com.tencent.mobileqq:peak, pid=29584
+19-09-17 20:39:58|1568723997662[29584]29628|E|StatisticCollector|initNativeCrashReport process=com.tencent.mobileqq:peak, pid=29584
+19-09-17 20:39:58|1568723997856[29584]29628|E|StatisticCollector|CrashReport init finished.
+19-09-17 20:39:58|1568723997861[29584]29631|E|VcSystemInfo|[CpuInfo] readMaxCpuFreq end. thisMaxFreq  1824000
+19-09-17 20:39:58|1568723997944[29584]29628|E|PatchLogTag|AbscractPatchItemConfig isValidConfig process not match
+19-09-17 20:39:58|1568723997944[29584]29628|E|PatchLogTag|PatchConfig isValidConfig patchItemConfig null or invalid
+19-09-17 20:39:58|1568723997958[29584]29628|E|AutoMonitor|MTA, cost=13 results: true
+19-09-17 20:39:58|1568723997958[29584]29628|E|mqq|doInit begin withcom.tencent.mobileqq:peak
+19-09-17 20:39:58|1568723997973[29584]29628|E|MsfServiceSdk|lge_nexus 5x create isUseNewProxy=false randomInt=37
+19-09-17 20:39:58|1568723997988[29584]29628|E|MSF.D.NetworkProvider|refresh currentAPN:. received networkInfo: CONNECTED :NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: "SEC507, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: true. ExtraNetInfo: null
+19-09-17 20:39:58|1568723997989[29584]29628|E|MSF.D.NetworkProvider|netchange NONE to WiFi
+19-09-17 20:39:58|1568723997989[29584]29628|E|MsfServiceSdk|MsfServiceSdk init proxyNew=false processName=com.tencent.mobileqq:peak
+19-09-17 20:39:58|1568723997993[29584]29628|E|MSF.D.Proxy|MSF_Alive_Log start service finish
+19-09-17 20:39:58|1568723997997[29584]29584|E|MSF.D.RemoteServiceProxy|onServiceConnected service:ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService}
+19-09-17 20:39:58|1568723998001[29584]29628|E|MSF.D.Proxy|threadID:753, threadName: thread_sp_normal_1 bind service finished true
+19-09-17 20:39:58|1568723998002[29584]29628|E|MobileQQ|createNewRuntime, falsefalse5null
+19-09-17 20:39:58|1568723998096[29584]29628|E|MobileQQ|createNewRuntime, canAutoOK: true
+19-09-17 20:39:58|1568723998098[29584]29628|E|mqq|newServlet = mqq.app.BuiltInServlet@5552f8f
+19-09-17 20:39:58|1568723998138[29584]29628|E|mqq|[AppRuntime]ToolRuntimePeak (*9100) onCreate,savedInstanceState=null
+19-09-17 20:39:58|1568723998147[29584]29628|E|mqq|doInit finished
+19-09-17 20:39:58|1568723998337[29584]29628|E|MainService|start MSF-Receiver 780
+19-09-17 20:39:59|1568723998743[29584]29689|E|TicketManager|set alter tickets for *9100
+19-09-17 20:40:00|1568724000389[29584]29624|E|RdmInit|doStep process=com.tencent.mobileqq:peak, sRdmState=1
+19-09-17 20:40:00|1568724000457[29584]29624|E|InitHook|NOT AVA
+19-09-17 20:40:03|1568724003235[29584]29624|E|NativeMonitorConfig|process id:9  not in black list
+19-09-17 20:40:03|1568724003284[29584]29624|E|SoLoadUtilNew|load c++_shared result:true code 3387394
+19-09-17 20:40:03|1568724003303[29584]29624|E|SoLoadUtilNew|load native-memory-library-lib result:true code 3387394
+19-09-17 20:40:03|1568724003308[29584]29624|E|NativeMemoryMonitor|load so res: true
+19-09-17 20:40:03|1568724003308[29584]29624|E|NativeMemoryMonitor|init

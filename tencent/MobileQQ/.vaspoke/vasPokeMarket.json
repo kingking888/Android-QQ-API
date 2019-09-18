@@ -1,0 +1,104 @@
+{
+  "lottieEnable": true,
+  "itemList": [
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2011",
+      "name": "宝贝球"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2007",
+      "name": "玫瑰花"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2006",
+      "name": "召唤术"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2009",
+      "name": "让你皮"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2005",
+      "name": "结印"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2004",
+      "name": "手雷"
+    },
+    {
+      "status": 1,
+      "feeType": 1,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2003",
+      "name": "勾引"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2001",
+      "name": "抓一下"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2002",
+      "name": "碎屏"
+    },
+    {
+      "status": 1,
+      "feeType": 1,
+      "platformId": 0,
+      "isShow": 1,
+      "minVersion": "7.2.0",
+      "id": "2000",
+      "name": "敲门"
+    },
+    {
+      "status": 1,
+      "feeType": 5,
+      "platformId": 0,
+      "isShow": 0,
+      "minVersion": "7.2.0",
+      "id": "2008",
+      "name": "贺新年"
+    }
+  ]
+}

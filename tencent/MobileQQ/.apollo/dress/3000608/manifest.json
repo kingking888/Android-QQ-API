@@ -1,0 +1,1 @@
+{"source": "qq", "dependencies": [], "platform": "android", "timestampStr": "2019-09-02 11:23:17", "timestamp": 1567394597, "vertices": [{"count": 614, "name": "socks"}], "type": "socks", "bundleName": "dress_t_1567394597", "triangles": [{"count": 1072, "name": "socks"}], "assets": ["dress.bin", "socks_albedo.etc", "socks_normal.etc"]}

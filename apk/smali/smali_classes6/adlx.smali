@@ -1,0 +1,49 @@
+.class public Ladlx;
+.super Ljava/lang/Object;
+.source "ProGuard"
+
+# interfaces
+.implements Lmqq/app/QQPermissionCallback;
+
+
+# instance fields
+.field final synthetic a:Lcom/tencent/mobileqq/activity/aio/audiopanel/CommonRecordSoundPanel;
+
+
+# direct methods
+.method public constructor <init>(Lcom/tencent/mobileqq/activity/aio/audiopanel/CommonRecordSoundPanel;)V
+    .locals 0
+
+    .prologue
+    .line 699
+    iput-object p1, p0, Ladlx;->a:Lcom/tencent/mobileqq/activity/aio/audiopanel/CommonRecordSoundPanel;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public deny(I[Ljava/lang/String;[I)V
+    .locals 1
+
+    .prologue
+    .line 707
+    iget-object v0, p0, Ladlx;->a:Lcom/tencent/mobileqq/activity/aio/audiopanel/CommonRecordSoundPanel;
+
+    iget-object v0, v0, Lcom/tencent/mobileqq/activity/aio/audiopanel/CommonRecordSoundPanel;->a:Lcom/tencent/mobileqq/app/BaseActivity;
+
+    invoke-static {v0, p2, p3}, Lazdh;->a(Landroid/app/Activity;[Ljava/lang/String;[I)Lazgm;
+
+    .line 708
+    return-void
+.end method
+
+.method public grant(I[Ljava/lang/String;[I)V
+    .locals 0
+
+    .prologue
+    .line 703
+    return-void
+.end method
